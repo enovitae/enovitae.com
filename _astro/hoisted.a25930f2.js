@@ -1,0 +1,1 @@
+import"./hoisted.b8b98b82.js";import"./astro-assets-services.e658a7bc.js";const o=document.getElementById("carousel"),l=document.getElementsByClassName("carousel-item");let e=0;setInterval(()=>{const t=window.innerWidth*2*++e/2+100;o.scrollTo(t,0),e===l.length&&(e=0,o.scrollTo(0,0))},1e4);
