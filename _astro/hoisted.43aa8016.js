@@ -1,0 +1,1 @@
+import"./hoisted.05e54094.js";const l=document.getElementById("carousel"),t=document.getElementsByClassName("carousel-item");let e=0;setInterval(()=>{const o=window.innerWidth*2*++e/2+100;l.scrollTo(o,0),e===t.length&&(e=0,l.scrollTo(0,0))},1e4);
