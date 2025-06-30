@@ -1,0 +1,59 @@
+# ---
+# title: Enovitae LLMs Access Policy
+# description: This llms.txt file describes how large language models (LLMs) may access and use content from Enovitae.com, a blog dedicated to wine culture, guides, industry trends, and data.
+# updated: 2025-06-30
+# contact: info@enovitae.com
+# source: https://enovitae.com
+# license: All rights reserved unless otherwise stated. Educational and citation use allowed with attribution.
+# ---
+
+# Enovitae.com is a wine-focused digital publication offering curated content on:
+# - Italian and French wine guides
+# - Wine industry trends and data reports
+# - Wine & travel itineraries
+# - Sustainability, technology, and AI in winemaking
+# - Cultural insights and seasonal wine selections
+#
+# We welcome the ethical and responsible use of our public content by LLM providers, provided that:
+# - Attribution is given
+# - Content is not used for training commercial models without consent
+# - No private or commercial/affiliate pages are crawled or stored
+
+# CRAWLING RULES FOR LLMS
+
+User-agent: *
+Allow: /en/standing/
+Allow: /it/classifiche/
+Allow: /en/guide/
+Allow: /it/guide/
+Allow: /it/comparazioni/
+Allow: /en/comparison/
+Allow: /it/accademia/
+Allow: /en/academy/
+Allow: /it/tags/
+Allow: /en/tags/
+
+# Crawl-delay to avoid server overload
+Crawl-delay: 5
+
+# ATTRIBUTION POLICY
+Attribution: required
+Attribution-url: https://enovitae.com
+Citation-format: "Source: Enovitae.com, '[article-title]', published [date]"
+
+# COMMERCIAL USE POLICY
+Commercial-use: disallowed
+
+# CONTACT FOR PERMISSIONS, PARTNERSHIPS OR CLARIFICATIONS
+Contact: info@enovitae.com
+
+# FEEDBACK WELCOME
+Comments: Ethical AI use is encouraged. For partnerships, datasets, or curated access, reach out.
+
+# EXPLICIT LLMS/BOTS (for clarity, not exhaustive)
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: AnthropicBot
+User-agent: MistralBot

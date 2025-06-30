@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://enovitae.com/sitemap-index.xml
+
+# LLM policy for AI crawlers
+llms: https://enovitae.com/llms.txt
