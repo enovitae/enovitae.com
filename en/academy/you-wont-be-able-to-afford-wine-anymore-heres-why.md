@@ -1,0 +1,73 @@
+---
+title: "You won’t be able to afford your favorite wine anymore — Here’s why\""
+description: "Explore how rising wine prices and tariffs disrupt the wine industry and alter consumer behavior, with insights from Jessica Dupuy's article on Forbes."
+author: "Enovitae Staff"
+published: 2025-01-25
+tags: ["wine industry", "prices", "tariffs", "wine consumption"]
+url: https://enovitae.com/en/academy/you-wont-be-able-to-afford-wine-anymore-heres-why
+source: Enovitae.com
+---
+
+## How rising prices and tariffs shape the wine industry and impact consumption
+
+The wine industry is no stranger to economic fluctuations, but the potential for new tariffs on imported wines is creating a ripple effect that could reshape the market. Drawing insights from Jessica Dupuy's Forbes article, we delve into how rising prices, driven by tariffs and supply chain costs, are impacting the industry and consumer behavior.
+
+---
+
+### The economics of wine pricing: tariffs and beyond
+
+Jessica Dupuy highlights how tariffs implemented in 2019, such as the 25% duty on wines from France, Germany, Spain, and the UK, drastically increased costs throughout the supply chain. This resulted in higher prices for consumers, decreased wine imports, and disrupted market dynamics.
+
+- **The three-tier system under strain**: The wine industry's intricate distribution system—producers, importers, distributors, and retailers—bears the brunt of tariffs. A 20% tariff imposed at the importer level can cascade into a 35% or higher price increase for the end consumer.
+- **Real-world impact**: A bottle of wine purchased at €7 ($7.30) could see its retail price rise from $29.99 to $38.99, with corresponding increases on restaurant wine lists. These higher costs limit consumer access to imported wines and discourage consumption.
+
+---
+
+### The impact on consumers and producers
+
+1. **Higher prices, reduced consumption**
+   As tariffs and additional costs drive up prices, consumers may turn to lower-priced alternatives or reduce their overall wine consumption. For U.S. consumers, this means fewer European wines on shelves and wine lists, affecting the diversity of options available.
+
+2. **Domestic producers also feel the pinch**
+   While domestic wineries might benefit short-term from decreased competition, the long-term impacts of a weakened distribution network harm both domestic and imported wines. Tariffs disrupt the ability of distributors to invest in marketing and logistics, limiting the opportunities for smaller domestic producers to grow.
+
+3. **Cultural and gastronomic impact**
+   European wines like [Champagne](/en/academy/challenging-year-champagne-2024/), Barolo, and Chianti are irreplaceable in the culinary and cultural fabric. As Ben Aneff, president of the U.S. Wine Trade Alliance, explains, "You can't pair a Napa Cabernet with a bistecca alla Fiorentina the way a Chianti Classico or [Brunello di Montalcino](/en/comparison/barolo-vs-brunello/) would."
+
+---
+
+### Supply chain challenges: more than just wine
+
+Tariffs affect more than just the wine itself. Many materials essential to wine production in the U.S., including bottles, corks, closures, and labels, are imported. Higher costs on these materials further inflate production expenses for domestic wineries, pushing prices higher across the board.
+
+- **Logistical hurdles**: Delays, increased bureaucracy, and peak-season disruptions compound the strain on producers, particularly small-scale operations.
+- **Environmental concerns**: Producing wine that remains unsold due to price sensitivity leads to resource wastage, including water and energy.
+
+---
+
+### Advocacy and the path forward
+
+Jessica Dupuy’s article underscores the importance of proactive advocacy within the wine industry. Groups like the U.S. Wine Trade Alliance and WineAmerica are actively lobbying policymakers to reconsider tariffs and highlight their negative impact on U.S. businesses.
+
+Key recommendations for the industry include:
+
+- **Storytelling to policymakers**: Sharing tangible examples of how tariffs harm local businesses can influence decisions at the legislative level.
+- **Collaboration across the supply chain**: Importers, distributors, and producers must work together to optimize pricing strategies and ensure the resilience of the wine trade.
+- **Consumer education**: Explaining why prices are rising can build trust and understanding among consumers.
+
+---
+
+### Conclusion: A resilient but fragile ecosystem
+
+The wine industry’s response to rising prices and potential tariffs reveals its resilience, but it also underscores vulnerabilities within its complex ecosystem. As Jessica Dupuy writes, "Wine tariffs do more damage here at home than abroad," disrupting businesses across the supply chain and reducing consumer choice.
+
+For now, the industry must stay informed, prepared, and engaged with policymakers. While challenges loom, the collective adaptability of producers, distributors, and consumers offers hope for navigating these uncertain times. As we await further developments, it’s clear that the industry’s ability to advocate for itself will be crucial in shaping its future.
+
+---
+
+## Source
+
+Insights and data derived from Jessica Dupuy’s article published on
+
+- [*Forbes*](https://www.forbes.com/sites/jessicadupuy/2025/01/22/wine-tariffs-a-complicated-problem-with-uncertain-outcomes/)
+- [*Jessica's website*](https://www.jessicadupuy.com/)
