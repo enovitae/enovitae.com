@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-02-15
 tags: ["vino", "champagne", "tipi di champagne", "dosaggio champagne", "migliori annate champagne"]
 url: https://enovitae.com/it/accademia/caratteristiche-champagne
+cover_image: https://enovitae.com/_astro/champagne-types.1f5mXn9G_Z20QyTd.webp
 source: Enovitae.com
 ---
 

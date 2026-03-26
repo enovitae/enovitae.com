@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-02-07
 tags: ["champagne", "prosecco", "spumante"]
 url: https://enovitae.com/it/comparazioni/champagne-vs-prosecco
+cover_image: https://enovitae.com/_astro/champagne-prosecco.BeP0eNrp_Z2fciSz.webp
 source: Enovitae.com
 ---
 

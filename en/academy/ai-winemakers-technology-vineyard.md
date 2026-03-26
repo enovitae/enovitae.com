@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-01-24
 tags: ["wine", "artificial-intelligence", "viticulture"]
 url: https://enovitae.com/en/academy/ai-winemakers-technology-vineyard
+cover_image: https://enovitae.com/_astro/ai-winemakers.G024F1vD_1DjzlH.webp
 source: Enovitae.com
 ---
 

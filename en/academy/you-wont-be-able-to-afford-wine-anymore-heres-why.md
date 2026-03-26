@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-01-25
 tags: ["wine industry", "prices", "tariffs", "wine consumption"]
 url: https://enovitae.com/en/academy/you-wont-be-able-to-afford-wine-anymore-heres-why
+cover_image: https://enovitae.com/_astro/wine-prices-impact-tariffs.BMTBXwBX_115TEY.webp
 source: Enovitae.com
 ---
 

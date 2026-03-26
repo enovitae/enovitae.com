@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-01-24
 tags: ["vino", "intelligenza-artificiale", "viticoltura"]
 url: https://enovitae.com/it/accademia/ia-viticoltori-tecnologia-vigneto
+cover_image: https://enovitae.com/_astro/ai-winemakers.G024F1vD_1DjzlH.webp
 source: Enovitae.com
 ---
 

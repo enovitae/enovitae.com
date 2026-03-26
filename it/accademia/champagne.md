@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-02-08
 tags: ["vino", "champagne", "bollicine", "francia"]
 url: https://enovitae.com/it/accademia/champagne
+cover_image: https://enovitae.com/_astro/champagne.Cwig1Sop_ZN9kxF.webp
 source: Enovitae.com
 ---
 

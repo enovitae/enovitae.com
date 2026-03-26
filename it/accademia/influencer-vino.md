@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-01-24
 tags: ["vino", "influencer"]
 url: https://enovitae.com/it/accademia/influencer-vino
+cover_image: https://enovitae.com/_astro/influencer_wine.DG4w-5X0_Z1bOXOH.webp
 source: Enovitae.com
 ---
 

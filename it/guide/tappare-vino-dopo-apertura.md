@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-01-26
 tags: ["wine", "preservation", "coravin"]
 url: https://enovitae.com/it/guide/tappare-vino-dopo-apertura
+cover_image: https://enovitae.com/_astro/wine-cork.2DqDcK-6_1zRgBk.webp
 source: Enovitae.com
 ---
 

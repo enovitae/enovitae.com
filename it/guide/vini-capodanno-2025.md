@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-12-31
 tags: ["capodanno", "vini italiani", "vini francesi", "chianti", "barolo", "brunello", "champagne"]
 url: https://enovitae.com/it/guide/vini-capodanno-2025
+cover_image: https://enovitae.com/_astro/vini-capodanno-2024.DUsQH_z6_Z1Ft5lR.webp
 source: Enovitae.com
 ---
 

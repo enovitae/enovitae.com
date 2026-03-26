@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-10-16
 tags: ["biologico", "solfiti", "sostenibile"]
 url: https://enovitae.com/it/accademia/vino-biologico
+cover_image: https://enovitae.com/_astro/vino-biologico.EL2tkOC3_Z1Fvt3f.webp
 source: Enovitae.com
 ---
 

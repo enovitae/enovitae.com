@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-07-10
 tags: ["clima", "strategie", "tecnologie"]
 url: https://enovitae.com/it/accademia/vino-in-lattina
+cover_image: https://enovitae.com/_astro/vino-lattina.iRbSsa_S_26IaJk.webp
 source: Enovitae.com
 ---
 

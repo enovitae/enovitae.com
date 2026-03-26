@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["wine", "rankings"]
 url: https://enovitae.com/en/standing/10-best-tuscan-reds
+cover_image: https://enovitae.com/_astro/vino-rosso.CZ3O3FIF_1n8kX8.webp
 source: Enovitae.com
 ---
 

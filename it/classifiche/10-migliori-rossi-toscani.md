@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["vino", "classifiche"]
 url: https://enovitae.com/it/classifiche/10-migliori-rossi-toscani
+cover_image: https://enovitae.com/_astro/vino-rosso.CZ3O3FIF_1n8kX8.webp
 source: Enovitae.com
 ---
 

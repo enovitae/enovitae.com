@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["conservazione"]
 url: https://enovitae.com/it/accademia/conservare-il-vino
+cover_image: https://enovitae.com/_astro/vino-in-cantinetta.B_29EUF8_Z1hWw1k.webp
 source: Enovitae.com
 ---
 

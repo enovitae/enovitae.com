@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-01-25
 tags: ["industria vinicola", "prezzi del vino", "tariffe", "consumo vino"]
 url: https://enovitae.com/it/accademia/non-potrai-piu-permetterti-vino-preferito-ecco-perche
+cover_image: https://enovitae.com/_astro/wine-prices-impact-tariffs.BMTBXwBX_115TEY.webp
 source: Enovitae.com
 ---
 

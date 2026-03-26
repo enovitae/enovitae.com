@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-08-22
 tags: ["champagne", "french wines", "wine market", "prices 2025", "french bubbles"]
 url: https://enovitae.com/en/guide/champagne-2025-high-prices-rare-bottles
+cover_image: https://enovitae.com/_astro/champagne-2025-high-prices-rare-bottles.CSDaRPZm_16qplN.webp
 source: Enovitae.com
 ---
 

@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-22
 tags: ["advice", "dinner", "budget"]
 url: https://enovitae.com/en/guide/wine-under-20-euros
+cover_image: https://enovitae.com/_astro/vino-20-euro.li-9IQ8f_Z26Ted1.webp
 source: Enovitae.com
 ---
 

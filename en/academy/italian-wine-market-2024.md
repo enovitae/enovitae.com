@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-09-09
 tags: ["market", "italy", "forecasts", "2024"]
 url: https://enovitae.com/en/academy/italian-wine-market-2024
+cover_image: https://enovitae.com/_astro/market_vino_italiano_2024.Be4ynk4V_2B8MT.webp
 source: Enovitae.com
 ---
 
@@ -20,7 +21,7 @@ According to the study, wine sales in Italy are expected to increase by +2.6% in
 
 Despite overall sales growth, 2023 saw a decline in volumes sold (-4.5%). However, there is a clear trend toward higher-quality wines: the ultra-premium segment grew by +12.7%. This trend reflects market polarization, where consumers are shifting toward high-end products, leaving mid-tier wines behind (-10.1%).
 
-![Analysis of the Italian wine market in 2024](../../../assets/images/infografica_vino_italiano_2024_amb.png)
+![Analysis of the Italian wine market in 2024](https://enovitae.com/_astro/infografica_vino_italiano_2024_amb.iutuXnCZ_Z1xsCpi.webp)
 
 ### Growth in wine tourism and sustainability
 

@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-12-31
 tags: ["new year", "sparkling wines", "chianti", "barolo", "brunello", "champagne"]
 url: https://enovitae.com/en/guide/new-years-eve-sparkling-wines-2025
+cover_image: https://enovitae.com/_astro/vini-capodanno-2024.DUsQH_z6_Z1Ft5lR.webp
 source: Enovitae.com
 ---
 

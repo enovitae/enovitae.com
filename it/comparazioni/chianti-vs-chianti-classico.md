@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-11-15
 tags: ["chianti", "toscana"]
 url: https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico
+cover_image: https://enovitae.com/_astro/chianti-orcia.C1QKZ2ug_Z11PuDW.webp
 source: Enovitae.com
 ---
 

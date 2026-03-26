@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-02-02
 tags: ["spumante", "brut", "dosaggio"]
 url: https://enovitae.com/it/accademia/brut-dosaggi-champagne-spumanti
+cover_image: https://enovitae.com/_astro/vino-dosaggio.Dvv7Cc-u_AwI9p.webp
 source: Enovitae.com
 ---
 

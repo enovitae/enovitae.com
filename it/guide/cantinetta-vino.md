@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-02-28
 tags: ["cantinetta", "conservazione"]
 url: https://enovitae.com/it/guide/cantinetta-vino
+cover_image: https://enovitae.com/_astro/cantinetta-vini.CaPpf7KS_26nda6.webp
 source: Enovitae.com
 ---
 

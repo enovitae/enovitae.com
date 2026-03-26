@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-04-22
 tags: ["tasting", "wine", "enology"]
 url: https://enovitae.com/en/guide/wine-tasting-guide-secrets-good-glass
+cover_image: https://enovitae.com/_astro/degustazione-vino.ClCaVqYB_24mmkb.webp
 source: Enovitae.com
 ---
 

@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-11-10
 tags: ["vino", "comparazioni"]
 url: https://enovitae.com/it/comparazioni/barolo-vs-brunello
+cover_image: https://enovitae.com/_astro/cantina-botti.BFt4m3M-_ZKqI68.webp
 source: Enovitae.com
 ---
 

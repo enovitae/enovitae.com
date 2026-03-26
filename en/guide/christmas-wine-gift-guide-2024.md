@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-12-20
 tags: ["christmas", "gift ideas", "italian wines", "french wines", "champagne"]
 url: https://enovitae.com/en/guide/christmas-wine-gift-guide-2024
+cover_image: https://enovitae.com/_astro/christmas-wine-gift-guide-2024.BhTTPDuP_Y6l8O.webp
 source: Enovitae.com
 ---
 

@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-01-30
 tags: ["san valentino", "vino", "romantico"]
 url: https://enovitae.com/it/guide/vino-san-valentino
+cover_image: https://enovitae.com/_astro/valentine.C9HvXjbj_n1dSG.webp
 source: Enovitae.com
 ---
 

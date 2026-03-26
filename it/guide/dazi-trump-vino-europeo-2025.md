@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-03-21
 tags: ["notizie vino", "guerra commerciale", "vino europeo", "dazi", "Trump"]
 url: https://enovitae.com/it/guide/dazi-trump-vino-europeo-2025
+cover_image: https://enovitae.com/_astro/france-bordeaux-cave.7JKDD5ct_ZNOqUm.webp
 source: Enovitae.com
 ---
 

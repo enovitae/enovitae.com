@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-01-24
 tags: ["wine", "sugar"]
 url: https://enovitae.com/en/academy/sugar-in-wine
+cover_image: https://enovitae.com/_astro/sweet-wine.fu1ef3GE_ZxdIuP.webp
 source: Enovitae.com
 ---
 

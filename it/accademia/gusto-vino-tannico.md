@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["tannino", "degustazione"]
 url: https://enovitae.com/it/accademia/gusto-vino-tannico
+cover_image: https://enovitae.com/_astro/decanter.CB-xh2Gc_2ozKE.webp
 source: Enovitae.com
 ---
 

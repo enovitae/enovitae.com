@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-11-21
 tags: ["francia"]
 url: https://enovitae.com/it/accademia/vino-francese-10-caratteristiche
+cover_image: https://enovitae.com/_astro/vino-francese.DZ5fXK9T_Z1Fxuvy.webp
 source: Enovitae.com
 ---
 

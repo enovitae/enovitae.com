@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-04-22
 tags: ["degustazione", "vino", "enologia"]
 url: https://enovitae.com/it/guide/guida-degustazione-vino-apprezzare-buon-calice
+cover_image: https://enovitae.com/_astro/degustazione-vino.ClCaVqYB_24mmkb.webp
 source: Enovitae.com
 ---
 

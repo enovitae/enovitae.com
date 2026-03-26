@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-08-30
 tags: ["clima", "strategie"]
 url: https://enovitae.com/it/accademia/cambiamento-climatico-e-vino
+cover_image: https://enovitae.com/_astro/vino-e-clima.BlfVj8PL_1FYx5k.webp
 source: Enovitae.com
 ---
 

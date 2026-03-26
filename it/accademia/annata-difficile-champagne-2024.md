@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-10-03
 tags: ["mercato", "champagne", "vendemmia 2024", "prezzi"]
 url: https://enovitae.com/it/accademia/annata-difficile-champagne-2024
+cover_image: https://enovitae.com/_astro/annata-champagne-2024.B2gL3F6-_Z1Yztb1.webp
 source: Enovitae.com
 ---
 

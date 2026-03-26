@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-07-23
 tags: ["clima", "strategie", "tecnologie"]
 url: https://enovitae.com/it/accademia/impatto-co2-vino
+cover_image: https://enovitae.com/_astro/vino-sostenibilita.D6WTLKTK_1EvCn6.webp
 source: Enovitae.com
 ---
 

@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-11-13
 tags: ["california wine", "wine crisis", "wine market 2025", "oversupply", "grape harvest"]
 url: https://enovitae.com/en/guide/california-wine-crisis-2025-oversupply-collapse
+cover_image: https://enovitae.com/_astro/california-wine-crisis-2025._ay-N6fD_3GLlA.webp
 source: Enovitae.com
 ---
 
@@ -73,7 +74,7 @@ But innovation isn’t keeping pace with the speed of the decline.
 
 ---
 
-![Foto di Alfo Medeiros: https://www.pexels.com/it-it/foto/percorso-piante-impianti-rurale-11555875/](../../../assets/images/napa_valley.jpg)
+![Foto di Alfo Medeiros: https://www.pexels.com/it-it/foto/percorso-piante-impianti-rurale-11555875/](https://enovitae.com/_astro/napa_valley.Dg0Uytgr_KBTQ3.webp)
 _[Foto di Alfo Medeiros](https://www.pexels.com/it-it/foto/percorso-piante-impianti-rurale-11555875/)_
 
 ## Perfect weather, disastrous timing: the harvest is _too_ good

@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-09-18
 tags: ["mercato", "vino biologico", "italia", "sostenibilità", "2024"]
 url: https://enovitae.com/it/accademia/mercato-vino-biologico-italia-2010-2024
+cover_image: https://enovitae.com/_astro/organic-wine-market-italy.DFz2igt__ovs4v.webp
 source: Enovitae.com
 ---
 

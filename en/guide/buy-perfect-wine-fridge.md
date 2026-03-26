@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-02-28
 tags: ["wine fridge", "preserve"]
 url: https://enovitae.com/en/guide/buy-perfect-wine-fridge
+cover_image: https://enovitae.com/_astro/cantinetta-vini.CaPpf7KS_26nda6.webp
 source: Enovitae.com
 ---
 

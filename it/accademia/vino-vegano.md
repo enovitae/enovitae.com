@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-10-08
 tags: ["biologico", "vegano"]
 url: https://enovitae.com/it/accademia/vino-vegano
+cover_image: https://enovitae.com/_astro/vino-vegano.C4zOdXcX_p2lib.webp
 source: Enovitae.com
 ---
 

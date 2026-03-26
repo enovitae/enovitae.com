@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["barolo", "nebbiolo", "piedmont"]
 url: https://enovitae.com/en/comparison/barolo-vs-nebbiolo
+cover_image: https://enovitae.com/_astro/nebbiolo-uva.Y-dpF94p_bSx6l.webp
 source: Enovitae.com
 ---
 

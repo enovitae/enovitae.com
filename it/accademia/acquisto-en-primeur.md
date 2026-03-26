@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-18
 tags: ["acquisto", "vendita", "primeur"]
 url: https://enovitae.com/it/accademia/acquisto-en-primeur
+cover_image: https://enovitae.com/_astro/negozio-vini.1x0ntchs_2wxp9D.webp
 source: Enovitae.com
 ---
 

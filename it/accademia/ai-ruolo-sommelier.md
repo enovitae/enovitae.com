@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-01-24
 tags: ["vino", "intelligenza-artificiale", "sommelier"]
 url: https://enovitae.com/it/accademia/ai-ruolo-sommelier
+cover_image: https://enovitae.com/_astro/ai-wine.CDqwKjN0_Ygoh6.webp
 source: Enovitae.com
 ---
 

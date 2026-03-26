@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2024-01-29
 tags: ["bottles", "preservation"]
 url: https://enovitae.com/en/academy/wine-bottles
+cover_image: https://enovitae.com/_astro/bottles.DnELVrDI_1vyWCe.webp
 source: Enovitae.com
 ---
 

@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-02-12
 tags: ["san valentino", "vino e cibo", "vini economici", "cena romantica"]
 url: https://enovitae.com/it/guide/vino-san-valentino-budget
+cover_image: https://enovitae.com/_astro/saint-valentine.LAOhTg7V_ZO067O.webp
 source: Enovitae.com
 ---
 

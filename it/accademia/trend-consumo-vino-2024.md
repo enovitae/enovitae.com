@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-08-31
 tags: ["statistica", "previsioni", "consumi globali"]
 url: https://enovitae.com/it/accademia/trend-consumo-vino-2024
+cover_image: https://enovitae.com/_astro/global-wine-consumption.Cy5pQksp_Z1a6glM.webp
 source: Enovitae.com
 ---
 

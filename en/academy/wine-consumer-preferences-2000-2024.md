@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-09-04
 tags: ["data", "analysis", "preferences", "trends"]
 url: https://enovitae.com/en/academy/wine-consumer-preferences-2000-2024
+cover_image: https://enovitae.com/_astro/evolution-wine-consuming.DAAAfo5q_6j0bi.webp
 source: Enovitae.com
 ---
 

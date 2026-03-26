@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-02-07
 tags: ["vino", "guide"]
 url: https://enovitae.com/it/guide/che-vino-regalo
+cover_image: https://enovitae.com/_astro/che-vino-regalo.DPGyIjzs_YH1XG.webp
 source: Enovitae.com
 ---
 

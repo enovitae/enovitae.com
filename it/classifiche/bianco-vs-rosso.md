@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["bianco", "rosso"]
 url: https://enovitae.com/it/classifiche/bianco-vs-rosso
+cover_image: https://enovitae.com/_astro/bianco-vs-rosso.BGJNks2V_ZWiLdx.webp
 source: Enovitae.com
 ---
 

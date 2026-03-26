@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-02-12
 tags: ["valentine's day", "wine pairing", "budget wines", "romantic dinner", "champagne"]
 url: https://enovitae.com/en/guide/valentines-day-wine-budget
+cover_image: https://enovitae.com/_astro/saint-valentine.LAOhTg7V_ZO067O.webp
 source: Enovitae.com
 ---
 

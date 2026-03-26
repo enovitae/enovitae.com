@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2024-09-09
 tags: ["mercato", "italia", "previsioni", "2024"]
 url: https://enovitae.com/it/accademia/mercato-vino-italia-2024
+cover_image: https://enovitae.com/_astro/market_vino_italiano_2024.Be4ynk4V_2B8MT.webp
 source: Enovitae.com
 ---
 
@@ -20,7 +21,7 @@ Secondo l'indagine, le vendite di vino in Italia sono previste in aumento del +2
 
 Nonostante la crescita complessiva delle vendite, il 2023 ha registrato una diminuzione dei volumi venduti (-4,5%). Tuttavia, si osserva una tendenza verso il consumo di vini di qualità superiore: i vini di fascia molto alta hanno registrato un aumento del +12,7%. Questo trend riflette una polarizzazione del mercato, dove i consumatori preferiscono optare per prodotti di alta gamma, lasciando indietro le fasce intermedie (-10,1%).
 
-![Analisi del mercato vinicolo italiano nel 2024](../../../assets/images/infografica_vino_italiano_2024_amb.png)
+![Analisi del mercato vinicolo italiano nel 2024](https://enovitae.com/_astro/infografica_vino_italiano_2024_amb.iutuXnCZ_Z1xsCpi.webp)
 
 ### Crescita dell'enoturismo e della sostenibilità
 

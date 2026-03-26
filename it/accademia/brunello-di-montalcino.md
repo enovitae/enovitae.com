@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["brunello", "montalcino", "toscana"]
 url: https://enovitae.com/it/accademia/brunello-di-montalcino
+cover_image: https://enovitae.com/_astro/cantinetta.BvC5oWTv_2pkD8.webp
 source: Enovitae.com
 ---
 

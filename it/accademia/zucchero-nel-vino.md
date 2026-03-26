@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-01-24
 tags: ["vino", "zucchero"]
 url: https://enovitae.com/it/accademia/zucchero-nel-vino
+cover_image: https://enovitae.com/_astro/sweet-wine.fu1ef3GE_ZxdIuP.webp
 source: Enovitae.com
 ---
 

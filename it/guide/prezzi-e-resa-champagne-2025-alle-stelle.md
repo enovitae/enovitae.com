@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-08-22
 tags: ["champagne", "vini francesi", "Mercato del vino", "Prezzi 2025", "Bollicine francesi"]
 url: https://enovitae.com/it/guide/prezzi-e-resa-champagne-2025-alle-stelle
+cover_image: https://enovitae.com/_astro/champagne-2025-high-prices-rare-bottles.CSDaRPZm_16qplN.webp
 source: Enovitae.com
 ---
 

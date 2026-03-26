@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["white", "red"]
 url: https://enovitae.com/en/comparison/white-vs-red
+cover_image: https://enovitae.com/_astro/bianco-vs-rosso.BGJNks2V_ZWiLdx.webp
 source: Enovitae.com
 ---
 

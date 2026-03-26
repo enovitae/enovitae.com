@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-03-21
 tags: ["wine news", "trade war", "European wine", "tariffs", "Trump"]
 url: https://enovitae.com/en/guide/trump-tariff-european-wine-2025
+cover_image: https://enovitae.com/_astro/france-bordeaux-cave.7JKDD5ct_ZNOqUm.webp
 source: Enovitae.com
 ---
 

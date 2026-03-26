@@ -6,6 +6,7 @@ author: "Enovitae Staff"
 published: 2023-06-09
 tags: ["consigli", "cena"]
 url: https://enovitae.com/it/guide/che-vino-portare-a-cena
+cover_image: https://enovitae.com/_astro/cena-vino.rT9CUh80_26ywqG.webp
 source: Enovitae.com
 ---
 

@@ -6,6 +6,7 @@ author: "Staff Enovitae"
 published: 2024-02-08
 tags: ["vino", "champagne", "chef de cave"]
 url: https://enovitae.com/it/accademia/chef-de-cave-champagne
+cover_image: https://enovitae.com/_astro/champagne-cave.Cp7HtIQr_Z25YII2.webp
 source: Enovitae.com
 ---
 

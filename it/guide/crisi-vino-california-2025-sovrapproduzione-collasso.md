@@ -5,6 +5,7 @@ author: "Enovitae Staff"
 published: 2025-11-13
 tags: ["mercato del vino", "vino california", "crisi vino 2025", "sovrapproduzione uva", "vino americano"]
 url: https://enovitae.com/it/guide/crisi-vino-california-2025-sovrapproduzione-collasso
+cover_image: https://enovitae.com/_astro/california-wine-crisis-2025._ay-N6fD_3GLlA.webp
 source: Enovitae.com
 ---
 
@@ -75,7 +76,7 @@ Ma il cambiamento dei consumi è strutturale, non passeggero.
 
 ---
 
-![Foto di Alfo Medeiros: https://www.pexels.com/it-it/foto/percorso-piante-impianti-rurale-11555875/](../../../assets/images/napa_valley.jpg)
+![Foto di Alfo Medeiros: https://www.pexels.com/it-it/foto/percorso-piante-impianti-rurale-11555875/](https://enovitae.com/_astro/napa_valley.Dg0Uytgr_KBTQ3.webp)
 _[Foto di Alfo Medeiros](https://www.pexels.com/it-it/foto/percorso-piante-impianti-rurale-11555875/)_
 
 ## Un clima troppo perfetto accelera il disastro: una vendemmia enorme nel momento sbagliato
