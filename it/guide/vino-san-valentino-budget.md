@@ -27,7 +27,7 @@ Molti pensano che il prezzo sia sinonimo di qualità, ma non è sempre così! Al
 
 #### **A. Bollicine (festeggia senza spendere una fortuna)**
 
-Se vuoi brindare con qualcosa di frizzante ma senza pagare **€40+ per uno [Champagne](/it/accademia/caratteristiche-champagne/)**, prova:
+Se vuoi brindare con qualcosa di frizzante ma senza pagare **€40+ per uno [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md)**, prova:
 
 - **Prosecco Superiore DOCG (Italia)** – Fresco e fruttato (€12–€20)
 - **Crémant de Bourgogne (Francia)** – Alternativa allo Champagne elegante ed economica (€15–€25)
@@ -82,7 +82,7 @@ Non serve un vino da **€50+** per fare colpo!
 ### 5. Vino & cioccolato: l’accoppiata perfetta 🍫🍷
 
 L’abbinamento vino e cioccolato non è sempre facile, ma ecco qualche consiglio:  
-🍷 **Rossi secchi ([Chianti](/it/comparazioni/chianti-vs-chianti-classico/), Côtes du Rhône)** → Cioccolato fondente (70% o più)  
+🍷 **Rossi secchi ([Chianti](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.md), Côtes du Rhône)** → Cioccolato fondente (70% o più)  
 🍷 **Vini dolci (Moscato d’Asti, Porto)** → Cioccolato al latte o bianco  
 🍷 **Champagne o Prosecco** → Fragole ricoperte di cioccolato
 

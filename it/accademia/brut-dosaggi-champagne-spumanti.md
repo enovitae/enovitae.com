@@ -10,7 +10,7 @@ cover_image: https://enovitae.com/_astro/vino-dosaggio.Dvv7Cc-u_AwI9p.webp
 source: Enovitae.com
 ---
 
-Il termine "brut" è ampiamente utilizzato nel mondo dello champagne e degli spumanti, ma cosa indica esattamente? In questo articolo, esploreremo il significato di "brut", approfondiremo i diversi dosaggi di zucchero presenti negli [champagne](/it/accademia/champagne/) e negli spumanti, e scopriremo le differenze tra i vari livelli di dolcezza. Inoltre, forniremo consigli di abbinamento per ciascun dosaggio per aiutarti a scegliere il perfetto spumante per ogni occasione.
+Il termine "brut" è ampiamente utilizzato nel mondo dello champagne e degli spumanti, ma cosa indica esattamente? In questo articolo, esploreremo il significato di "brut", approfondiremo i diversi dosaggi di zucchero presenti negli [champagne](https://enovitae.com/it/accademia/champagne.md) e negli spumanti, e scopriremo le differenze tra i vari livelli di dolcezza. Inoltre, forniremo consigli di abbinamento per ciascun dosaggio per aiutarti a scegliere il perfetto spumante per ogni occasione.
 
 ## Cos'è il dosaggio e perché è importante?
 
@@ -20,7 +20,7 @@ Il _dosaggio_, noto anche come "**liqueur d'expédition**", rappresenta una misc
 
 ## I diversi livelli di dolcezza
 
-Esistono diversi livelli di dolcezza negli [champagne](/it/accademia/champagne/) e negli spumanti, ciascuno caratterizzato da una specifica quantità di zucchero residuo per litro (grammi / litro). Ecco i principali gradi di dolcezza:
+Esistono diversi livelli di dolcezza negli [champagne](https://enovitae.com/it/accademia/champagne.md) e negli spumanti, ciascuno caratterizzato da una specifica quantità di zucchero residuo per litro (grammi / litro). Ecco i principali gradi di dolcezza:
 
 ### Brut Nature (Dosaggio Zero) significato
 

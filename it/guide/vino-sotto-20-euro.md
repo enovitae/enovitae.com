@@ -42,7 +42,7 @@ Un altro modo per scoprire vini di qualità a prezzi accessibili è esplorare vi
 
 ## Il fascino degli spumanti
 
-Gli spumanti, inclusi champagne, prosecco, cava e altri, sono spesso una scelta affascinante per chi cerca vini di qualità a prezzi ragionevoli. Questi vini frizzanti offrono un'elegante effervescenza che può rendere qualsiasi momento speciale. Sebbene alcuni [champagne](/it/accademia/champagne/) possano essere piuttosto costosi, ci sono molte opzioni di spumanti meno famosi che sono altrettanto deliziosi e soddisfacenti, e spesso a un prezzo più conveniente. Inoltre, molti produttori di spumanti in paesi extraeuropei, come l'Argentina o la California, stanno ricevendo sempre più riconoscimenti internazionali per i loro spumanti di qualità.
+Gli spumanti, inclusi champagne, prosecco, cava e altri, sono spesso una scelta affascinante per chi cerca vini di qualità a prezzi ragionevoli. Questi vini frizzanti offrono un'elegante effervescenza che può rendere qualsiasi momento speciale. Sebbene alcuni [champagne](https://enovitae.com/it/accademia/champagne.md) possano essere piuttosto costosi, ci sono molte opzioni di spumanti meno famosi che sono altrettanto deliziosi e soddisfacenti, e spesso a un prezzo più conveniente. Inoltre, molti produttori di spumanti in paesi extraeuropei, come l'Argentina o la California, stanno ricevendo sempre più riconoscimenti internazionali per i loro spumanti di qualità.
 
 ## Vini di paesi extraeuropei
 

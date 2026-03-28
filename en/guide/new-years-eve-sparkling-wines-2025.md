@@ -25,7 +25,7 @@ New Year's Eve is synonymous with celebrations, and no celebration is complete w
 
 #### **Barolo DOCG - Piedmont, Italy**
 
-- **Why choose it?** Known as "the king of wines," [Barolo](/en/comparison/barolo-vs-nebbiolo/) is bold, structured, and elegant, with flavors of dried rose, tar, and cherry. Its impressive aging potential makes it a standout choice.
+- **Why choose it?** Known as "the king of wines," [Barolo](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md) is bold, structured, and elegant, with flavors of dried rose, tar, and cherry. Its impressive aging potential makes it a standout choice.
 - **Perfect for:** Adding sophistication to your celebration or impressing wine aficionados.
 - **Price range:** €50 – €80 per bottle.
 
@@ -57,7 +57,7 @@ New Year's Eve is synonymous with celebrations, and no celebration is complete w
 
 #### **Crémant de Bourgogne Brut - Burgundy, France**
 
-- **Why choose it?** A fantastic alternative to [Champagne](/en/academy/challenging-year-champagne-2024/), offering elegant bubbles and a floral bouquet at a fraction of the price.
+- **Why choose it?** A fantastic alternative to [Champagne](https://enovitae.com/en/academy/challenging-year-champagne-2024.md), offering elegant bubbles and a floral bouquet at a fraction of the price.
 - **Perfect for:** Budget-friendly yet stylish celebrations.
 - **Price range:** €15 – €30 per bottle.
 
@@ -75,7 +75,7 @@ Choosing the perfect wine often comes down to your budget and the type of celebr
 
 #### High-end wines (€50 and above)
 
-- **Examples:** Vintage Champagne, Barolo, [Brunello](/en/standing/10-best-tuscan-reds/).
+- **Examples:** Vintage Champagne, Barolo, [Brunello](https://enovitae.com/en/standing/10-best-tuscan-reds.md).
 - **What to expect:** Exceptional quality, complex flavors, and a luxurious experience. High-end wines are often aged longer and come from top-tier producers.
 - **Perfect for:** Gifting, formal parties, and special toasts.
 
@@ -103,7 +103,7 @@ Choosing the perfect wine often comes down to your budget and the type of celebr
 
 ## Why wines are essential for New Year's Eve 2025
 
-Search trends show a significant increase in queries about iconic wines like [Barolo](/en/comparison/barolo-vs-nebbiolo/), Brunello, and Chianti during the holiday season. According to Google Analytics, these wines are among the top choices for festive occasions, reflecting a growing preference for quality and tradition. Including them in your celebration not only elevates the experience but also pays homage to the rich winemaking heritage of Italy and France.
+Search trends show a significant increase in queries about iconic wines like [Barolo](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md), Brunello, and Chianti during the holiday season. According to Google Analytics, these wines are among the top choices for festive occasions, reflecting a growing preference for quality and tradition. Including them in your celebration not only elevates the experience but also pays homage to the rich winemaking heritage of Italy and France.
 
 ---
 
@@ -111,8 +111,8 @@ Search trends show a significant increase in queries about iconic wines like [Ba
 
 - **Local wine shops:** Support local businesses and get personalized recommendations.
 - **Online retailers:** Many online platforms offer excellent selections with home delivery options.
-- **Supermarkets:** Many premium supermarkets stock Prosecco, [Champagne](/en/academy/challenging-year-champagne-2024/), and Chianti, perfect for last-minute shopping.
+- **Supermarkets:** Many premium supermarkets stock Prosecco, [Champagne](https://enovitae.com/en/academy/challenging-year-champagne-2024.md), and Chianti, perfect for last-minute shopping.
 
 ---
 
-Make your New Year's Eve unforgettable with the perfect combination of iconic and sparkling wines. Whether you prefer the finesse of Champagne, the boldness of Barolo, or the elegance of [Brunello](/en/standing/10-best-tuscan-reds/), these selections guarantee a celebration to remember. Cheers to 2025!
+Make your New Year's Eve unforgettable with the perfect combination of iconic and sparkling wines. Whether you prefer the finesse of Champagne, the boldness of Barolo, or the elegance of [Brunello](https://enovitae.com/en/standing/10-best-tuscan-reds.md), these selections guarantee a celebration to remember. Cheers to 2025!

@@ -17,7 +17,7 @@ Choosing the perfect wine as a Christmas gift can be a delightful yet challengin
 
 #### 1. **Barolo 2018 - Piedmont, Italy**
 
-- **Why choose it?** Often referred to as "the king of wines," [Barolo](/en/comparison/barolo-vs-nebbiolo/) is a timeless classic. The 2018 vintage is particularly praised for its elegance and balance, with notes of cherry, rose, and earthy undertones.
+- **Why choose it?** Often referred to as "the king of wines," [Barolo](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md) is a timeless classic. The 2018 vintage is particularly praised for its elegance and balance, with notes of cherry, rose, and earthy undertones.
 - **Ideal recipient:** The seasoned wine collector or someone who appreciates age-worthy reds.
 - **Average price:** €50–€80 per bottle.
 
@@ -39,7 +39,7 @@ Choosing the perfect wine as a Christmas gift can be a delightful yet challengin
 
 #### 1. **Champagne Pol Roger Brut Réserve - Champagne, France**
 
-- **Why choose it?** A favorite among royalty and wine lovers alike, this [Champagne](/en/comparison/champagne-vs-prosecco/) is celebrated for its crisp acidity, fine bubbles, and notes of apple, brioche, and citrus.
+- **Why choose it?** A favorite among royalty and wine lovers alike, this [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) is celebrated for its crisp acidity, fine bubbles, and notes of apple, brioche, and citrus.
 - **Ideal recipient:** Someone who appreciates luxury and tradition.
 - **Average price:** €40–€60 per bottle.
 

@@ -27,11 +27,11 @@ I dati sulle preferenze di consumo rivelano che, entro il 2024, circa il 30% dei
 
 ### Previsioni per il 2024 e oltre
 
-Guardando al futuro, si prevede che [il mercato del vino biologico](/it/accademia/mercato-vino-italia-2024/) in Italia continuerà a crescere con un tasso annuo del +10% fino al 2030. Le nuove politiche europee, come il Green Deal, che mirano a ridurre l'uso di pesticidi e promuovere pratiche agricole sostenibili, avranno un impatto significativo sull'industria vinicola. La crescita sarà trainata non solo dalla domanda interna, ma anche dalle esportazioni verso mercati come Stati Uniti, Canada e Giappone, dove la domanda di vino biologico è in forte espansione.
+Guardando al futuro, si prevede che [il mercato del vino biologico](https://enovitae.com/it/accademia/mercato-vino-italia-2024.md) in Italia continuerà a crescere con un tasso annuo del +10% fino al 2030. Le nuove politiche europee, come il Green Deal, che mirano a ridurre l'uso di pesticidi e promuovere pratiche agricole sostenibili, avranno un impatto significativo sull'industria vinicola. La crescita sarà trainata non solo dalla domanda interna, ma anche dalle esportazioni verso mercati come Stati Uniti, Canada e Giappone, dove la domanda di vino biologico è in forte espansione.
 
 ### Confronto con altre nazioni
 
-[Con una quota di mercato del 17% a livello globale](/it/accademia/trend-consumo-vino-2024/)
+[Con una quota di mercato del 17% a livello globale](https://enovitae.com/it/accademia/trend-consumo-vino-2024.md)
 , l'Italia è leader nella produzione di vino biologico, seguita da paesi come la Francia (15%) e la
 Spagna (13%). Tuttavia, mentre l'Italia è in testa per quanto riguarda la superficie viticola
 biologica, la Francia sta guadagnando terreno, grazie a politiche di incentivazione che sostengono

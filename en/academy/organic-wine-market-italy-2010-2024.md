@@ -27,11 +27,11 @@ Data on consumer preferences reveals that by 2024, around 30% of Italian consume
 
 ### 2024 and beyond: market forecasts
 
-Looking ahead, [the organic wine market in Italy](/en/academy/italian-wine-market-2024/) is expected to continue growing at an annual rate of +10% until 2030. New European policies, such as the Green Deal, which aim to reduce pesticide use and promote sustainable farming practices, will have a significant impact on the wine industry. Growth will be driven not only by domestic demand but also by exports to markets such as the United States, Canada, and Japan, where demand for organic wine is rapidly expanding.
+Looking ahead, [the organic wine market in Italy](https://enovitae.com/en/academy/italian-wine-market-2024.md) is expected to continue growing at an annual rate of +10% until 2030. New European policies, such as the Green Deal, which aim to reduce pesticide use and promote sustainable farming practices, will have a significant impact on the wine industry. Growth will be driven not only by domestic demand but also by exports to markets such as the United States, Canada, and Japan, where demand for organic wine is rapidly expanding.
 
 ### Comparison with other countries
 
-[With a 17% global market share](/en/academy/global-wine-consumption-trends-2024/)
+[With a 17% global market share](https://enovitae.com/en/academy/global-wine-consumption-trends-2024.md)
 , Italy leads in organic wine production, followed by countries like France (15%) and Spain (13%).
 However, while Italy leads in organic vineyard area, France is quickly catching up, thanks to
 policies that incentivize winemakers to convert to organic farming.

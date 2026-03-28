@@ -16,7 +16,7 @@ Se sei un appassionato di vino, saprai quanto sia fondamentale conservare le tue
 
 ## Cantinetta vino: la soluzione perfetta per conservare le tue bottiglie
 
-Le cantinette vino offrono un ambiente controllato in cui è possibile mantenere le bottiglie alla temperatura ideale per garantirne la [conservazione](/it/accademia/conservare-il-vino/) ottimale. Esistono diverse tipologie di cantinette, ognuna con caratteristiche specifiche per soddisfare le esigenze di ogni appassionato di vino.
+Le cantinette vino offrono un ambiente controllato in cui è possibile mantenere le bottiglie alla temperatura ideale per garantirne la [conservazione](https://enovitae.com/it/accademia/conservare-il-vino.md) ottimale. Esistono diverse tipologie di cantinette, ognuna con caratteristiche specifiche per soddisfare le esigenze di ogni appassionato di vino.
 
 ## Cantinetta vino doppia temperatura
 
@@ -24,7 +24,7 @@ Le cantinette vino a doppia temperatura rappresentano un'opzione versatile per c
 
 ## Cantinetta vino di legno
 
-Per gli amanti del design e dell'estetica, le cantinette vino di legno offrono non solo funzionalità, ma anche un tocco di eleganza e stile alla tua cantina o alla tua cucina. Questi modelli combinano materiali di alta qualità con tecnologia avanzata per offrire un ambiente di [conservazione](/it/accademia/conservare-il-vino/) ottimale per le tue bottiglie di vino.
+Per gli amanti del design e dell'estetica, le cantinette vino di legno offrono non solo funzionalità, ma anche un tocco di eleganza e stile alla tua cantina o alla tua cucina. Questi modelli combinano materiali di alta qualità con tecnologia avanzata per offrire un ambiente di [conservazione](https://enovitae.com/it/accademia/conservare-il-vino.md) ottimale per le tue bottiglie di vino.
 
 ## Frigo cantinetta
 

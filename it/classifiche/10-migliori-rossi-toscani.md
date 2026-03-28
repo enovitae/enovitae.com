@@ -18,12 +18,12 @@ Abbiamo selezionato con cura i 10 migliori vini rossi toscani, autentiche espres
 
 1. Chianti Classico
 
-Il [chianti](/it/comparazioni/chianti-vs-chianti-classico/) Classico è considerato il re dei vini toscani. Ottenuto principalmente da uve Sangiovese, questo vino si caratterizza per il suo colore rubino intenso e i sentori di ciliegia, mora e spezie. I suoi tannini ben strutturati si bilanciano con una piacevole freschezza. Perfetto compagno di carni rosse, formaggi stagionati e piatti della tradizione toscana, il Chianti Classico è una vera e propria icona dell'enologia italiana.
+Il [chianti](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.md) Classico è considerato il re dei vini toscani. Ottenuto principalmente da uve Sangiovese, questo vino si caratterizza per il suo colore rubino intenso e i sentori di ciliegia, mora e spezie. I suoi tannini ben strutturati si bilanciano con una piacevole freschezza. Perfetto compagno di carni rosse, formaggi stagionati e piatti della tradizione toscana, il Chianti Classico è una vera e propria icona dell'enologia italiana.
 
-2. [Brunello](/it/accademia/brunello-di-montalcino/)
+2. [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md)
    di Montalcino
 
-Il [Brunello](/it/accademia/brunello-di-montalcino/) di Montalcino è una delle eccellenze italiane, considerato tra i migliori vini rossi al mondo. Prodotta esclusivamente con uve Sangiovese Grosso (conosciute localmente come [Brunello](/it/accademia/brunello-di-montalcino/)), questa etichetta richiede un lungo invecchiamento in legno e bottiglia. Il risultato è un vino dal colore granato, con un bouquet intenso di frutti di bosco, tabacco e note terziarie di cuoio. Al palato è potente e strutturato, con tannini vellutati e lunga persistenza.
+Il [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md) di Montalcino è una delle eccellenze italiane, considerato tra i migliori vini rossi al mondo. Prodotta esclusivamente con uve Sangiovese Grosso (conosciute localmente come [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md)), questa etichetta richiede un lungo invecchiamento in legno e bottiglia. Il risultato è un vino dal colore granato, con un bouquet intenso di frutti di bosco, tabacco e note terziarie di cuoio. Al palato è potente e strutturato, con tannini vellutati e lunga persistenza.
 
 3. Vino Nobile di Montepulciano
 
@@ -55,11 +55,11 @@ Chiudiamo la nostra classifica con un vino dai tratti distintivi, il Cortona. Ot
 
 10. Rosso di Montalcino
 
-Ultimo ma non meno importante, il Rosso di Montalcino è la versione più giovane e accessibile del [Brunello](/it/accademia/brunello-di-montalcino/) di Montalcino. Anche questo vino è prodotto esclusivamente con uve Sangiovese Grosso, ma ha un periodo di invecchiamento più breve, garantendo un carattere fruttato e vivace. Di colore rosso rubino brillante, offre aromi di frutta rossa e viola, con note speziate e floreali. Al palato è fresco, equilibrato e versatile, perfetto per accompagnare diverse pietanze della cucina toscana e non solo.
+Ultimo ma non meno importante, il Rosso di Montalcino è la versione più giovane e accessibile del [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md) di Montalcino. Anche questo vino è prodotto esclusivamente con uve Sangiovese Grosso, ma ha un periodo di invecchiamento più breve, garantendo un carattere fruttato e vivace. Di colore rosso rubino brillante, offre aromi di frutta rossa e viola, con note speziate e floreali. Al palato è fresco, equilibrato e versatile, perfetto per accompagnare diverse pietanze della cucina toscana e non solo.
 
 Dopo aver esplorato i 10 migliori vini rossi toscani, ci lasciamo alle spalle un viaggio enologico avvincente attraverso la terra dell'eccellenza vinicola. La Toscana ha dimostrato ancora una volta di essere una delle regioni vitivinicole più affascinanti e prestigiose al mondo, con il suo patrimonio culturale e le tradizioni tramandate da secoli.
 
-Ogni sorso di [chianti](/it/comparazioni/chianti-vs-chianti-classico/) Classico, [Brunello](/it/accademia/brunello-di-montalcino/) di Montalcino, Vino Nobile di Montepulciano o di uno degli altri vini menzionati in questa pagina è un'esperienza unica che ci conduce nel cuore stesso della Toscana. La forza dei tannini, la complessità degli aromi e la raffinatezza dei sapori sono il risultato di un'arte tramandata di generazione in generazione.
+Ogni sorso di [chianti](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.md) Classico, [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md) di Montalcino, Vino Nobile di Montepulciano o di uno degli altri vini menzionati in questa pagina è un'esperienza unica che ci conduce nel cuore stesso della Toscana. La forza dei tannini, la complessità degli aromi e la raffinatezza dei sapori sono il risultato di un'arte tramandata di generazione in generazione.
 
 Ma il fascino dei vini toscani non si esaurisce in queste 10 selezioni. La regione offre una moltitudine di etichette, ognuna con una storia da raccontare e un'anima da scoprire. Le cantine toscane sono luoghi di magia, dove gli appassionati possono incontrare i produttori, imparare le tecniche di vinificazione e apprezzare l'arte di fare vino.
 

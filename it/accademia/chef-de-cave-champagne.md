@@ -10,7 +10,7 @@ cover_image: https://enovitae.com/_astro/champagne-cave.Cp7HtIQr_Z25YII2.webp
 source: Enovitae.com
 ---
 
-Lo [champagne](/it/accademia/champagne/), con le sue bollicine eleganti e complesse, è molto più di una semplice bevanda; è l'opera d'arte di uno Chef de Cave, il maestro di cantina che guida il destino e lo stile di una casa di champagne.
+Lo [champagne](https://enovitae.com/it/accademia/champagne.md), con le sue bollicine eleganti e complesse, è molto più di una semplice bevanda; è l'opera d'arte di uno Chef de Cave, il maestro di cantina che guida il destino e lo stile di una casa di champagne.
 
 ### Il custode delle tradizioni
 

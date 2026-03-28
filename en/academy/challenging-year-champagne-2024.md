@@ -11,13 +11,13 @@ source: Enovitae.com
 
 ## Challenging year for Champagne in 2024: sales decline and price impact
 
-2024 has proven to be a particularly challenging year for the [Champagne](/en/comparison/champagne-vs-prosecco/) sector. Complex weather conditions, combined with an unstable global economic context, have led to reduced yields and a decline in sales, marking a setback compared to previous years. In this article, we analyze the critical points of this vintage and what the Champagne market can expect in the coming months.
+2024 has proven to be a particularly challenging year for the [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) sector. Complex weather conditions, combined with an unstable global economic context, have led to reduced yields and a decline in sales, marking a setback compared to previous years. In this article, we analyze the critical points of this vintage and what the Champagne market can expect in the coming months.
 
 ### Weather conditions and reduced yields
 
 Following a warm and dry 2023, Champagne faced very different weather conditions in 2024. The year was particularly rainy, complicating vineyard work and increasing the pressure of fungal diseases such as downy mildew. Maxime Toubart, president of the winegrowers' association, emphasized the importance of staying vigilant to ensure a good harvest, adopting the motto "maximum vigilance and zero tolerance" throughout the season.
 
-The authorized yield for the 2024 harvest was set at 10,000 kg/ha, down from 11,400 kg/ha in 2023. This cut was decided in response to a drop in [Champagne](/en/comparison/champagne-vs-prosecco/) shipments, which saw a 15.2% decrease in the first half of 2024 compared to the same period last year. This reduction brought sales levels back to those seen in 2019, further complicating the situation for producers.
+The authorized yield for the 2024 harvest was set at 10,000 kg/ha, down from 11,400 kg/ha in 2023. This cut was decided in response to a drop in [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) shipments, which saw a 15.2% decrease in the first half of 2024 compared to the same period last year. This reduction brought sales levels back to those seen in 2019, further complicating the situation for producers.
 
 ### An uncertain economic context and market forecasts
 
@@ -32,13 +32,13 @@ This situation presents two potential scenarios for the market in the coming mon
 
 To address the difficulties of the 2024 vintage, the Comité Champagne launched the "Ensemble pour les vendanges en Champagne" ("Together for the Champagne harvest") plan, aimed at safeguarding harvest quality despite the challenging conditions. The plan included training sessions and innovative tools for winegrowers, who welcomed the promoted practices, demonstrating great adaptability.
 
-David Chatillon, president of the [Champagne](/en/comparison/champagne-vs-prosecco/) Houses, highlighted the importance of creating a union of service providers and a best practice framework, considering these as positive signals for the future of the sector. The involvement of local institutions, under the leadership of the Grand Est regional prefect, further strengthened support for the sector, promoting a coordinated action plan.
+David Chatillon, president of the [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) Houses, highlighted the importance of creating a union of service providers and a best practice framework, considering these as positive signals for the future of the sector. The involvement of local institutions, under the leadership of the Grand Est regional prefect, further strengthened support for the sector, promoting a coordinated action plan.
 
 ### What to expect for Champagne prices in 2024?
 
 With reduced yields and declining sales, 2024 could see an increase in Champagne prices, especially in the premium segments. Producers are seeking to balance supply and demand, maintaining high quality despite challenging weather conditions and rising costs. For consumers, this could mean an increase in the average cost of bottles, with a greater emphasis on high-end products.
 
-Cooperation between winegrowers, Champagne Houses, and institutions will be crucial to ensure the prosperity of the sector even in this challenging context. While the harvest is expected to begin in mid-September with mixed expectations, the resilience of the [Champagne](/en/comparison/champagne-vs-prosecco/) sector remains evident, ready to face challenges with strength and determination.
+Cooperation between winegrowers, Champagne Houses, and institutions will be crucial to ensure the prosperity of the sector even in this challenging context. While the harvest is expected to begin in mid-September with mixed expectations, the resilience of the [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) sector remains evident, ready to face challenges with strength and determination.
 
 ---
 
@@ -60,7 +60,7 @@ Cooperation between winegrowers, Champagne Houses, and institutions will be cruc
 
 ---
 
-The 2024 vintage for [Champagne](/en/comparison/champagne-vs-prosecco/) looks challenging, with reduced yields and an uncertain market context. However, the commitment of the sector and cooperation between various stakeholders provide hope to overcome these difficulties and maintain the excellence of the Champagne denomination.
+The 2024 vintage for [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) looks challenging, with reduced yields and an uncertain market context. However, the commitment of the sector and cooperation between various stakeholders provide hope to overcome these difficulties and maintain the excellence of the Champagne denomination.
 
 ## Source
 

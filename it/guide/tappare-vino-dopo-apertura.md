@@ -72,14 +72,14 @@ Tuttavia, anche in questo caso, la tecnologia Coravin si è evoluta per soddisfa
 Esistono ora dispositivi Coravin progettati specificamente per lavorare con spumanti, che consentono di versare una porzione di champagne o prosecco senza compromettere la qualità complessiva della bottiglia.
 
 L'ago sottile di Coravin penetra nel tappo di sughero e della capsula metallica, permettendo di degustare il vino senza che la pressione interna del gas carbonico si disperda troppo rapidamente.
-Questa innovazione è una vera svolta per gli amanti dello [champagne](/it/accademia/champagne/) e degli spumanti di alta qualità, permettendo loro di godere di una bottiglia aperta nel corso di diversi giorni o settimane, preservando al contempo la vivacità delle bollicine.
+Questa innovazione è una vera svolta per gli amanti dello [champagne](https://enovitae.com/it/accademia/champagne.md) e degli spumanti di alta qualità, permettendo loro di godere di una bottiglia aperta nel corso di diversi giorni o settimane, preservando al contempo la vivacità delle bollicine.
 
 Sperimentare con diverse tecniche e strumenti ti permetterà di scoprire il metodo ideale per mantenere intatta la freschezza e la vitalità di ogni tipo di vino, compresi gli amati spumanti.
 
 ## Tecniche per ogni bottiglia e tipo di vino
 
 Ogni bottiglia e ogni tipo di vino possono richiedere un approccio leggermente diverso.
-Per i vini rossi robusti, ad esempio, potrebbe essere utile utilizzare Coravin per evitare l'ossidazione durante lunghi periodi di [conservazione](/it/accademia/conservare-il-vino/).
+Per i vini rossi robusti, ad esempio, potrebbe essere utile utilizzare Coravin per evitare l'ossidazione durante lunghi periodi di [conservazione](https://enovitae.com/it/accademia/conservare-il-vino.md).
 Per i bianchi leggeri, i tappi ermetici possono essere più che sufficienti per preservare la freschezza.
 Sperimentare con diverse tecniche è la chiave per scoprire quali funzionano meglio per te e per assicurarti di godere appieno di ogni goccia di quel tesoro in bottiglia.
 

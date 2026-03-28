@@ -10,7 +10,7 @@ cover_image: https://enovitae.com/_astro/champagne-types.1f5mXn9G_Z20QyTd.webp
 source: Enovitae.com
 ---
 
-Lo [champagne](/it/accademia/champagne/), bevanda regale per eccellenza, offre una vasta gamma di esperienze grazie alla sua diversità. Esploriamo i diversi tipi di champagne, le bottiglie che li ospitano, i segreti del dosaggio, le temperature di servizio ideali e le migliori annate per un'esperienza enologica completa.
+Lo [champagne](https://enovitae.com/it/accademia/champagne.md), bevanda regale per eccellenza, offre una vasta gamma di esperienze grazie alla sua diversità. Esploriamo i diversi tipi di champagne, le bottiglie che li ospitano, i segreti del dosaggio, le temperature di servizio ideali e le migliori annate per un'esperienza enologica completa.
 
 ### Cuvée de Prestige: l'eccellenza in una bottiglia
 
@@ -18,7 +18,7 @@ La cuvée de prestige è la crema dello champagne, rappresentando la massima esp
 
 ### Dosaggi: la dolcezza personalizzata
 
-Il [dosaggio](/it/accademia/zucchero-nel-vino/) è il livello di zucchero aggiunto dopo il dégorgement e prima della chiusura finale della bottiglia. Questo determina il grado di dolcezza dello champagne. Le categorie comuni includono:
+Il [dosaggio](https://enovitae.com/it/accademia/zucchero-nel-vino.md) è il livello di zucchero aggiunto dopo il dégorgement e prima della chiusura finale della bottiglia. Questo determina il grado di dolcezza dello champagne. Le categorie comuni includono:
 
 - **Extra Brut**: Senza o con una leggera traccia di zucchero residuo.
 - **Brut**: Asciutto, con meno di 12 grammi di zucchero per litro.
@@ -29,7 +29,7 @@ Il [dosaggio](/it/accademia/zucchero-nel-vino/) è il livello di zucchero aggiun
 
 ### Bottiglie di champagne: dimensioni e significati
 
-Le [bottiglie di champagne](/it/accademia/bottiglie-di-vino/) si presentano in varie dimensioni, ognuna con il suo significato e utilizzo specifico. Alcune delle più comuni includono:
+Le [bottiglie di champagne](https://enovitae.com/it/accademia/bottiglie-di-vino.md) si presentano in varie dimensioni, ognuna con il suo significato e utilizzo specifico. Alcune delle più comuni includono:
 
 - **Bottiglia Standard (750 ml)**: La dimensione standard per la maggior parte degli champagne.
 - **Magnum (1,5 litri)**: Equivale a due bottiglie standard, spesso usato per celebrazioni.

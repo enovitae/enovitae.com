@@ -28,7 +28,7 @@ Contrary to popular belief, spending more doesn’t always mean **better taste o
 If you want to pop something bubbly without spending **€40+ on Champagne**, go for:
 
 - **Prosecco Superiore DOCG (Italy)** – Light, crisp, and fruity (€12–€20)
-- **Crémant de Bourgogne (France)** – An elegant [Champagne](/en/comparison/champagne-vs-prosecco/) alternative (€15–€25)
+- **Crémant de Bourgogne (France)** – An elegant [Champagne](https://enovitae.com/en/comparison/champagne-vs-prosecco.md) alternative (€15–€25)
 
 🥂 **Perfect for:** Toasting to love without spending a fortune.
 

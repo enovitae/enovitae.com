@@ -33,7 +33,7 @@ Come sottolinea Jessica Dupuy, le tariffe imposte nel 2019—come il dazio del 2
    Sebbene le cantine locali possano beneficiare a breve termine della minore concorrenza, gli effetti a lungo termine di una rete di distribuzione indebolita danneggiano sia i vini domestici che quelli importati. Le tariffe limitano la capacità dei distributori di investire in marketing e logistica, ostacolando la crescita di piccoli produttori locali.
 
 3. **Impatto culturale e gastronomico**
-   Vini europei come Champagne, [Barolo](/it/comparazioni/barolo-vs-brunello/) e Chianti sono insostituibili nel tessuto culturale e gastronomico. Come spiega Ben Aneff, presidente della U.S. Wine Trade Alliance: "Non puoi abbinare un Napa Cabernet con una bistecca alla Fiorentina nello stesso modo in cui lo faresti con un Chianti Classico o un [Brunello di Montalcino.](/it/accademia/brunello-di-montalcino/)"
+   Vini europei come Champagne, [Barolo](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md) e Chianti sono insostituibili nel tessuto culturale e gastronomico. Come spiega Ben Aneff, presidente della U.S. Wine Trade Alliance: "Non puoi abbinare un Napa Cabernet con una bistecca alla Fiorentina nello stesso modo in cui lo faresti con un Chianti Classico o un [Brunello di Montalcino.](https://enovitae.com/it/accademia/brunello-di-montalcino.md)"
 
 ---
 

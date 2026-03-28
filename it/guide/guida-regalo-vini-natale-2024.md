@@ -23,7 +23,7 @@ Scegliere il vino perfetto da regalare a Natale può essere una sfida, ma anche 
 
 #### 2. **Brunello di Montalcino 2017 - Toscana, Italia**
 
-- **Perché sceglierlo?** Con una struttura robusta e tannini raffinati, questo [Brunello](/it/accademia/brunello-di-montalcino/) offre sapori di ciliegia scura, tabacco e spezie. È un vino che continuerà a evolversi magnificamente nel tempo.
+- **Perché sceglierlo?** Con una struttura robusta e tannini raffinati, questo [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md) offre sapori di ciliegia scura, tabacco e spezie. È un vino che continuerà a evolversi magnificamente nel tempo.
 - **Destinatario ideale:** Un amante dei vini corposi e strutturati.
 - **Prezzo medio:** €60–€100 a bottiglia.
 
@@ -39,7 +39,7 @@ Scegliere il vino perfetto da regalare a Natale può essere una sfida, ma anche 
 
 #### 1. **Champagne Pol Roger Brut Réserve - Champagne, Francia**
 
-- **Perché sceglierlo?** Un preferito tra reali e appassionati di vino, questo [Champagne](/it/accademia/caratteristiche-champagne/) è celebrato per la sua acidità vivace, le bollicine fini e le note di mela, brioche e agrumi.
+- **Perché sceglierlo?** Un preferito tra reali e appassionati di vino, questo [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md) è celebrato per la sua acidità vivace, le bollicine fini e le note di mela, brioche e agrumi.
 - **Destinatario ideale:** Chi apprezza il lusso e la tradizione.
 - **Prezzo medio:** €40–€60 a bottiglia.
 

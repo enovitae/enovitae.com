@@ -11,11 +11,11 @@ source: Enovitae.com
 
 ## Il mercato vinicolo italiano nel 2024: trend e previsioni
 
-L'Italia è tra i principali protagonisti del [mercato vinicolo mondiale](/it/accademia/preferenze-consumatori-vino-2000-2024/). L'indagine condotta dall'Area Studi di Mediobanca sul settore vinicolo italiano per il 2024 evidenzia trend di crescita e alcuni cambiamenti significativi nel comportamento dei consumatori. Di seguito riportiamo i dati più significativi relativi al mercato italiano e una previsione per il 2024.
+L'Italia è tra i principali protagonisti del [mercato vinicolo mondiale](https://enovitae.com/it/accademia/preferenze-consumatori-vino-2000-2024.md). L'indagine condotta dall'Area Studi di Mediobanca sul settore vinicolo italiano per il 2024 evidenzia trend di crescita e alcuni cambiamenti significativi nel comportamento dei consumatori. Di seguito riportiamo i dati più significativi relativi al mercato italiano e una previsione per il 2024.
 
 ### Vendite ed esportazioni in crescita
 
-Secondo l'indagine, le vendite di vino in Italia sono previste in aumento del +2,6% per il 2024. Le esportazioni giocheranno un ruolo chiave in questa crescita, con un incremento stimato del +3%. I vini [spumanti](/it/accademia/brut-dosaggi-champagne-spumanti/), in particolare, si confermano un punto di forza del mercato italiano, con ricavi in aumento del +3,7% e un'ulteriore espansione delle esportazioni (+6,8%).
+Secondo l'indagine, le vendite di vino in Italia sono previste in aumento del +2,6% per il 2024. Le esportazioni giocheranno un ruolo chiave in questa crescita, con un incremento stimato del +3%. I vini [spumanti](https://enovitae.com/it/accademia/brut-dosaggi-champagne-spumanti.md), in particolare, si confermano un punto di forza del mercato italiano, con ricavi in aumento del +3,7% e un'ulteriore espansione delle esportazioni (+6,8%).
 
 ### Diminuzione dei volumi venduti, ma crescita dei vini premium
 

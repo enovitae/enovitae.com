@@ -25,13 +25,13 @@ Capodanno è sinonimo di celebrazioni, e nessuna festa è completa senza il vino
 
 #### **Barolo DOCG - Piemonte, Italia**
 
-- **Perché sceglierlo?** Conosciuto come "il re dei vini," il [Barolo](/it/comparazioni/barolo-vs-brunello/) è audace, strutturato ed elegante, con sapori di rosa essiccata, catrame e ciliegia. Il suo straordinario potenziale di invecchiamento lo rende una scelta eccezionale.
+- **Perché sceglierlo?** Conosciuto come "il re dei vini," il [Barolo](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md) è audace, strutturato ed elegante, con sapori di rosa essiccata, catrame e ciliegia. Il suo straordinario potenziale di invecchiamento lo rende una scelta eccezionale.
 - **Perfetto per:** Aggiungere raffinatezza alla tua celebrazione o impressionare i conoscitori di vino.
 - **Fascia di prezzo:** €50 – €80 a bottiglia.
 
 #### **Brunello di Montalcino DOCG - Toscana, Italia**
 
-- **Perché sceglierlo?** Il [Brunello](/it/accademia/brunello-di-montalcino/) offre una complessità raffinata con sapori di ciliegia scura, tabacco e cuoio. È la scelta ideale per una cena di lusso o un brindisi memorabile.
+- **Perché sceglierlo?** Il [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md) offre una complessità raffinata con sapori di ciliegia scura, tabacco e cuoio. È la scelta ideale per una cena di lusso o un brindisi memorabile.
 - **Perfetto per:** Occasioni speciali o come regalo per collezionisti esigenti.
 - **Fascia di prezzo:** €60 – €100 a bottiglia.
 
@@ -57,7 +57,7 @@ Capodanno è sinonimo di celebrazioni, e nessuna festa è completa senza il vino
 
 #### **Crémant de Bourgogne Brut - Borgogna, Francia**
 
-- **Perché sceglierlo?** Un’alternativa eccellente allo [Champagne](/it/accademia/champagne/), con bollicine eleganti e un bouquet floreale a un prezzo più accessibile.
+- **Perché sceglierlo?** Un’alternativa eccellente allo [Champagne](https://enovitae.com/it/accademia/champagne.md), con bollicine eleganti e un bouquet floreale a un prezzo più accessibile.
 - **Perfetto per:** Celebrazioni eleganti e convenienti.
 - **Fascia di prezzo:** €15 – €30 a bottiglia.
 
@@ -75,13 +75,13 @@ Scegliere il vino perfetto dipende spesso dal budget e dal tipo di celebrazione 
 
 #### Vini di lusso (oltre €50)
 
-- **Esempi:** Champagne vintage, Barolo, [Brunello](/it/accademia/brunello-di-montalcino/).
+- **Esempi:** Champagne vintage, Barolo, [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md).
 - **Cosa aspettarsi:** Qualità eccezionale, sapori complessi e un’esperienza di lusso. I vini di fascia alta spesso sono invecchiati più a lungo e provengono da produttori di primo piano.
 - **Perfetti per:** Regali, feste formali e brindisi speciali.
 
 #### Vini di fascia media (€20 – €50)
 
-- **Esempi:** Franciacorta, Chianti Classico Riserva, [Champagne](/it/accademia/champagne/) non vintage.
+- **Esempi:** Franciacorta, Chianti Classico Riserva, [Champagne](https://enovitae.com/it/accademia/champagne.md) non vintage.
 - **Cosa aspettarsi:** Un equilibrio tra qualità e convenienza. Questi vini offrono sapori raffinati e sono versatili per celebrazioni sia informali che formali.
 - **Perfetti per:** Brindisi con amici o come regalo elegante ma accessibile.
 

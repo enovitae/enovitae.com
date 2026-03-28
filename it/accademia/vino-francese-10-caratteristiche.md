@@ -22,7 +22,7 @@ Uno dei pilastri fondamentali del vino francese è il concetto di "terroir". Que
 
 3. La diversità delle regioni vinicole
 
-La Francia è un vero e proprio paradiso per gli amanti del vino, poiché è suddivisa in numerose regioni vinicole, ognuna con le sue specificità e specialità. Bordeaux, Borgogna, Champagne, Valle della Loira, Rhône, Alsazia e altre regioni vantano una vasta varietà di vitigni autoctoni e tecniche di vinificazione. Ogni zona offre vini unici, dai pregiati rossi di Bordeaux ai complessi bianchi della Borgogna e ai celebri spumanti di [champagne](/it/accademia/champagne/). Questa diversità rende il vino francese un viaggio emozionante attraverso un'infinita gamma di stili e aromi.
+La Francia è un vero e proprio paradiso per gli amanti del vino, poiché è suddivisa in numerose regioni vinicole, ognuna con le sue specificità e specialità. Bordeaux, Borgogna, Champagne, Valle della Loira, Rhône, Alsazia e altre regioni vantano una vasta varietà di vitigni autoctoni e tecniche di vinificazione. Ogni zona offre vini unici, dai pregiati rossi di Bordeaux ai complessi bianchi della Borgogna e ai celebri spumanti di [champagne](https://enovitae.com/it/accademia/champagne.md). Questa diversità rende il vino francese un viaggio emozionante attraverso un'infinita gamma di stili e aromi.
 
 4. La classificazione dei vini di bordeaux del 1855
 
@@ -38,7 +38,7 @@ Il vino fa parte integrante della cultura francese e della vita quotidiana. Non 
 
 7. Le Prestigiose Maison di Champagne
 
-La Francia è la patria dello [champagne](/it/accademia/champagne/), uno dei vini più celebrati e desiderati al mondo. La regione di Champagne vanta prestigiose "maison" che producono spumanti di alta qualità. Da Moët & Chandon a Veuve Clicquot, queste maison sono sinonimo di eleganza e festa. La tecnica di produzione dello [champagne](/it/accademia/champagne/), con la fermentazione in bottiglia, è stata perfezionata in questa regione, dando vita a bollicine fini e delicate.
+La Francia è la patria dello [champagne](https://enovitae.com/it/accademia/champagne.md), uno dei vini più celebrati e desiderati al mondo. La regione di Champagne vanta prestigiose "maison" che producono spumanti di alta qualità. Da Moët & Chandon a Veuve Clicquot, queste maison sono sinonimo di eleganza e festa. La tecnica di produzione dello [champagne](https://enovitae.com/it/accademia/champagne.md), con la fermentazione in bottiglia, è stata perfezionata in questa regione, dando vita a bollicine fini e delicate.
 
 8. Il Ruolo dei vigneron
 

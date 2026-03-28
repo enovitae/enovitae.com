@@ -33,7 +33,7 @@ Jessica Dupuy highlights how tariffs implemented in 2019, such as the 25% duty o
    While domestic wineries might benefit short-term from decreased competition, the long-term impacts of a weakened distribution network harm both domestic and imported wines. Tariffs disrupt the ability of distributors to invest in marketing and logistics, limiting the opportunities for smaller domestic producers to grow.
 
 3. **Cultural and gastronomic impact**
-   European wines like [Champagne](/en/academy/challenging-year-champagne-2024/), Barolo, and Chianti are irreplaceable in the culinary and cultural fabric. As Ben Aneff, president of the U.S. Wine Trade Alliance, explains, "You can't pair a Napa Cabernet with a bistecca alla Fiorentina the way a Chianti Classico or [Brunello di Montalcino](/en/comparison/barolo-vs-brunello/) would."
+   European wines like [Champagne](https://enovitae.com/en/academy/challenging-year-champagne-2024.md), Barolo, and Chianti are irreplaceable in the culinary and cultural fabric. As Ben Aneff, president of the U.S. Wine Trade Alliance, explains, "You can't pair a Napa Cabernet with a bistecca alla Fiorentina the way a Chianti Classico or [Brunello di Montalcino](https://enovitae.com/en/comparison/barolo-vs-brunello.md) would."
 
 ---
 

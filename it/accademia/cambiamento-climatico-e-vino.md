@@ -18,11 +18,11 @@ Regioni come la Spagna, l'Italia e la Grecia stanno affrontando estati sempre pi
 
 ## Sfide nella produzione di champagne
 
-Anche le regioni settentrionali, note per la produzione di vini spumanti come lo [champagne](/it/accademia/champagne/) in Francia, stanno affrontando nuove sfide a causa del cambiamento climatico. Gli inverni più miti hanno portato a una diminuzione della copertura nevosa, che tradizionalmente proteggeva le viti dal freddo intenso. Ciò aumenta il rischio di danni alle viti a causa delle gelate primaverili, che possono influenzare la produzione di uve di alta qualità per lo Champagne. Inoltre, l'aumento delle temperature estive può portare a una maggiore maturazione delle uve, con un potenziale impatto sulla freschezza e sull'acidità dei vini spumanti.
+Anche le regioni settentrionali, note per la produzione di vini spumanti come lo [champagne](https://enovitae.com/it/accademia/champagne.md) in Francia, stanno affrontando nuove sfide a causa del cambiamento climatico. Gli inverni più miti hanno portato a una diminuzione della copertura nevosa, che tradizionalmente proteggeva le viti dal freddo intenso. Ciò aumenta il rischio di danni alle viti a causa delle gelate primaverili, che possono influenzare la produzione di uve di alta qualità per lo Champagne. Inoltre, l'aumento delle temperature estive può portare a una maggiore maturazione delle uve, con un potenziale impatto sulla freschezza e sull'acidità dei vini spumanti.
 
 ## Nuove regioni vinicole emergenti
 
-D'altra parte, il cambiamento climatico sta aprendo opportunità per regioni vinicole inusuali. Ad esempio, nel Regno Unito, il clima più mite e le stagioni di crescita più lunghe hanno reso possibile la coltivazione di uve per la produzione di vini spumanti di alta qualità. La regione del Sussex in Inghilterra è diventata nota per la produzione di spumanti metodi classici, grazie a vitigni come Chardonnay e Pinot Noir. Queste uve, coltivate in suoli calcarei simili a quelli della [champagne](/it/accademia/champagne/), danno vita a spumanti raffinati e di grande complessità aromatica.
+D'altra parte, il cambiamento climatico sta aprendo opportunità per regioni vinicole inusuali. Ad esempio, nel Regno Unito, il clima più mite e le stagioni di crescita più lunghe hanno reso possibile la coltivazione di uve per la produzione di vini spumanti di alta qualità. La regione del Sussex in Inghilterra è diventata nota per la produzione di spumanti metodi classici, grazie a vitigni come Chardonnay e Pinot Noir. Queste uve, coltivate in suoli calcarei simili a quelli della [champagne](https://enovitae.com/it/accademia/champagne.md), danno vita a spumanti raffinati e di grande complessità aromatica.
 
 ## Impatto sulla biodiversità
 

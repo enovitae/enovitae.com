@@ -11,7 +11,7 @@ source: Enovitae.com
 
 ## The Italian wine market in 2024: trends and forecasts
 
-Italy remains one of the key players in the [global wine market](/en/academy/wine-consumer-preferences-2000-2024/). The study conducted by Mediobanca’s Research Department on the Italian wine sector for 2024 highlights growth trends and significant changes in consumer behavior. Below, we present the most relevant data for the Italian market and predictions for 2024.
+Italy remains one of the key players in the [global wine market](https://enovitae.com/en/academy/wine-consumer-preferences-2000-2024.md). The study conducted by Mediobanca’s Research Department on the Italian wine sector for 2024 highlights growth trends and significant changes in consumer behavior. Below, we present the most relevant data for the Italian market and predictions for 2024.
 
 ### Increasing sales and exports
 
