@@ -31,6 +31,7 @@ source: Enovitae.com
 
 ## Guides
 
+- [Dealcoholized Wines Explained: What They Are, How They're Made, and Why the Market Is Booming](https://enovitae.com/en/guides/dealcoholized-wines-explained.md) — A complete guide to dealcoholized wines: what they are, how they are produced, their differences from traditional wine, new regulations, and why the NoLo market is growing rapidly. *(2026-06-12)*
 - [California Wine Crisis 2025: Oversupply, Abandoned Vineyards and a Market on the Brink](https://enovitae.com/en/guide/california-wine-crisis-2025-oversupply-collapse.md) — California faces its worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes. *(2025-11-13)*
 - [Champagne 2025: Prices Skyrocket, Yields Shrink and Bottles Become Rare](https://enovitae.com/en/guide/champagne-2025-high-prices-rare-bottles.md) — In 2025 Champagne faces one of its toughest years: lower yields, rising prices, and fewer bottles available. Discover what this means for consumers and the market. *(2025-08-22)*
 - [Goodbye to French and Italian wines? Trump's 200% duty shocks the market](https://enovitae.com/en/guide/trump-tariff-european-wine-2025.md) — A 200% tariff on European wine and Champagne could reshape the global wine market. Find out how this trade war escalation may impact prices, availability, and the industry. *(2025-03-21)*

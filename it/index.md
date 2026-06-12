@@ -59,6 +59,7 @@ source: Enovitae.com
 
 ## Guides
 
+- [Vini dealcolati: cosa sono, come vengono prodotti e perché il mercato sta esplodendo](https://enovitae.com/it/guide/vini-dealcolati-cosa-sono-come-si-producono.md) — Guida completa ai vini dealcolati: definizione, metodi di produzione, differenze con il vino tradizionale, novità legislative italiane e crescita del mercato NoLo. *(2026-06-12)*
 - [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/guide/crisi-vino-california-2025-sovrapproduzione-collasso.md) — La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda. *(2025-11-13)*
 - [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/guide/prezzi-e-resa-champagne-2025-alle-stelle.md) — Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi. *(2025-08-22)*
 - [Addio ai vini francesi e italiani? Il dazio del 200% di Trump sconvolge il mercato](https://enovitae.com/it/guide/dazi-trump-vino-europeo-2025.md) — Un dazio del 200% su vino e Champagne europei potrebbe cambiare il mercato globale. Scopri come questa escalation della guerra commerciale impatterà prezzi, disponibilità e settore vinicolo. *(2025-03-21)*
