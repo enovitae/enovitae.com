@@ -1,7 +1,6 @@
 ---
 title: "Come tappare il vino dopo l'apertura: tecniche e consigli"
-description: "\"Scopri le migliori tecniche per tappare il vino dopo l'apertura e preservare la sua freschezza e complessità. Dal contatto con ossigeno alle tecniche avanzate come Coravin, esploriamo le opzioni per ogni tipo di bottiglia e vino.\"
-"
+description: "Come tappare il vino dopo l'apertura per preservarne freschezza e aromi. Dal semplice tappo al Coravin: le migliori tecniche per ogni tipo di bottiglia."
 author: "Enovitae Staff"
 published: 2024-01-26
 tags: ["wine", "preservation", "coravin"]

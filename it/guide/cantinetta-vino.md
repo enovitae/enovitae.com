@@ -12,7 +12,7 @@ source: Enovitae.com
 
 ## Introduzione
 
-Se sei un appassionato di vino, saprai quanto sia fondamentale conservare le tue bottiglie nel modo giusto per preservarne gusto e qualità nel tempo. Le cantinette refrigerate rappresentano un'ottima soluzione per mantenere i tuoi vini alle condizioni ottimali di temperatura e umidità. In questo articolo, esploreremo le caratteristiche principali delle cantinette refrigerate per la conservazione del vino, fornendo informazioni utili su modelli come la cantinetta vino a doppia temperatura, la cantinetta vino di legno e molto altro.
+Se sei un appassionato di vino, saprai quanto sia fondamentale conservare le tue bottiglie nel modo giusto per preservarne gusto e qualità nel tempo. Se hai già aperto una bottiglia, scopri come [tapparla correttamente](https://enovitae.com/it/guide/tappare-vino-dopo-apertura.md) prima di riporla in cantinetta. Le cantinette refrigerate rappresentano un'ottima soluzione per mantenere i tuoi vini alle condizioni ottimali di temperatura e umidità. In questo articolo, esploreremo le caratteristiche principali delle cantinette refrigerate per la conservazione del vino, fornendo informazioni utili su modelli come la cantinetta vino a doppia temperatura, la cantinetta vino di legno e molto altro.
 
 ## Cantinetta vino: la soluzione perfetta per conservare le tue bottiglie
 

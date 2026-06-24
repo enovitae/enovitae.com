@@ -1,7 +1,6 @@
 ---
 title: "La crescita degli influencer del vino"
-description: "\"Nel sempre mutevole mondo del vino, gli influencer stanno plasmando tendenze e ridefinendo il modo in cui viviamo e apprezziamo questo antico elisir. Approfondiamo la crescita degli influencer del vino, esplorando il loro impatto sull'industria, le loro prospettive uniche e come si connettono con un pubblico diversificato...\"
-"
+description: "Gli influencer del vino ridefiniscono tendenze e marketing vinicolo. Scopri come plasmano le preferenze dei consumatori e connettono brand e appassionati."
 author: "Staff Enovitae"
 published: 2024-01-24
 tags: ["vino", "influencer"]

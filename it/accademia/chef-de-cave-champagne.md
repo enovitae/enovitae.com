@@ -1,7 +1,6 @@
 ---
 title: "Lo Chef de Cave: il maestro dietro le bollicine dello champagne"
-description: "\"Esplora il ruolo cruciale dello Chef de Cave nello champagne. Dal processo di assemblaggio alla selezione delle cuvées, immergiti nel mondo affascinante e complesso di chi dà vita alle bollicine più prelibate.\"
-"
+description: "Il ruolo del Chef de Cave nello champagne: dall'assemblaggio delle cuvées alla selezione delle annate, la figura che dà vita alle bollicine più pregiate."
 author: "Staff Enovitae"
 published: 2024-02-08
 tags: ["vino", "champagne", "chef de cave"]

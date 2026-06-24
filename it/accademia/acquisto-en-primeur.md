@@ -1,7 +1,6 @@
 ---
-title: "Acquisto il vino prima che sia in vendita? Si può, scopriamo insieme il mondo dell’acquisto en primeur"
-description: "\"L'acquisto del vino en primeur, o \"vino in anteprima\", un'opportunità affascinante per gli intenditori...\"
-"
+title: "Acquisto en primeur: cos'è, pro, contro e consigli"
+description: "L'acquisto en primeur consente di prenotare vini prestigiosi prima dell'imbottigliamento. Scopri pro, contro e come investire saggiamente nei migliori Bordeaux."
 author: "Enovitae Staff"
 published: 2023-09-18
 tags: ["acquisto", "vendita", "primeur"]
@@ -10,46 +9,57 @@ cover_image: https://enovitae.com/_astro/negozio-vini.1x0ntchs_2wxp9D.webp
 source: Enovitae.com
 ---
 
-L'acquisto del vino en primeur, o "vino in anteprima", è un'opportunità affascinante per gli intenditori e gli appassionati di vino di tutto il mondo. Questo metodo di acquisto consente di assicurarsi le bottiglie di vini di prestigio direttamente dalle cantine, prima che vengano ufficialmente rilasciate sul mercato. Tuttavia, questo processo ha i suoi pro e contro, e richiede attenzione e conoscenza. In questo blog post, esploreremo in dettaglio l'acquisto del vino en primeur, fornendo consigli e raccomandazioni per trarne il massimo piacere.
+L'acquisto del vino en primeur consente di prenotare bottiglie di vino ancora in fase di invecchiamento, pagandole prima dell'imbottigliamento ufficiale. Il mercato en primeur di Bordeaux è il più sviluppato al mondo: ogni aprile, le grandi maison aprono le cantine ai négociants e ai critici per le degustazioni dei vini dell'annata precedente, e i futures vengono rilasciati al pubblico nelle settimane successive. Secondo Liv-ex — la principale piazza di scambio per vini pregiati con sede a Londra — i prezzi en primeur dei châteaux di punta Bordeaux hanno oscillato tra i 300 e gli 800 euro per bottiglia nelle annate 2018-2022.
+
+> **Da sapere**
+> - L'en primeur di Bordeaux apre ogni aprile, circa 18 mesi prima che le bottiglie fisiche vengano consegnate agli acquirenti
+> - Anche il [Brunello di Montalcino](https://enovitae.com/it/accademia/brunello-di-montalcino.md) e il Barolo si acquistano en primeur tramite distributori selezionati
+> - I prezzi en primeur possono scendere rispetto al prezzo a scaffale futuro, ma possono anche salire se l'annata si rivela deludente
+> - Liv-ex traccia i valori di mercato secondario dei vini en primeur in tempo reale (liv-ex.com)
 
 ## Cosa significa acquistare il vino en primeur?
 
-Acquistare il vino en primeur significa prenotare e pagare le bottiglie di vino ancora in fase di invecchiamento e non ancora imbottigliate. In altre parole, si acquista il vino direttamente dalla cantina, solitamente dopo la vendemmia e prima dell'imbottigliamento ufficiale. Questo processo consente ai produttori di finanziare l'anno di produzione e ai consumatori di assicurarsi quantità limitate di vini rari e ambiti.
+Acquistare il vino en primeur significa prenotare e pagare bottiglie ancora in fase di invecchiamento e non ancora imbottigliate. Il processo è semplice in teoria: si sceglie il vino, si paga in anticipo (spesso con una caparra del 50% e saldo alla consegna), e si attende che il produttore completi l'affinamento. Per il Bordeaux, l'attesa è in genere di 18-24 mesi dal momento dell'acquisto alla consegna fisica delle bottiglie. Per il [Brunello di Montalcino](https://enovitae.com/it/accademia/brunello-di-montalcino.md), che richiede almeno 5 anni di invecchiamento totale prima della commercializzazione, i tempi possono arrivare a 3-4 anni dalla vendemmia.
+
+Questo sistema consente ai produttori di finanziare l'anno di produzione e ai consumatori di assicurarsi quantità limitate di vini rari. I château di punta come Pétrus, Mouton Rothschild e Cheval Blanc producono tra i 20.000 e i 40.000 case all'anno: quantità che si esauriscono rapidamente, e i collezionisti che non acquistano en primeur rischiano di trovare prezzi molto più alti sul mercato secondario.
 
 ## I pro dell'acquisto del vino en primeur
 
-**Accesso a Vini Prestigiosi**: L'acquisto del vino en primeur offre l'opportunità di accedere a vini altamente prestigiosi e ricercati, spesso prodotti in quantità limitate.
+**Accesso a vini in quantità limitata.** Molti vini di prestigio, specie nelle grandi annate, si esauriscono prima ancora che raggiungano i negozi. L'en primeur garantisce la prenotazione prima che ciò avvenga. Chi cercava il Petrus 2019 sul mercato secondario nel 2022 pagava il 40-60% in più rispetto al prezzo en primeur originale.
 
-**Potenziale Risparmio**: In alcuni casi, l'acquisto en primeur può offrire prezzi vantaggiosi rispetto all'acquisto di vini già imbottigliati in futuro, soprattutto se il vino diventa più ricercato e i prezzi aumentano.
+**Potenziale risparmio sulle grandi annate.** Nelle annate eccezionali, il prezzo en primeur può essere significativamente inferiore al prezzo futuro a scaffale, soprattutto se critica e mercato valutano positivamente il vino dopo l'imbottigliamento. Questo è il principale incentivo per i collezionisti che acquistano a scopo di investimento.
 
-**Esperienza di Invecchiamento**: Acquistando il vino en primeur, si ha la possibilità di seguire il processo di invecchiamento delle bottiglie dalla fase di produzione fino alla maturità. Questa esperienza può essere gratificante per gli intenditori di vino.
+**Partecipazione al processo di maturazione.** Per gli appassionati, acquistare en primeur significa anche seguire il vino anno dopo anno, confrontarne l'evoluzione con le note dei critici, e aprire le bottiglie progressivamente man mano che raggiungono le diverse finestre di maturità.
 
-**Garanzia di Quantità Limitate**: Poiché i vini in anteprima sono spesso prodotti in quantità limitate, l'acquisto en primeur garantisce che si possa ottenere una certa quantità di bottiglie desiderate prima che il vino venga esaurito.
+**Scelta più ampia.** Le cantine rilasciano en primeur l'intera gamma dell'annata. Chi aspetta l'arrivo fisico delle bottiglie trova spesso solo le referenze più commerciali; le etichette di nicchia o i grand cru minori si esauriscono rapidamente durante la campagna primeur.
 
 ## I contro dell'acquisto del vino en primeur
 
-**Rischio di investimento**: L'acquisto del vino en primeur comporta un certo rischio di investimento, poiché si paga per il vino prima di conoscerne la qualità definitiva. I risultati possono variare a seconda dell'andamento dell'annata e delle condizioni di produzione.
+**Rischio di investimento.** Si paga per un vino ancora in barrique, giudicato da campioni in fase di affinamento. La qualità definitiva della bottiglia può differire dalle aspettative. L'annata 2017 di Bordeaux, penalizzata da gelo primaverile, fu venduta en primeur a prezzi simili alla 2016 eccezionale: chi acquistò sulla base delle prime note perse sull'investimento.
 
-**Tempo di attesa**: L'acquisto del vino en primeur richiede pazienza, poiché è necessario aspettare che il vino completi l'invecchiamento prima di essere consegnato.
+**Tempo di attesa.** Tra il pagamento e la consegna passano spesso 18-30 mesi. Il capitale è immobilizzato. Per i vini da invecchiamento lungo come il Brunello, le bottiglie potrebbero non essere pronte da bere per altri 5-10 anni dopo la consegna.
 
-**Fluttuazioni del mercato**: I prezzi dei vini en primeur possono essere soggetti a fluttuazioni del mercato e delle valute, rendendo difficile prevedere i costi finali dell'acquisto.
+**Fluttuazioni di valuta e mercato.** I prezzi Bordeaux en primeur sono espressi in euro, ma molti acquirenti internazionali pagano in sterline o dollari. Le oscillazioni valutarie possono erodere il vantaggio economico. Liv-ex ha documentato come la svalutazione della sterlina post-Brexit del 2016 abbia aumentato il costo reale dell'en primeur del 15-20% per gli acquirenti britannici rispetto alle previsioni iniziali.
 
-**Possibili variazioni di qualità**: Nonostante la reputazione del produttore, il risultato finale del vino potrebbe differire dalle aspettative a causa di variabili come il clima, la vinificazione e l'affinamento.
+**Dipendenza dal rivenditore.** In caso di fallimento del négociant o del rivenditore prima della consegna, recuperare l'anticipo pagato è difficile. È essenziale acquistare solo tramite distributori con track record consolidato e garanzie contrattuali chiare.
 
-## Consigli e raccomandazioni per l'acquisto del vino en primeur
+## Consigli pratici per chi vuole iniziare
 
-**Ricerca e informazione**: Prima di effettuare un acquisto en primeur, è essenziale fare ricerche approfondite sulla cantina, l'annata, il terroir e la qualità passata dei vini prodotti.
+**Ricerca e informazione.** Prima di acquistare, leggi le note critiche di Jancis Robinson (jancisrobinson.com), Wine Spectator, o Robert Parker. Confronta almeno tre fonti prima di impegnare capitale su un'annata specifica.
 
-**Affidabilità del rivenditore**: Scegliere un rivenditore di vino affidabile e ben noto, con esperienza nell'acquisto en primeur e una solida reputazione sul mercato.
+**Inizia con quantità moderate.** Per chi si avvicina per la prima volta, acquistare mezza cassa (6 bottiglie) su due o tre referenze diverse è più prudente che puntare tutto su un unico vino. La diversificazione riduce l'esposizione al rischio di un'annata singola.
 
-**Conoscere le condizioni di vendita**: Assicurarsi di comprendere appieno le condizioni di vendita, inclusi i termini di consegna e di pagamento, le politiche di restituzione e le eventuali spese aggiuntive.
+**Verifica le condizioni di conservazione.** Una volta consegnate, le bottiglie devono essere conservate in condizioni ottimali per mantenere il valore. Consulta i principi di [conservazione corretta del vino](https://enovitae.com/it/accademia/conservare-il-vino.md) — temperatura stabile, umidità controllata, luce assente — prima di decidere dove stoccare l'acquisto.
 
-**Limitare la quantità**: Acquistare una quantità moderata di bottiglie en primeur per evitare eccessivi rischi di investimento.
+**Scegli rivenditori con custodia in loco.** Molti distributori offrono servizi di stoccaggio professionale ("warehouse release"), dove le bottiglie restano fisicamente nei magazzini del négociant fino all'apertura. Questo riduce i rischi logistici e mantiene tracciabilità della provenienza.
 
-**Conservazione adeguata**: Dopo l'acquisto, assicurarsi di conservare il vino in modo appropriato, in cantine idonee per garantirne la migliore evoluzione e maturità.
+## Domande frequenti
 
-**Patience e curiosità**: Acquistare il vino en primeur richiede pazienza e curiosità, poiché si tratta di un viaggio enologico che culmina con la degustazione delle bottiglie alla loro maturità.
+**È sicuro comprare vino en primeur?**
+Sì, se si sceglie un rivenditore affidabile con esperienza nel settore e garanzie contrattuali scritte. I rischi principali sono l'insolvenza del distributore e la delusione qualitativa dell'annata. Limitare gli acquisti ai produttori con storico verificabile e alle annate valutate positivamente dai critici principali riduce significativamente l'esposizione.
 
-## Conclusione
+**Quando ricevo le bottiglie dopo l'acquisto en primeur?**
+Per il Bordeaux la consegna avviene in genere 18-24 mesi dopo la campagna primeur, quando il vino è imbottigliato e rilasciato. Per il Brunello di Montalcino i tempi si allungano: il disciplinare impone un invecchiamento minimo di 5 anni dalla vendemmia, quindi le bottiglie di un'annata acquistata en primeur arrivano in certi casi dopo 3-4 anni dal pagamento.
 
-L'acquisto del vino en primeur offre l'opportunità di assicurarsi vini prestigiosi, seguire il loro processo di invecchiamento e, potenzialmente, risparmiare sul costo finale. Tuttavia, questo processo comporta rischi e richiede attenzione e consapevolezza. Con una buona ricerca e una scelta oculata dei rivenditori, gli intenditori possono godersi l'esperienza di acquistare e gustare vini unici, offrendo una connessione autentica con la tradizione enologica e l'arte di produrre vini di qualità superiore.
+**Conviene comprare en primeur rispetto a una bottiglia già pronta?**
+Dipende dall'annata e dall'obiettivo. Per le grandi annate delle denominazioni più richieste, l'en primeur offre accesso e spesso prezzi migliori. Per le annate ordinarie, aspettare l'imbottigliamento e acquistare a scaffale è più prudente, perché i prezzi en primeur non sempre scendono rispetto al mercato fisico successivo. Il portale Liv-ex (liv-ex.com) pubblica dati storici di confronto tra prezzi en primeur e prezzi di mercato a distanza di tre anni, ed è la fonte più affidabile per questa valutazione.

@@ -1,7 +1,6 @@
 ---
 title: "Brunello di Montalcino: L'eccellenza del sangiovese in una bottiglia"
-description: "\"Brunello di Montalcino, la sua storia, il suo metodo di produzione, l'invecchiamento e gli abbinamenti gastronomici che lo rendono uno dei grandi tesori enologici d'Italia.\"
-"
+description: "Brunello di Montalcino: storia, produzione, fasi di invecchiamento e abbinamenti gastronomici. Tutto sul grande rosso toscano, patrimonio enologico d'Italia."
 author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["brunello", "montalcino", "toscana"]
@@ -38,7 +37,7 @@ La produzione del Brunello di Montalcino è regolata da rigidi standard imposti 
 
 Il Brunello di Montalcino è uno dei vini italiani più conosciuti per la sua straordinaria capacità di invecchiamento. Grazie alla sua robusta struttura e al profilo di tannini ben integrati, il vino può essere conservato e affinato per lunghi periodi di tempo. La curva di affinamento del Brunello si sviluppa in diverse fasi, ognuna con caratteristiche organolettiche specifiche:
 
-**Giovane**: Il Brunello appena rilasciato ha un carattere fruttato e vivace, con tannini presenti ma ancora freschi. I profumi primari di frutta rossa e spezie sono ben distinti, e il vino mostra una piacevole acidità che contribuisce alla sua vivacità. Tuttavia, in questa fase, il vino potrebbe apparire un po' chiuso e rigido, quindi si consiglia di decantarlo prima di servirlo per esprimere appieno la sua potenziale bellezza.
+**Giovane**: Il Brunello appena rilasciato ha un carattere fruttato e vivace, con [tannini](https://enovitae.com/it/accademia/gusto-vino-tannico.md) presenti ma ancora freschi. I profumi primari di frutta rossa e spezie sono ben distinti, e il vino mostra una piacevole acidità che contribuisce alla sua vivacità. Tuttavia, in questa fase, il vino potrebbe apparire un po' chiuso e rigido, quindi si consiglia di decantarlo prima di servirlo per esprimere appieno la sua potenziale bellezza.
 
 **Pronto**: Dopo circa 5-10 anni dall'annata, il Brunello entra nella sua fase "pronto". In questo momento, il vino ha iniziato a sviluppare complessità aromatica, con una maggiore presenza di note terziarie come cuoio, tabacco e spezie. I tannini si sono ammorbiditi, integrandosi armoniosamente con gli altri componenti del vino. Il profilo di frutta rossa si fonde con le sfumature terziarie, creando un bouquet più ricco e stratificato.
 
@@ -62,4 +61,4 @@ Il Brunello di Montalcino è un vino versatile che si sposa magnificamente con d
 
 ## Conclusioni
 
-Il Brunello di Montalcino è un tesoro enologico italiano, un vino rosso che incarna l'essenza della Toscana e della sua tradizione vinicola. La combinazione di uve Sangiovese Grosso, metodo di invecchiamento a lungo termine, il clima unico della zona e l'amore e l'arte di generazioni di produttori hanno reso questo vino una vera eccellenza. Dal suo colore intenso, ai profumi complessi e al gusto avvolgente, il Brunello di Montalcino è un'esperienza sensoriale indimenticabile che si presta a invecchiare con eleganza nel tempo, donando momenti di piacere e celebrazione. Se siete alla ricerca di un vino straordinario per arricchire i momenti speciali o per esplorare la bellezza del territorio toscano, il Brunello di Montalcino non vi deluderà mai.
+Il Brunello di Montalcino è un tesoro enologico italiano, un vino rosso che incarna l'essenza della Toscana e della sua tradizione vinicola. Per i collezionisti, l'acquisto anticipato tramite il sistema dell'[en primeur](https://enovitae.com/it/accademia/acquisto-en-primeur.md) è un modo per assicurarsi le bottiglie delle annate più attese. La combinazione di uve Sangiovese Grosso, metodo di invecchiamento a lungo termine, il clima unico della zona e l'amore e l'arte di generazioni di produttori hanno reso questo vino una vera eccellenza. Dal suo colore intenso, ai profumi complessi e al gusto avvolgente, il Brunello di Montalcino è un'esperienza sensoriale indimenticabile che si presta a invecchiare con eleganza nel tempo, donando momenti di piacere e celebrazione. Se siete alla ricerca di un vino straordinario per arricchire i momenti speciali o per esplorare la bellezza del territorio toscano, il Brunello di Montalcino non vi deluderà mai.

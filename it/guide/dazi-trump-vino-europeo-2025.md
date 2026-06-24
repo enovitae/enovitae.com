@@ -1,6 +1,6 @@
 ---
 title: "Addio ai vini francesi e italiani? Il dazio del 200% di Trump sconvolge il mercato"
-description: "Un dazio del 200% su vino e Champagne europei potrebbe cambiare il mercato globale. Scopri come questa escalation della guerra commerciale impatterà prezzi, disponibilità e settore vinicolo."
+description: "I dazi USA al 200% su vino e Champagne europei minacciano il mercato globale. Come questa guerra commerciale impatta prezzi, esportazioni e consumatori."
 author: "Enovitae Staff"
 published: 2025-03-21
 tags: ["notizie vino", "guerra commerciale", "vino europeo", "dazi", "Trump"]

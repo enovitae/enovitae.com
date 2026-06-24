@@ -1,6 +1,6 @@
 ---
 title: "Non potrai più permetterti il tuo vino preferito: ecco perché"
-description: "Scopri come l'aumento dei prezzi e le tariffe stanno sconvolgendo l'industria del vino, limitando le opzioni per i consumatori e danneggiando il mercato globale."
+description: "Prezzi in aumento e tariffe sconvolgono l'industria del vino, limitando le scelte per i consumatori e danneggiando il mercato globale. Cosa succederà nel 2025."
 author: "Enovitae Staff"
 published: 2025-01-25
 tags: ["industria vinicola", "prezzi del vino", "tariffe", "consumo vino"]

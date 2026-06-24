@@ -22,7 +22,7 @@ Il Nebbiolo è uno dei vitigni più riconosciuti d'Italia, noto per la sua elega
 
 - **Aromi floreali e terrosi**: Il Nebbiolo offre profumi intensi e complessi di rose, violette, tabacco e terra bagnata, che conferiscono al vino una personalità unica.
 
-- **Struttura potente**: Il Barolo, prodotto con Nebbiolo, è rinomato per la sua struttura tannica e il corpo pieno. Questi tannini possono risultare aspri in giovane età, ma con l'invecchiamento si ammorbidiscono, permettendo al vino di sviluppare una raffinata eleganza.
+- **Struttura potente**: Il Barolo, prodotto con Nebbiolo, è rinomato per la sua struttura [tannica](https://enovitae.com/it/accademia/gusto-vino-tannico.md) e il corpo pieno. Questi tannini possono risultare aspri in giovane età, ma con l'invecchiamento si ammorbidiscono, permettendo al vino di sviluppare una raffinata eleganza.
 
 - **Invecchiamento**: Il Nebbiolo ha una straordinaria capacità di invecchiamento. I migliori Barolo possono continuare a migliorare per decenni, sviluppando complessità aromatica e una profonda intensità.
 
@@ -62,7 +62,7 @@ La domanda "È più buono il Barolo o il Brunello?" non ha una risposta definiti
 
 La scelta tra i due dipende dalle preferenze personali. Il Barolo affascina con la sua intensità e il suo straordinario potenziale di invecchiamento, offrendo profondi aromi floreali e terrosi che si evolvono nel tempo. D'altro canto, il Brunello incanta con il suo equilibrio, offrendo una perfetta fusione di frutti rossi freschi e note terziarie che si sviluppano con il passare degli anni.
 
-Per gli appassionati e i collezionisti, sia il [Barolo](https://enovitae.com/it/comparazioni/barolo-vs-nebbiolo.md) che il Brunello rappresentano un investimento degno, offrendo non solo esperienze di degustazione eccellenti ma anche vini capaci di invecchiare magnificamente, rivelando nuove sfumature di complessità. Che si preferisca il carattere robusto del Barolo o la finezza elegante del Brunello, entrambi i vini restano pilastri della viticoltura italiana e continueranno ad essere celebrati a livello mondiale.
+Per gli appassionati e i collezionisti — che possono valutare l'acquisto attraverso il sistema dell'[en primeur](https://enovitae.com/it/accademia/acquisto-en-primeur.md) — sia il [Barolo](https://enovitae.com/it/comparazioni/barolo-vs-nebbiolo.md) che il Brunello rappresentano un investimento degno, offrendo non solo esperienze di degustazione eccellenti ma anche vini capaci di invecchiare magnificamente, rivelando nuove sfumature di complessità. Che si preferisca il carattere robusto del Barolo o la finezza elegante del Brunello, entrambi i vini restano pilastri della viticoltura italiana e continueranno ad essere celebrati a livello mondiale.
 
 ### Perché Barolo vs. Brunello è importante nel 2024 e oltre
 

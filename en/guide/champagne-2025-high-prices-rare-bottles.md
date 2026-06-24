@@ -1,6 +1,6 @@
 ---
 title: "Champagne 2025: Prices Skyrocket, Yields Shrink and Bottles Become Rare"
-description: "In 2025 Champagne faces one of its toughest years: lower yields, rising prices, and fewer bottles available. Discover what this means for consumers and the market."
+description: "In 2025 Champagne faces lower yields, rising prices, and fewer bottles. Discover what this difficult vintage means for consumers and the global market."
 author: "Enovitae Staff"
 published: 2025-08-22
 tags: ["champagne", "french wines", "wine market", "prices 2025", "french bubbles"]

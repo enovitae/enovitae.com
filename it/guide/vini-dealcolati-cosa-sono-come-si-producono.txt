@@ -10,13 +10,16 @@
 
 ---
 
-# Vini dealcolati: cosa sono davvero e perché tutti ne parlano
-
 Fino a pochi anni fa sembravano una curiosità destinata a rimanere una nicchia. Oggi, invece, i **vini dealcolati** rappresentano uno dei segmenti più dinamici dell'intero settore vitivinicolo mondiale.
 
 Complici il cambiamento delle abitudini di consumo, una crescente attenzione al benessere e l'evoluzione normativa anche in Italia, sempre più produttori stanno investendo nei cosiddetti prodotti **NoLo** (*No Alcohol* e *Low Alcohol*).
 
 Ma cosa sono esattamente i vini dealcolati? Come vengono prodotti? Sono davvero "vino"? E soprattutto: hanno un futuro?
+
+> **In sintesi**
+> - La normativa UE definisce il vino dealcolato come un prodotto con al massimo lo 0,5% vol. di alcol, ottenuto sempre per fermentazione
+> - Il mercato globale NoLo vale 2,4 miliardi di dollari e dovrebbe raggiungere 3,3 miliardi entro il 2028 (+8% annuo, Osservatorio UIV)
+> - Con il decreto MEF-MASAF, l'Italia ha regolamentato produzione, accise e commercializzazione dei vini dealcolati sul territorio nazionale
 
 ## Cosa sono i vini dealcolati?
 
@@ -53,7 +56,7 @@ Il processo avviene in tre fasi:
 - Possibile perdita di alcuni composti aromatici;
 - Necessità di successive correzioni dell'equilibrio gustativo.
 
-## 2. Distillazione sottovuoto
+### 2. Distillazione sottovuoto
 
 In condizioni di vuoto, l'alcol evapora a temperature molto inferiori rispetto ai normali 78°C.
 
@@ -72,7 +75,7 @@ Questo consente di:
 - Investimenti tecnologici significativi;
 - Possibili modifiche del profilo sensoriale.
 
-## 3. Distillazione tradizionale
+### 3. Distillazione tradizionale
 
 È una delle tecniche storicamente utilizzate.
 
@@ -194,6 +197,20 @@ Le nuove generazioni bevono meno alcol, ricercano esperienze diverse e pongono m
 In questo contesto, i vini dealcolati potrebbero rappresentare non una minaccia alla tradizione, ma una **nuova opportunità di innovazione** per il mondo del vino.
 
 La vera sfida sarà mantenere intatti identità, territorialità e piacere sensoriale, continuando al tempo stesso a evolversi insieme alle esigenze dei consumatori.
+
+## Domande frequenti
+
+**Qual è la differenza tra vino dealcolato e succo d'uva?**
+Il vino dealcolato nasce sempre dalla fermentazione alcolica del mosto, diversamente dal succo d'uva che non fermenta. Contiene i composti derivati dalla fermentazione — esteri, acidi, polifenoli — che definiscono il profilo sensoriale del vino. Il succo d'uva è semplicemente mosto non fermentato e ha un profilo gustativo completamente diverso.
+
+**I vini dealcolati hanno meno calorie del vino tradizionale?**
+Sì. L'alcol apporta 7 kcal per grammo, contro le 4 kcal dei carboidrati. Un bicchiere di vino al 13% ABV contiene circa 120-130 kcal; il corrispettivo dealcolato si aggira tra 50 e 80 kcal per bicchiere, in base al residuo zuccherino. È uno dei motivi principali per cui il segmento attira consumatori attenti alla dieta.
+
+**È legale produrre vino dealcolato in Italia?**
+Sì, dal 2024. Il decreto interministeriale MEF-MASAF ha recepito la normativa europea e definito le regole per produzione, accise e commercializzazione. Prima dell'approvazione, la dealcolazione avveniva esclusivamente all'estero — principalmente in Germania e Spagna — con costi logistici e competitivi penalizzanti per i produttori italiani.
+
+**Qual è la differenza tra "vino dealcolato" e "vino analcolico"?**
+"Analcolico" indica genericamente una bevanda senza alcol, non necessariamente derivata da fermentazione. "Vino dealcolato" è un termine tecnico-legale: identifica un prodotto che nasce come vino (con fermentazione alcolica) e viene poi privato dell'alcol fino allo 0,5% vol. tramite tecnologie certificate dalla normativa europea.
 
 ---
 

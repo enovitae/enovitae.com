@@ -1,6 +1,6 @@
 ---
 title: "Come scegliere il vino perfetto per San Valentino senza spendere troppo"
-description: "Trova il miglior vino economico per San Valentino senza rinunciare alla qualità. La nostra guida ti aiuta a scegliere la bottiglia perfetta per una serata romantica."
+description: "I migliori vini economici per San Valentino senza rinunciare alla qualità: guida pratica alla bottiglia perfetta, con abbinamenti per ogni budget e gusto."
 author: "Enovitae Staff"
 published: 2025-02-12
 tags: ["san valentino", "vino e cibo", "vini economici", "cena romantica"]

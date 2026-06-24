@@ -26,7 +26,7 @@ Decidi il budget prima di iniziare la ricerca del vino. Il prezzo del vino può 
 
 ## Optare per una bottiglia di annata
 
-Se vuoi rendere il regalo più unico e personale, considera una bottiglia di annata. I vini di annata sono prodotti da uve raccolte in un singolo anno e hanno un potenziale di invecchiamento più lungo. Scegliere un vino di annata speciale, come un Barolo del 2010 o un Bordeaux del 2005, può essere un'esperienza di degustazione unica e memorabile, permettendo al destinatario di assaporare un pezzo di storia vinicola.
+Se vuoi rendere il regalo più unico e personale, considera una bottiglia di annata. I vini di annata sono prodotti da uve raccolte in un singolo anno e hanno un potenziale di invecchiamento più lungo. Scegliere un vino di annata speciale, come un Barolo del 2010 o un [Bordeaux](https://enovitae.com/it/accademia/vino-francese-10-caratteristiche.md) del 2005, può essere un'esperienza di degustazione unica e memorabile, permettendo al destinatario di assaporare un pezzo di storia vinicola.
 
 ## Esplorare regioni vinicole emergenti
 

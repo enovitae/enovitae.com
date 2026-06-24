@@ -1,31 +1,67 @@
 ---
-title: "Il mercato vinicolo italiano nel 2024: trend e previsioni"
-description: "Un'analisi dettagliata del mercato vinicolo italiano nel 2024, con previsioni di crescita e dati sulle esportazioni e le vendite di vino."
+title: "Mercato del vino 2024: consumi globali, preferenze e dati italiani"
+description: "Dati, tendenze e previsioni 2024 sul mercato del vino: dai consumi globali per continente alle preferenze dei consumatori, fino ai numeri del mercato italiano."
 author: "Enovitae Staff"
 published: 2024-09-09
-tags: ["mercato", "italia", "previsioni", "2024"]
+tags: ["mercato", "italia", "previsioni", "statistica", "tendenze", "2024"]
 url: https://enovitae.com/it/accademia/mercato-vino-italia-2024
 cover_image: https://enovitae.com/_astro/market_vino_italiano_2024.Be4ynk4V_2B8MT.webp
 source: Enovitae.com
 ---
 
-## Il mercato vinicolo italiano nel 2024: trend e previsioni
+Il consumo di vino è un indicatore chiave delle preferenze culturali, delle tendenze economiche e dei cambiamenti sociali. L'Italia resta uno dei protagonisti assoluti del mercato vinicolo mondiale — ma per capire la posizione italiana bisogna prima leggere il contesto globale. In questo articolo analizziamo i trend di consumo per continente, l'evoluzione delle preferenze dal 2000 a oggi e i dati più recenti sul mercato italiano, con le previsioni per il 2024.
 
-L'Italia è tra i principali protagonisti del [mercato vinicolo mondiale](https://enovitae.com/it/accademia/preferenze-consumatori-vino-2000-2024.md). L'indagine condotta dall'Area Studi di Mediobanca sul settore vinicolo italiano per il 2024 evidenzia trend di crescita e alcuni cambiamenti significativi nel comportamento dei consumatori. Di seguito riportiamo i dati più significativi relativi al mercato italiano e una previsione per il 2024.
+## Mercato globale: dove si beve vino nel 2024
+
+**Secondo l'Organizzazione Internazionale della Vigna e del Vino (OIV), il consumo globale di vino nel 2023 ha raggiunto circa 234 milioni di ettolitri**, con variazioni significative tra le diverse regioni. L'ultimo decennio ha visto cambiamenti profondi: le regioni tradizionalmente consumatrici, come l'Europa, registrano un leggero calo, mentre i mercati emergenti in Asia e Nord America mostrano una crescita costante.
+
+### Europa
+
+L'Europa continua ad avere il maggior consumo di vino pro capite al mondo, ma i principali mercati — Francia, Italia, Spagna — affrontano una diminuzione attribuita a cambiamenti demografici, stili di vita più salutari e una minore trasmissione generazionale del consumo di vino.
+
+### Asia
+
+Il mercato asiatico, in particolare la Cina, ha vissuto una crescita esponenziale nel consumo di vino nel decennio 2010-2020. Negli ultimi anni la crescita ha rallentato, ma l'interesse per i vini di alta qualità e i rossi strutturati rimane elevato. Giappone e Corea del Sud stanno emergendo come mercati sofisticati per i vini premium e le bollicine.
+
+### Nord America
+
+Negli Stati Uniti il consumo di vino è in crescita costante, con una domanda sempre più marcata verso i vini biologici e sostenibili. Anche il Canada registra un aumento, trainato dall'interesse per i vini locali e naturali.
+
+### Mercati emergenti
+
+Paesi come India e Brasile si candidano a diventare nuovi protagonisti del consumo vinicolo. L'aumento del reddito disponibile e la crescente urbanizzazione alimentano la domanda di prodotti premium, tra cui il vino.
+
+## Come sono cambiate le preferenze dal 2000 al 2024
+
+Negli ultimi 25 anni il mondo del vino ha vissuto una trasformazione nelle preferenze dei consumatori che va ben oltre la semplice variazione di quote di mercato.
+
+### Le varietà: tradizione vs nuovi profili
+
+Le varietà classiche come Cabernet Sauvignon e Merlot continuano a dominare il mercato, ma stanno perdendo quote a favore di profili più eleganti. Il Pinot Noir ha registrato una crescita costante grazie al suo bouquet raffinato e alla domanda crescente di vini più leggeri. Tra i bianchi, lo Chardonnay mantiene la leadership ma vede crescere varietà meno diffuse come il Viognier e l'Albariño, apprezzati per la loro freschezza aromatica.
+
+### L'ascesa dei vini naturali e sostenibili
+
+Le nuove tendenze — vini naturali, [biologici](https://enovitae.com/it/accademia/vino-biologico.md), vegani e a bassa solfitazione — stanno influenzando profondamente le preferenze dei consumatori. Sempre più persone scelgono vini prodotti con metodi sostenibili e con un impatto ambientale ridotto, con una preferenza per prodotti meno manipolati e vinificazioni tradizionali. I vini arancio e gli spumanti naturali (Pet Nat) trovano un pubblico crescente tra i consumatori più giovani, attratti dalla loro autenticità.
+
+### La polarizzazione del mercato
+
+Uno dei trend più marcati degli ultimi anni è la polarizzazione del mercato: i consumatori tendono a spostarsi verso la fascia alta (vini premium ed esperienziali) o verso opzioni accessibili a buon rapporto qualità-prezzo, abbandonando la fascia intermedia. Questo fenomeno è confermato dai dati italiani del 2023.
+
+## Il mercato italiano nel 2024: vendite, esportazioni e top player
+
+L'indagine condotta dall'Area Studi di Mediobanca sul settore vinicolo italiano per il 2024 fornisce dati solidi su questa evoluzione.
 
 ### Vendite ed esportazioni in crescita
 
-Secondo l'indagine, le vendite di vino in Italia sono previste in aumento del +2,6% per il 2024. Le esportazioni giocheranno un ruolo chiave in questa crescita, con un incremento stimato del +3%. I vini [spumanti](https://enovitae.com/it/accademia/brut-dosaggi-champagne-spumanti.md), in particolare, si confermano un punto di forza del mercato italiano, con ricavi in aumento del +3,7% e un'ulteriore espansione delle esportazioni (+6,8%).
+Secondo l'indagine, le vendite di vino in Italia sono previste in aumento del **+2,6%** per il 2024. Le esportazioni giocheranno un ruolo chiave in questa crescita, con un incremento stimato del **+3%**. I vini [spumanti](https://enovitae.com/it/accademia/caratteristiche-champagne.md) si confermano un punto di forza, con ricavi in aumento del **+3,7%** e un'ulteriore espansione delle esportazioni (**+6,8%**).
 
-### Diminuzione dei volumi venduti, ma crescita dei vini premium
+### Diminuzione dei volumi ma crescita del premium
 
-Nonostante la crescita complessiva delle vendite, il 2023 ha registrato una diminuzione dei volumi venduti (-4,5%). Tuttavia, si osserva una tendenza verso il consumo di vini di qualità superiore: i vini di fascia molto alta hanno registrato un aumento del +12,7%. Questo trend riflette una polarizzazione del mercato, dove i consumatori preferiscono optare per prodotti di alta gamma, lasciando indietro le fasce intermedie (-10,1%).
+Nonostante la crescita complessiva delle vendite in valore, il 2023 ha registrato una diminuzione dei volumi venduti (**-4,5%**). Al contrario, i vini di fascia molto alta hanno segnato un aumento del **+12,7%**, a conferma della polarizzazione del mercato. La fascia intermedia è quella che soffre di più (**-10,1%**), mentre la fascia bassa perde quota del **-1,7%**.
 
-![Analisi del mercato vinicolo italiano nel 2024](https://enovitae.com/_astro/infografica_vino_italiano_2024_amb.iutuXnCZ_Z1xsCpi.webp)
+### Crescita dell'enoturismo e sfida della sostenibilità
 
-### Crescita dell'enoturismo e della sostenibilità
-
-Un altro fattore di crescita rilevante è rappresentato dall'enoturismo, i cui ricavi sono cresciuti del +15% nel 2023. Tuttavia, solo il 35% delle aziende vinicole italiane ha redatto un report di sostenibilità, evidenziando la necessità di miglioramento in quest'area.
+L'enoturismo è diventato un motore di crescita rilevante: i ricavi del settore sono aumentati del **+15%** nel 2023, segnale di un interesse crescente per le esperienze dirette in cantina e in vigna. Tuttavia, solo il **35%** delle aziende vinicole italiane ha redatto un report di sostenibilità — una lacuna rispetto alle aspettative dei mercati di destinazione internazionali, sempre più attenti alle pratiche green.
 
 ### Le performance delle principali aziende vinicole italiane
 
@@ -62,7 +98,15 @@ Nel 2023, il gruppo **Cantine Riunite-GIV** ha mantenuto la leadership con un fa
 
 ---
 
-L'analisi del mercato vinicolo italiano evidenzia una crescita nelle vendite e un trend positivo per i vini di alta gamma, con le esportazioni che continueranno a svolgere un ruolo cruciale nel 2024. Tuttavia, resta aperta la sfida legata alla sostenibilità e alla necessità di integrare pratiche più green nel settore.
+## Digitalizzazione e IA: il futuro del settore
+
+La digitalizzazione sta trasformando ogni aspetto dell'industria del vino: dall'[intelligenza artificiale applicata alla viticoltura](https://enovitae.com/it/accademia/ia-viticoltori-tecnologia-vigneto.md) alle piattaforme di e-commerce vinicolo, dall'uso della blockchain per la tracciabilità delle denominazioni alle app di abbinamento personalizzato. Le vendite online di vino, già in forte crescita nel periodo post-pandemia, continueranno a espandersi, aprendo il mercato a fasce demografiche e geografiche nuove.
+
+## Conclusione
+
+Il mercato del vino globale e italiano è in piena transizione: crescono i volumi nei mercati emergenti, si polarizzano le preferenze verso il premium e il naturale, e l'Italia difende la sua leadership sull'export grazie soprattutto alle bollicine. La sfida per i produttori italiani è duplice — capitalizzare il posizionamento premium e accelerare sul fronte della sostenibilità, che diventa sempre più un pre-requisito per l'accesso ai mercati internazionali.
+
+---
 
 #### Fonti
 

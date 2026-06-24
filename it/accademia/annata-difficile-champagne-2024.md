@@ -30,7 +30,7 @@ Questa situazione comporta due possibili scenari per il mercato nei prossimi mes
 
 ### La risposta del settore: pianificazione e formazione
 
-Per affrontare le difficoltà dell'annata, il Comité Champagne ha lanciato il piano "Ensemble pour les vendanges en [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md)" (“Insieme per la vendemmia in Champagne”), con l'obiettivo di salvaguardare la qualità della vendemmia nonostante le condizioni difficili. Il piano ha incluso incontri formativi e strumenti innovativi per i viticoltori, che hanno accolto con favore le pratiche promosse, dimostrando grande adattabilità.
+Per affrontare le difficoltà dell'annata, il Comité Champagne ha lanciato il piano “Ensemble pour les vendanges en [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md)” (“Insieme per la vendemmia in Champagne”), con l'obiettivo di salvaguardare la qualità della vendemmia nonostante le condizioni difficili. Il piano ha incluso incontri formativi e strumenti innovativi per i viticoltori, che hanno accolto con favore le pratiche promosse, dimostrando grande adattabilità.
 
 David Chatillon, presidente delle Maisons de [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md), ha evidenziato l'importanza della creazione di un sindacato dei fornitori di servizi e di un quadro di riferimento per le migliori pratiche, considerandoli segnali positivi per il futuro del settore. Il coinvolgimento delle istituzioni locali, sotto la guida del prefetto della regione Grand Est, ha ulteriormente rafforzato il supporto al settore, promuovendo un piano di azione coordinato.
 
@@ -38,7 +38,7 @@ David Chatillon, presidente delle Maisons de [Champagne](https://enovitae.com/it
 
 Con una resa ridotta e un calo delle vendite, il 2024 potrebbe vedere un aumento dei prezzi dello [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md), soprattutto nelle fasce premium. I produttori stanno cercando di bilanciare la domanda e l'offerta, mantenendo la qualità alta nonostante le difficoltà climatiche e i costi crescenti. Per i consumatori, ciò potrebbe significare un aumento del costo medio delle bottiglie, con una maggiore enfasi sui prodotti di fascia alta.
 
-La cooperazione tra viticoltori, Maisons de Champagne e istituzioni sarà fondamentale per garantire la prosperità del settore anche in questo contesto sfidante. Mentre la vendemmia dovrebbe iniziare a metà settembre, con aspettative miste, rimane evidente la resilienza del settore [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md), pronto ad affrontare le sfide con forza e determinazione.
+La cooperazione tra viticoltori, Maisons de [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md) e istituzioni — con il [chef de cave](https://enovitae.com/it/accademia/chef-de-cave-champagne.md) come garante della qualità finale — sarà fondamentale per garantire la prosperità del settore anche in questo contesto sfidante. Mentre la vendemmia dovrebbe iniziare a metà settembre, con aspettative miste, rimane evidente la resilienza del settore [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md), pronto ad affrontare le sfide con forza e determinazione.
 
 ---
 

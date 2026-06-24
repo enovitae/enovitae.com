@@ -1,6 +1,6 @@
 ---
 title: "Goodbye to French and Italian wines? Trump's 200% duty shocks the market"
-description: "A 200% tariff on European wine and Champagne could reshape the global wine market. Find out how this trade war escalation may impact prices, availability, and the industry."
+description: "A 200% US tariff on European wine and Champagne could reshape the global market. How this trade war escalation impacts prices, exports, and wine consumers."
 author: "Enovitae Staff"
 published: 2025-03-21
 tags: ["wine news", "trade war", "European wine", "tariffs", "Trump"]

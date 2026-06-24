@@ -1,6 +1,6 @@
 ---
 title: "California Wine Crisis 2025: Oversupply, Abandoned Vineyards and a Market on the Brink"
-description: "California faces its worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes."
+description: "California's worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes."
 author: "Enovitae Staff"
 published: 2025-11-13
 tags: ["california wine", "wine crisis", "wine market 2025", "oversupply", "grape harvest"]
