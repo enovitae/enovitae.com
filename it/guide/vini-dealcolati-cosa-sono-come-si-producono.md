@@ -9,212 +9,110 @@ cover_image: https://enovitae.com/_astro/dealcoholized-wine-guide-2026.E1rEGpjH_
 source: Enovitae.com
 ---
 
-Fino a pochi anni fa sembravano una curiosità destinata a rimanere una nicchia. Oggi, invece, i **vini dealcolati** rappresentano uno dei segmenti più dinamici dell'intero settore vitivinicolo mondiale.
+Fino a pochi anni fa sembravano una curiosità destinata a restare di nicchia. Oggi i **vini dealcolati** sono uno dei segmenti più dinamici dell'intero settore vitivinicolo mondiale, spinti dal cambiamento delle abitudini di consumo, dalla crescente attenzione al benessere e da una normativa che è finalmente arrivata a coprire la categoria.
 
-Complici il cambiamento delle abitudini di consumo, una crescente attenzione al benessere e l'evoluzione normativa anche in Italia, sempre più produttori stanno investendo nei cosiddetti prodotti **NoLo** (*No Alcohol* e *Low Alcohol*).
-
-Ma cosa sono esattamente i vini dealcolati? Come vengono prodotti? Sono davvero "vino"? E soprattutto: hanno un futuro?
+Sui prodotti **NoLo** (_No Alcohol_ e _Low Alcohol_) investono oggi produttori che cinque anni fa li ignoravano. Ma cosa sono esattamente i vini dealcolati, come vengono prodotti e sono davvero "vino"?
 
 > **In sintesi**
+>
 > - La normativa UE definisce il vino dealcolato come un prodotto con al massimo lo 0,5% vol. di alcol, ottenuto sempre per fermentazione
 > - Il mercato globale NoLo vale 2,4 miliardi di dollari e dovrebbe raggiungere 3,3 miliardi entro il 2028 (+8% annuo, Osservatorio UIV)
 > - Con il decreto MEF-MASAF, l'Italia ha regolamentato produzione, accise e commercializzazione dei vini dealcolati sul territorio nazionale
 
 ## Cosa sono i vini dealcolati?
 
-Il vino dealcolato nasce come un **vino tradizionale**, ottenuto attraverso la normale fermentazione del mosto d'uva. Solo successivamente viene sottoposto a processi tecnologici che rimuovono parte o quasi tutto l'alcol presente.
+Il vino dealcolato nasce come un **vino tradizionale**, ottenuto attraverso la normale fermentazione del mosto d'uva. Solo dopo viene sottoposto a processi tecnologici che rimuovono parte o quasi tutto l'alcol presente.
 
-Secondo la normativa europea:
+La normativa europea distingue due casi. Il **vino dealcolato** contiene fino allo **0,5% vol.** di alcol. Il **vino parzialmente dealcolato** supera lo 0,5% vol. ma resta sotto la gradazione minima prevista per la sua categoria.
 
-- **Vino dealcolato:** contiene fino allo **0,5% vol.** di alcol;
-- **Vino parzialmente dealcolato:** supera lo 0,5% vol., ma rimane al di sotto della gradazione minima prevista per la specifica categoria di vino.
-
-È importante sottolineare che non si tratta di succhi d'uva o bevande aromatizzate: il prodotto di partenza è sempre un vino ottenuto tramite fermentazione.
+In nessuno dei due casi si tratta di succhi d'uva o bevande aromatizzate: il prodotto di partenza è sempre un vino ottenuto tramite fermentazione.
 
 ## Come si produce un vino dealcolato?
 
-La legislazione europea autorizza tre principali tecnologie di dealcolazione, utilizzabili singolarmente o in combinazione.
+La legislazione europea autorizza tre tecnologie di dealcolazione, utilizzabili singolarmente o in combinazione.
 
-### 1. Osmosi inversa: il metodo più diffuso
+### Osmosi inversa
 
-L'osmosi inversa utilizza membrane estremamente selettive sottoposte ad alta pressione.
+È il metodo più diffuso. Membrane estremamente selettive sottoposte ad alta pressione separano acqua, alcol e alcune molecole aromatiche; l'alcol viene poi eliminato tramite distillazione e la componente acquosa reintegrata nel vino originale.
 
-Il processo avviene in tre fasi:
+È il processo più delicato dei tre e conserva bene le caratteristiche di partenza. Qualche composto aromatico si perde comunque per strada, quindi il prodotto finale richiede in genere correzioni per riequilibrare il gusto.
 
-1. Separazione di acqua, alcol e alcune molecole aromatiche;
-2. Eliminazione dell'alcol tramite distillazione;
-3. Reintegro della componente acquosa nel vino originale.
+### Distillazione sottovuoto
 
-### Vantaggi
+In condizioni di vuoto l'alcol evapora a temperature molto inferiori ai normali 78°C, il che permette di rimuovere l'etanolo intorno ai 20-30°C senza cuocere il vino.
 
-- Buona conservazione delle caratteristiche originali;
-- Processo relativamente delicato.
+La preservazione degli aromi è migliore rispetto alla distillazione tradizionale, ma gli investimenti tecnologici sono significativi e il profilo sensoriale cambia comunque.
 
-### Limiti
+### Distillazione tradizionale
 
-- Possibile perdita di alcuni composti aromatici;
-- Necessità di successive correzioni dell'equilibrio gustativo.
-
-### 2. Distillazione sottovuoto
-
-In condizioni di vuoto, l'alcol evapora a temperature molto inferiori rispetto ai normali 78°C.
-
-Questo consente di:
-
-- rimuovere l'etanolo a circa 20-30°C;
-- limitare il deterioramento termico del vino.
-
-### Vantaggi
-
-- Preservazione migliore degli aromi rispetto alla distillazione tradizionale;
-- Elevata efficienza.
-
-### Limiti
-
-- Investimenti tecnologici significativi;
-- Possibili modifiche del profilo sensoriale.
-
-### 3. Distillazione tradizionale
-
-È una delle tecniche storicamente utilizzate.
-
-Il vino viene fatto passare attraverso colonne di distillazione per separare l'alcol.
-
-### Vantaggi
-
-- Tecnologia consolidata;
-- Buona efficacia nella rimozione dell'alcol.
-
-### Limiti
-
-- Maggiore perdita di sostanze aromatiche volatili;
-- Impatto più marcato sulle caratteristiche organolettiche.
+È la tecnica storicamente più usata: il vino passa attraverso colonne di distillazione che separano l'alcol. La tecnologia è consolidata e molto efficace, ma è anche quella che costa di più al vino, con una perdita marcata di sostanze aromatiche volatili e un impatto evidente sulle caratteristiche organolettiche.
 
 ## Il vino dealcolato ha lo stesso sapore del vino tradizionale?
 
-Questa è probabilmente la domanda più frequente.
+Non ancora del tutto.
 
-La risposta breve è: **non ancora completamente**.
+L'alcol svolge diverse funzioni in un calice: trasporta gli aromi verso il naso, contribuisce alla sensazione di corpo, dona morbidezza e agisce come conservante naturale. Toglierlo significa quasi sempre ottenere un vino con minore intensità aromatica, meno struttura al palato e una percezione di acidità più alta.
 
-L'alcol svolge infatti diverse funzioni fondamentali:
-
-- trasporta gli aromi verso il naso;
-- contribuisce alla sensazione di corpo;
-- dona morbidezza;
-- agisce come conservante naturale.
-
-Durante la dealcolazione si possono verificare:
-
-- riduzione dell'intensità aromatica;
-- minore struttura al palato;
-- percezione di maggiore acidità.
-
-Per riequilibrare il prodotto finale, alcuni produttori utilizzano ingredienti consentiti come:
-
-- mosto concentrato;
-- glicerina;
-- mannoproteine.
-
-Tuttavia, la tecnologia sta facendo passi da gigante. Molti produttori ritengono che entro pochi anni le differenze qualitative diventeranno sempre meno evidenti.
+Per riequilibrare il prodotto finale i produttori utilizzano ingredienti consentiti come mosto concentrato, glicerina e mannoproteine. La tecnologia sta migliorando rapidamente e gran parte del settore ritiene che entro pochi anni le differenze qualitative saranno molto meno evidenti.
 
 ## Quali vitigni si prestano meglio alla dealcolazione?
 
-I vini bianchi aromatici e gli spumanti sembrano offrire i risultati più convincenti.
-
-Tra i vitigni più utilizzati troviamo:
-
-- **Sauvignon Blanc**
-- **Riesling**
-- **Chardonnay**
-
-La loro naturale intensità aromatica permette infatti di mantenere una buona espressività anche dopo la rimozione dell'alcol.
+I bianchi aromatici e gli spumanti danno i risultati più convincenti. I vitigni più utilizzati sono Sauvignon Blanc, Riesling e Chardonnay: la loro naturale intensità aromatica permette al vino di restare espressivo anche dopo la rimozione dell'alcol.
 
 ## Chi beve vino dealcolato?
 
-Contrariamente a quanto si potrebbe pensare, il target è molto ampio.
+Il pubblico è molto più ampio di quanto si pensi. Comprende neopatentati, donne in gravidanza, sportivi, chi segue regimi ipocalorici, consumatori attenti alla salute e chi segue precetti religiosi che limitano il consumo di alcol.
 
-I principali consumatori sono:
+L'altro canale in crescita è la **mixology analcolica**: il vino dealcolato offre ai bartender una base di partenza che il succo di frutta non può dare.
 
-- neopatentati;
-- donne in gravidanza;
-- sportivi;
-- persone che seguono regimi alimentari ipocalorici;
-- consumatori attenti alla salute;
-- chi segue precetti religiosi che limitano il consumo di alcol.
+## Italia: via libera alla produzione nazionale
 
-Sempre più spesso i vini dealcolati vengono inoltre utilizzati nella **mixology analcolica**.
+La novità più rilevante è normativa. Con il decreto interministeriale **MEF-MASAF**, l'Italia ha definito regime fiscale, accise applicabili, autorizzazioni necessarie e modalità di produzione e conservazione.
 
-## Italia: finalmente via libera alla produzione nazionale
-
-Una delle novità più importanti riguarda il quadro normativo italiano.
-
-Con il recente decreto interministeriale **MEF-MASAF**, l'Italia ha finalmente definito:
-
-- regime fiscale;
-- accise applicabili;
-- autorizzazioni necessarie;
-- modalità di produzione e conservazione.
-
-Fino a poco tempo fa molte aziende italiane erano costrette a inviare il vino all'estero, soprattutto in **Germania** e **Spagna**, per effettuare il processo di dealcolazione.
-
-L'approvazione del decreto apre quindi nuove opportunità competitive per il settore vitivinicolo nazionale.
+Fino a poco tempo fa molte aziende italiane erano costrette a inviare il vino all'estero, soprattutto in **Germania** e **Spagna**, per la dealcolazione. Poterlo fare in casa elimina quel costo e apre concrete opportunità competitive al settore vitivinicolo nazionale.
 
 ## Un mercato in forte crescita
 
-I numeri raccontano chiaramente la direzione del mercato.
+Secondo l'Osservatorio Unione Italiana Vini il mercato globale dei prodotti **NoLo** vale oggi circa **2,4 miliardi di dollari**, potrebbe raggiungere **3,3 miliardi entro il 2028** e cresce a un ritmo medio dell'**8% annuo**.
 
-Secondo l'Osservatorio Unione Italiana Vini:
+Le performance nei principali mercati internazionali sono ancora più marcate:
 
-- il mercato globale dei prodotti **NoLo** vale oggi circa **2,4 miliardi di dollari**;
-- potrebbe raggiungere **3,3 miliardi di dollari entro il 2028**;
-- la crescita media annua prevista è dell'**8%**.
+| Mercato     | Crescita vini zero alcol |
+| ----------- | ------------------------ |
+| Germania    | +46%                     |
+| Regno Unito | +20%                     |
+| Stati Uniti | +18%                     |
 
-Le performance nei principali mercati internazionali sono particolarmente interessanti:
-
-| Mercato | Crescita vini zero alcol |
-|----------|---------------------------|
-| Germania | +46% |
-| Regno Unito | +20% |
-| Stati Uniti | +18% |
-
-Questi dati suggeriscono che non si tratti di una moda passeggera, ma di un cambiamento strutturale nei comportamenti di consumo.
+Numeri di questa portata indicano un cambiamento strutturale nei comportamenti di consumo, non una moda passeggera.
 
 ## I vini dealcolati sostituiranno il vino tradizionale?
 
-Probabilmente no.
+Quasi certamente no. Lo scenario realistico è quello di una **categoria complementare**, capace di intercettare nuove occasioni di consumo e un pubblico che altrimenti al vino non si avvicinerebbe.
 
-Più realisticamente, rappresenteranno una **categoria complementare**, capace di intercettare nuove occasioni di consumo e nuovi segmenti di pubblico.
+I produttori lo ripetono da tempo: il vino dealcolato non nasce per sostituire il vino classico, ma per chi vuole partecipare al momento conviviale senza assumere alcol.
 
-Molti produttori sottolineano infatti che il vino dealcolato non nasce per sostituire il vino classico, ma per offrire un'alternativa a chi desidera partecipare al momento conviviale senza assumere alcol.
+## Cosa significa il NoLo per il settore
 
-## Il futuro del vino passa anche dal NoLo
+Le nuove generazioni bevono meno alcol, cercano esperienze diverse e danno più peso al benessere personale. In questo scenario i vini dealcolati assomigliano meno a una minaccia per la tradizione e più a un'opportunità di innovazione.
 
-Il settore vitivinicolo sta attraversando una fase di profonda trasformazione.
-
-Le nuove generazioni bevono meno alcol, ricercano esperienze diverse e pongono maggiore attenzione al benessere personale.
-
-In questo contesto, i vini dealcolati potrebbero rappresentare non una minaccia alla tradizione, ma una **nuova opportunità di innovazione** per il mondo del vino.
-
-La vera sfida sarà mantenere intatti identità, territorialità e piacere sensoriale, continuando al tempo stesso a evolversi insieme alle esigenze dei consumatori.
+La sfida per i produttori è mantenere intatti identità, territorialità e piacere sensoriale mentre la categoria cresce. Con tecniche di produzione sempre più raffinate, il dealcolato è destinato a diventare una presenza stabile nel panorama del vino.
 
 ## Domande frequenti
 
 **Qual è la differenza tra vino dealcolato e succo d'uva?**
-Il vino dealcolato nasce sempre dalla fermentazione alcolica del mosto, diversamente dal succo d'uva che non fermenta. Contiene i composti derivati dalla fermentazione — esteri, acidi, polifenoli — che definiscono il profilo sensoriale del vino. Il succo d'uva è semplicemente mosto non fermentato e ha un profilo gustativo completamente diverso.
+Il vino dealcolato nasce sempre dalla fermentazione alcolica del mosto, diversamente dal succo d'uva che non fermenta. Contiene i composti derivati dalla fermentazione (esteri, acidi, polifenoli) che definiscono il profilo sensoriale del vino. Il succo d'uva è semplicemente mosto non fermentato e ha un profilo gustativo completamente diverso.
 
 **I vini dealcolati hanno meno calorie del vino tradizionale?**
 Sì. L'alcol apporta 7 kcal per grammo, contro le 4 kcal dei carboidrati. Un bicchiere di vino al 13% ABV contiene circa 120-130 kcal; il corrispettivo dealcolato si aggira tra 50 e 80 kcal per bicchiere, in base al residuo zuccherino. È uno dei motivi principali per cui il segmento attira consumatori attenti alla dieta.
 
 **È legale produrre vino dealcolato in Italia?**
-Sì, dal 2024. Il decreto interministeriale MEF-MASAF ha recepito la normativa europea e definito le regole per produzione, accise e commercializzazione. Prima dell'approvazione, la dealcolazione avveniva esclusivamente all'estero — principalmente in Germania e Spagna — con costi logistici e competitivi penalizzanti per i produttori italiani.
+Sì, dal 2024. Il decreto interministeriale MEF-MASAF ha recepito la normativa europea e definito le regole per produzione, accise e commercializzazione. Prima dell'approvazione la dealcolazione avveniva esclusivamente all'estero, principalmente in Germania e Spagna, con costi logistici e competitivi penalizzanti per i produttori italiani.
 
 **Qual è la differenza tra "vino dealcolato" e "vino analcolico"?**
-"Analcolico" indica genericamente una bevanda senza alcol, non necessariamente derivata da fermentazione. "Vino dealcolato" è un termine tecnico-legale: identifica un prodotto che nasce come vino (con fermentazione alcolica) e viene poi privato dell'alcol fino allo 0,5% vol. tramite tecnologie certificate dalla normativa europea.
-
----
+"Analcolico" indica genericamente una bevanda senza alcol, non necessariamente derivata da fermentazione. "Vino dealcolato" è un termine tecnico-legale: identifica un prodotto che nasce come vino, con fermentazione alcolica, e viene poi privato dell'alcol fino allo 0,5% vol. tramite tecnologie certificate dalla normativa europea.
 
 ## Fonti
 
-- *Vini dealcolati, facciamo chiarezza. Cosa sono e come ottenerli* – [_Gianluca Atzeni_](https://www.gamberorosso.it/vino/vini-dealcolati-cosa-sono/), 18 aprile 2024
-- *Vino dealcolato: cos'è? Spiegazione facile per tutti* – [_Sara Milletti, La Cucina Italiana_](https://www.lacucinaitaliana.it/article/vino-dealcolato-spiegazione-facile/), 7 marzo 2025  
-- *Approvato il decreto per la produzione e tassazione dei vini dealcolati in Italia* – [_Giorgio Dell'Orefice, Il Sole 24 Ore_](https://www.ilsole24ore.com/art/via-libera-produzione-italia-vini-dealcolati-AILqbrc)
+- _Vini dealcolati, facciamo chiarezza. Cosa sono e come ottenerli_ - [_Gianluca Atzeni_](https://www.gamberorosso.it/vino/vini-dealcolati-cosa-sono/), 18 aprile 2024
+- _Vino dealcolato: cos'è? Spiegazione facile per tutti_ - [_Sara Milletti, La Cucina Italiana_](https://www.lacucinaitaliana.it/article/vino-dealcolato-spiegazione-facile/), 7 marzo 2025
+- _Approvato il decreto per la produzione e tassazione dei vini dealcolati in Italia_ - [_Giorgio Dell'Orefice, Il Sole 24 Ore_](https://www.ilsole24ore.com/art/via-libera-produzione-italia-vini-dealcolati-AILqbrc)
