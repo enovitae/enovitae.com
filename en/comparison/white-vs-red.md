@@ -1,7 +1,6 @@
 ---
 title: "Is red wine better than white wine? Exploring the differences between the two enological worlds"
-description: "\"The production process, cellar techniques, and gastronomic pairings that make them special...\"
-"
+description: "Red or white wine? Compare how each one is made, why tannins appear only in reds, the cellar techniques behind them and the food pairings that suit both."
 author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["white", "red"]

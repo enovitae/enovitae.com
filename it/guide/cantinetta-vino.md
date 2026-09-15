@@ -1,7 +1,6 @@
 ---
 title: "Cantinetta Vino: Guida all'Acquisto e Conservazione Ottimale"
-description: "\"Se sei un appassionato di vino, saprai quanto sia fondamentale conservare le tue bottiglie nel modo giusto per preservarne gusto e qualità nel tempo?\"
-"
+description: "Come scegliere la cantinetta per il vino: doppia temperatura, modelli in legno, frigo cantinetta e vetrine a confronto, con i criteri che contano davvero."
 author: "Enovitae Staff"
 published: 2024-02-28
 tags: ["cantinetta", "conservazione"]

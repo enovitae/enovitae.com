@@ -1,0 +1,90 @@
+---
+title: "Dazi USA sul vino europeo: dalla minaccia del 200% al 10% effettivo"
+description: "Nel 2025 Trump minacciò un dazio del 200% sul vino europeo. Da luglio 2026 l'aliquota effettiva è il 10%: cosa è cambiato e cosa resta in gioco."
+author: "Enovitae Staff"
+published: 2025-03-21
+tags: ["notizie vino", "guerra commerciale", "vino europeo", "dazi", "Trump"]
+url: https://enovitae.com/it/guide/dazi-trump-vino-europeo
+cover_image: https://enovitae.com/_astro/france-bordeaux-cave.7JKDD5ct_ZNOqUm.webp
+source: Enovitae.com
+---
+
+L'industria del vino è di fronte a una delle più grandi minacce degli ultimi anni. Nel marzo 2025 **il presidente Donald Trump ha annunciato un possibile dazio del 200% su vino e Champagne europei**, intensificando la guerra commerciale tra Stati Uniti e Unione Europea. La minaccia è arrivata come risposta ai nuovi dazi UE sul whiskey americano, a loro volta una reazione al dazio del 25% imposto da Trump su acciaio e alluminio.
+
+Se attuata, la misura stravolgerebbe il mercato: i vini europei diventerebbero inaccessibili per la maggior parte dei consumatori americani e l'intera filiera che li muove entrerebbe in crisi.
+
+## Aggiornamento: com'è andata davvero
+
+Il dazio del 200% non è mai entrato in vigore. Dopo diciotto mesi di negoziati, l'aliquota che i vini europei pagano oggi all'ingresso negli Stati Uniti è il **10%**.
+
+Il percorso è stato tortuoso. L'accordo quadro raggiunto tra amministrazione statunitense e Commissione europea ha fissato un'aliquota generale del **15%** sulla maggior parte delle esportazioni europee, valida fino al 2029. Il vino e gli alcolici, per i quali il settore aveva chiesto un'esclusione esplicita, non hanno ottenuto la deroga — ma non sono nemmeno finiti nel regime pieno al 15%.
+
+Dal **24 luglio 2026** i dazi sul vino europeo sono applicati sulla base della **Section 301** del Trade Act, che ha sostituito le misure temporanee adottate in precedenza sotto la Section 122. Per la maggior parte dei vini importati il passaggio è stato una sostituzione di quadro giuridico più che un aumento: l'onere effettivo è rimasto al 10%.
+
+In pratica si è realizzato il terzo dei tre scenari indicati in fondo a questo articolo quando fu scritto: un compromesso, con il dazio ridotto dal 200% minacciato a una percentuale che gli importatori possono assorbire.
+
+> **Attenzione al 15% che si legge spesso.** È l'aliquota quadro dell'accordo UE-USA, non quella applicata al vino. Sul vino europeo l'onere è del 10%.
+
+### Cosa resta aperto
+
+Il capitolo non è chiuso. L'ufficio del Rappresentante per il Commercio degli Stati Uniti ha in corso indagini in base alla Section 301 su pratiche commerciali e sovracapacità produttiva, i cui esiti possono modificare l'aliquota in entrambe le direzioni. Il settore continua a chiedere un'esclusione per il comparto alcolico, e la finestra negoziale più concreta è attesa dopo la chiusura di quelle istruttorie.
+
+Nel frattempo il 10% si somma a un contesto già difficile: come mostrano i dati sul [mercato del vino](https://enovitae.com/it/accademia/mercato-vino-italia.md), nel 2025 l'export dei maggiori produttori italiani verso gli Stati Uniti è calato del **6,3%**, il peggior risultato tra le aree di destinazione.
+
+Quanto segue è il resoconto della crisi del marzo 2025, mantenuto perché spiega come si è arrivati all'esito attuale.
+
+## Come si è arrivati all'escalation
+
+L'amministrazione Trump ha imposto **dazi del 25%** sulle importazioni di acciaio e alluminio dall'UE. **L'UE ha risposto con dazi del 50%** su whiskey americano, bourbon e altri prodotti. Trump ha quindi **minacciato un dazio del 200%** su vino, Champagne e altri alcolici europei se l'Unione non avesse rimosso le proprie misure.
+
+Le conseguenze sarebbero concrete: i produttori europei perderebbero uno dei loro mercati più importanti, i consumatori americani smetterebbero di trovare vini francesi e italiani nei negozi e i prezzi dell'importato salirebbero al punto da spostare la domanda sulla produzione interna.
+
+> "Se i dazi del 200% entrano in vigore, significa che il tuo negozio di liquori probabilmente non lo venderà più", ha dichiarato l'economista **Justin Wolfers** alla CNN.
+
+## Chi sarebbe colpito
+
+### I consumatori di vino negli Stati Uniti
+
+Gli Stati Uniti sono uno dei maggiori importatori di vino europeo. **La Francia ha esportato 2,5 miliardi di dollari di vino** negli USA nel 2024, **l'Italia ha seguito con 2,3 miliardi**.
+
+Con un dazio del 200% il prezzo triplicherebbe da un giorno all'altro: una bottiglia di Champagne che oggi costa 50 euro arriverebbe a 150, fuori portata per molti. Il risultato sarebbe minore disponibilità, aumenti estremi e uno spostamento dei consumi verso i vini americani.
+
+### L'industria vinicola europea
+
+Francia, Italia e Spagna dipendono dal mercato statunitense. Se la domanda crolla per effetto dei dazi, le cantine europee affrontano perdite di fatturato enormi, un eccesso di produzione che non trova collocazione e, con ogni probabilità, licenziamenti. L'Unione Italiana Vini stima perdite fino a **1 miliardo di euro** per i soli produttori italiani.
+
+### Distributori e rivenditori americani
+
+I distributori e le enoteche statunitensi hanno costruito i propri cataloghi sui vini europei. Con i dazi in vigore perderebbero una fetta enorme del business, dovrebbero cercare alternative in Argentina, Cile, Sudafrica o tra i produttori locali e alzerebbero i prezzi su tutta la gamma per compensare. Seguirebbero chiusure, perdita di posti di lavoro e un mercato sempre più concentrato nelle mani delle grandi aziende americane.
+
+## Come cambierebbe il mercato del vino
+
+**Più vini americani sulle tavole.** Trump sostiene che i dazi aiuteranno l'industria statunitense, obbligando i consumatori a comprare locale. Le cantine di California, Oregon e Washington ne trarrebbero vantaggio.
+
+**Nuovi protagonisti.** Argentina, Cile e Sudafrica potrebbero aumentare le esportazioni verso gli USA, occupando lo spazio lasciato libero dal vino europeo.
+
+**I vini di lusso diventano ultra-esclusivi.** Etichette di alta gamma come Dom Pérignon e i Barolo riserva diventerebbero prodotti di nicchia accessibili solo ai più ricchi.
+
+## Le reazioni del settore
+
+Il ministro del Commercio francese **Laurent Saint-Martin** ha definito la mossa un'escalation, promettendo che la Francia risponderà duramente. Il commissario europeo per il Commercio **Maros Sefcovic** ha aperto un tavolo con gli USA per evitare danni a entrambi i mercati.
+
+**Olof Gill**, portavoce della Commissione UE, ha chiesto agli Stati Uniti di eliminare i dazi su acciaio e alluminio, avvertendo che una nuova escalation porterebbe solo perdite per tutti. **Ulrich Adam**, direttore generale di SpiritsEurope, ha definito la minaccia scioccante e ha chiesto che il settore alcolico venga escluso dalle dispute commerciali.
+
+## C'è una via d'uscita?
+
+_Questa era la domanda aperta nel marzo 2025._
+
+La domanda era se Trump avrebbe mantenuto la promessa. In passato minacce simili sono state usate come strumento di negoziazione, ma la sua politica commerciale aggressiva rendeva il rischio concreto.
+
+Gli scenari sul tavolo erano tre. Un accordo commerciale che riducesse o rimuovesse i dazi. Una guerra commerciale totale, se nessuna delle due parti avesse ceduto. Oppure un compromesso, con il dazio ridotto dal 200% a una percentuale sostenibile per gli importatori.
+
+**Si è verificato il terzo.** La minaccia del 200% ha funzionato come leva negoziale e l'esito è stato un'aliquota del 10%, applicata dal luglio 2026 sotto la Section 301. Resta il fatto che il vino non ha ottenuto l'esclusione che il settore chiedeva, e che un onere del 10% su un mercato in contrazione pesa comunque: l'export italiano verso gli Stati Uniti ha perso il 6,3% nel 2025.
+
+## Fonti
+
+- CNN: _"Trump threatens 200% tariff on European alcohol as trade war escalates"_ di [_David Goldman_](https://edition.cnn.com/2025/03/13/business/alcohol-tariffs-eu-trump-trade-war/index.html)
+- The New York Times: _"Trump Threatens 200% Tariff on Champagne and Wine From Europe"_ di [_Jeanna Smialek & Ana Swanson_](https://www.nytimes.com/2025/03/13/us/politics/trump-tariff-european-union-whiskey.html)
+- Vinetur: _"New U.S. Tariffs Leave European Wine Duties Unchanged at 10%"_ — [_28 luglio 2026_](https://www.vinetur.com/en/20260728104959/new-us-tariffs-leave-european-wine-duties-unchanged-at-10.html)
+- Meininger's International: [_EU-US Tariff Agreement Enters into Force_](https://www.meininger.de/en/news/eu-us-tariff-agreement-enters-force)
+- Area Studi Mediobanca: [_Il settore vinicolo in Italia, ed. 2026_](https://www.qualivita.it/wp-content/uploads/2026/05/CS-Mediobanca-vino-italiano-2026.pdf)

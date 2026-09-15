@@ -1,0 +1,110 @@
+---
+title: "Annata difficile per lo Champagne: dal 2024 alle rese minime del 2026"
+description: "Dalla vendemmia difficile del 2024 alle rese minime del 2026: come lo Champagne ha tagliato la produzione per quattro anni e cosa comporta per i prezzi."
+author: "Enovitae Staff"
+published: 2024-10-03
+tags: ["mercato", "champagne", "vendemmia", "prezzi"]
+url: https://enovitae.com/it/accademia/annata-difficile-champagne
+cover_image: https://enovitae.com/_astro/annata-champagne-2024.B2gL3F6-_Z1Yztb1.webp
+source: Enovitae.com
+---
+
+Il 2024 si è rivelato un anno particolarmente sfidante per lo [Champagne](https://enovitae.com/it/accademia/caratteristiche-champagne.md): condizioni climatiche complesse, un contesto economico instabile, rese tagliate e spedizioni in forte calo. Con il senno di dodici mesi, però, il 2024 non è stato un'annata difficile isolata — è stato il punto in cui è cominciata una riduzione sistematica della produzione che dura ancora.
+
+Questo articolo ricostruisce cosa è successo nel 2024 e come quella scelta si è prolungata fino alla vendemmia 2026, la più bassa dai tempi della pandemia.
+
+## Il 2024: clima avverso e rese tagliate
+
+Dopo un 2023 caldo e secco, il 2024 ha visto la Champagne affrontare condizioni opposte. L'annata è stata particolarmente piovosa, complicando il lavoro in vigna e aumentando la pressione delle malattie fungine, in primo luogo la peronospora. Maxime Toubart, presidente dell'associazione dei viticoltori, riassunse la stagione con il motto "massima vigilanza e tolleranza zero".
+
+La resa autorizzata per la vendemmia 2024 fu fissata a **10.000 kg/ha**, in calo dagli 11.400 kg/ha del 2023.
+
+Il taglio non rispondeva però soltanto al meteo. Nel primo semestre del 2024 le spedizioni di Champagne erano scese del **15,2%** rispetto allo stesso periodo dell'anno precedente, riportando i volumi ai livelli del 2019.
+
+### Perché le vendite erano crollate
+
+Il calo aveva più di una causa, e quasi nessuna riguardava il prodotto.
+
+Pesava soprattutto un effetto di **overstock**: nei due anni precedenti, il timore di carenze e l'anticipazione dell'inflazione avevano spinto distributori e importatori ad accumulare scorte. Quando quelle scorte hanno cominciato a smaltirsi, gli ordini si sono fermati. A questo si aggiungevano l'incertezza geopolitica e un'inflazione che ha compresso la spesa discrezionale proprio nella fascia in cui lo Champagne si colloca.
+
+## Cosa è successo dopo: quattro anni di tagli
+
+La parte interessante è quello che il 2024 ha inaugurato. La riduzione delle rese non è stata un aggiustamento di un'annata, ma l'inizio di una politica di contenimento dell'offerta che si è ripetuta ogni anno.
+
+| Anno | Resa commerciabile (kg/ha) | Bottiglie stimate |
+| ---- | -------------------------- | ----------------- |
+| 2022 | 12.000                     | —                 |
+| 2023 | 11.400                     | ~290 mln          |
+| 2024 | 10.000                     | ~271 mln          |
+| 2025 | 9.000                      | ~255 mln          |
+| 2026 | 8.800                      | ~250 mln          |
+
+Il **2026 segna il quarto anno consecutivo di riduzione** ed è la resa più bassa dal 2020, quando l'emergenza Covid portò il limite a 8.000 kg/ha.
+
+### La vendemmia 2026: poca quantità, qualità eccezionale
+
+La stagione 2026 è stata segnata da gelate primaverili, un giugno di calore estremo e infine siccità. Nonostante questo — o in parte proprio per questo — il Comité Champagne ha parlato di una qualità **eccezionale**, con un record di maturazione delle uve: un'anomalia per una regione dove la chaptalization è storicamente la norma più che l'eccezione.
+
+È il paradosso ricorrente delle annate difficili: meno uva, ma più concentrata.
+
+## Le spedizioni: il quadro si è stabilizzato
+
+Se le rese continuano a scendere, le vendite hanno invece smesso di crollare.
+
+- **2024**: 271 milioni di bottiglie spedite
+- **2025**: 266 milioni, in leggero calo
+- **Primo semestre 2026**: 107,1 milioni, in crescita dell'**1,2%** sullo stesso periodo del 2025
+
+La tenuta è dovuta soprattutto all'export. Un segnale meno rassicurante arriva però dall'alta gamma: le spedizioni di cuvée di prestigio sono calate del **17% nel 2025**, scendendo a 7 milioni di bottiglie. È la fascia che regge i margini, e sta arretrando più del resto.
+
+## Cosa comporta per i prezzi
+
+La combinazione di rese ridotte per quattro anni consecutivi e spedizioni stabili produce un esito prevedibile: **meno bottiglie disponibili per una domanda che non è più in calo**.
+
+I due scenari ipotizzati nel 2024 si sono in larga parte verificati. I prezzi sono saliti, anche sulle etichette d'ingresso, e i produttori hanno spostato l'accento sulle etichette di alta gamma e sulle produzioni limitate — una strategia che il calo del 17% sulle cuvée di prestigio mette però in discussione.
+
+Abbiamo analizzato in dettaglio l'effetto sui listini e cosa può fare chi compra nella nostra [guida ai prezzi dello Champagne](https://enovitae.com/it/guide/prezzi-e-resa-champagne-2025-alle-stelle.md).
+
+## La risposta del settore
+
+Per affrontare le difficoltà del 2024 il Comité Champagne lanciò il piano _"Ensemble pour les vendanges en Champagne"_, con incontri formativi e strumenti per i viticoltori, allo scopo di salvaguardare la qualità della vendemmia nonostante le condizioni.
+
+David Chatillon, presidente delle Maisons de Champagne, indicò nella creazione di un sindacato dei fornitori di servizi e in un quadro di riferimento per le migliori pratiche i segnali più positivi per il settore. Il coinvolgimento delle istituzioni locali, sotto la guida del prefetto della regione Grand Est, rafforzò il piano.
+
+Sul fronte tecnico, la gestione della qualità resta affidata al lavoro dello [chef de cave](https://enovitae.com/it/accademia/chef-de-cave-champagne.md), che in annate irregolari come queste ha il compito più delicato: costruire un assemblaggio coerente con lo stile della maison partendo da una materia prima disomogenea.
+
+## Conclusione
+
+Il 2024 è stato letto all'epoca come un'annata sfortunata. Visto dal 2026, è stato il primo anno di una strategia: ridurre l'offerta per difendere il valore, in un mercato in cui i volumi non tornano.
+
+Ha funzionato, in parte. Le spedizioni si sono stabilizzate e i prezzi hanno tenuto. Ma il calo del 17% sulle cuvée di prestigio segnala che la difesa del valore attraverso la scarsità ha un limite — e che il problema di fondo, la domanda, non si risolve tagliando le rese.
+
+## Domande frequenti (FAQ)
+
+### Qual è stata la resa della vendemmia 2024 in Champagne?
+
+La resa commerciabile autorizzata per il 2024 è stata di **10.000 kg/ha**, in calo dagli 11.400 kg/ha del 2023.
+
+### Qual è la resa dello Champagne nel 2026?
+
+**8.800 kg/ha**, equivalenti a circa 250 milioni di bottiglie. È il quarto anno consecutivo di riduzione e il livello più basso dal 2020.
+
+### Perché lo Champagne riduce le rese ogni anno?
+
+Per sostenere l'equilibrio tra domanda e offerta in una fase di consumi incerti. Dopo il crollo delle spedizioni del 2024, causato in gran parte dallo smaltimento delle scorte accumulate, il settore ha scelto di contenere la produzione per difendere i prezzi.
+
+### Quante bottiglie di Champagne si vendono?
+
+Nel 2024 sono state spedite 271 milioni di bottiglie, nel 2025 266 milioni. Nel primo semestre 2026 le spedizioni sono state 107,1 milioni, in crescita dell'1,2% sull'anno precedente.
+
+### La vendemmia 2026 è di buona qualità?
+
+Sì. Nonostante gelate, caldo estremo di giugno e siccità, il Comité Champagne ha definito eccezionale la qualità delle uve raccolte, con un record di maturazione per la regione.
+
+---
+
+#### Fonti
+
+- [*Gambero Rosso — Champagne, il calo della vendemmia 2024*](https://www.gamberorosso.it/notizie/notizie-vino/champagne-calo-vendemmia-2024/)
+- [*WineCap — Champagne caps 2026 harvest at its lowest yield since the pandemic*](https://winecap.com/editorial/news/champagne-caps-2026-harvest-at-its-lowest-yield-since-the-pandemic)
+- [*Harpers — Champagne announces yield adjustment for 2026 harvest*](https://harpers.co.uk/news/fullstory.php/aid/36166/Champagne_announces_yield_adjustment_for_2026_harvest_.html)

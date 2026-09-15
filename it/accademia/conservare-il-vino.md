@@ -1,7 +1,6 @@
 ---
 title: "Posso tenere il vino in piedi? Le cinque regole per conservare il vino in modo corretto"
-description: "\"La corretta conservazione del vino è essenziale per garantire che mantenga la sua qualità, sapore e caratteristiche nel tempo.\"
-"
+description: "In piedi o coricata? Le cinque regole per conservare il vino in casa: posizione della bottiglia, temperatura ideale, luce, umidità e durata reale."
 author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["conservazione"]

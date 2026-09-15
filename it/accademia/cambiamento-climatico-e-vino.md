@@ -1,7 +1,6 @@
 ---
 title: "L'Influenza del Cambiamento Climatico sul Vino: Un Viaggio tra Evidenze e Sfide Enologiche"
-description: "\"Le estati sempre più calde e secche, gli inverni più miti e la variazione delle precipitazioni stanno cambiando i paesaggi vinicoli.\"
-"
+description: "Estati più calde, vendemmie anticipate, nuove regioni vinicole: come il cambiamento climatico sta riscrivendo la mappa del vino e come reagiscono le cantine."
 author: "Enovitae Staff"
 published: 2023-08-30
 tags: ["clima", "strategie"]

@@ -1,7 +1,6 @@
 ---
 title: "You are invited to dinner and don't know what wine to bring? We suggest it to you!"
-description: "\"Imagine being invited to dinner by friends or relatives, and your only mission is to bring a good wine...\"
-"
+description: "Invited to dinner and unsure what wine to bring? Match the menu and the guests, ask the host the right question and arrive with a bottle that fits."
 author: "Enovitae Staff"
 published: 2023-06-09
 tags: ["advice", "dinner"]

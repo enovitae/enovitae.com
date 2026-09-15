@@ -1,7 +1,6 @@
 ---
 title: "Wine tasting guide: unraveling the secrets of a good glass"
-description: "\"Explore the secrets of wine tasting and learn to recognize aromas, flavors, and unique characteristics.\"
-"
+description: "Learn to taste wine step by step: how to look, swirl, smell and sip, which aromas to look for and how to describe what is in your glass with confidence."
 author: "Enovitae Staff"
 published: 2024-04-22
 tags: ["tasting", "wine", "enology"]

@@ -1,7 +1,6 @@
 # Sei invitato a cena e non sai che vino portare? Te lo suggeriamo noi!
 
-> "Immagina di essere stato invitato a cena da amici o parenti, e la tua unica missione è portare un buon vino..."
-
+> Invitato a cena e non sai che vino portare? Come sceglierlo in base al menu, ai gusti degli ospiti e al momento, con suggerimenti pronti per ogni occasione.
 
 - URL: https://enovitae.com/it/guide/che-vino-portare-a-cena
 - Author: Enovitae Staff

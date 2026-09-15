@@ -15,6 +15,7 @@
 Ask a casual wine drinker to name sweet wines and you'll hear Sauternes, Moscato, maybe Port. Ask them to name dry wines and you'll get Barolo, Chablis, Muscadet. The reality is messier. A German Riesling labelled "Kabinett" can taste sweeter than a Champagne labelled "Demi-Sec" depending on the wine's acidity. Understanding how sugar actually behaves in wine — from the vineyard through fermentation to the glass — explains a lot about why wines taste the way they do.
 
 > **Key Takeaways**
+>
 > - Grapes accumulate glucose and fructose as they ripen; Brix measures this sugar concentration before fermentation
 > - Fermentation converts roughly 17 g/L of sugar into 1% ABV; stopping it early leaves residual sugar in the wine
 > - EU regulations define "dry" as less than 4 g/L residual sugar (EU Regulation 2019/33)
@@ -36,9 +37,9 @@ For sparkling wines, sugar management continues after the base wine is made. In 
 
 The EU classifies wines by residual sugar using legally defined thresholds. Champagne has its own separate classification with tighter categories:
 
-| Style | Residual Sugar | Wine Examples |
-|---|---|---|
-| Bone dry |  120 g/L | Trockenbeerenauslese, Icewine |
+| Style    | Residual Sugar | Wine Examples                                         |
+| -------- | -------------- | ----------------------------------------------------- |
+| Bone dry |  120 g/L      | Trockenbeerenauslese, Icewine                         |
 
 One thing that confuses many wine drinkers: residual sugar alone doesn't determine whether a wine tastes sweet. Acidity counteracts sweetness perception significantly. A Sauternes at 100 g/L with high acidity from botrytis-affected grapes can taste less cloying than a lower-residual German Spätlese with flat acidity. The same logic applies to tannins in red wines: structural elements interact with sugar to define the overall sensory impression.
 

@@ -12,6 +12,7 @@ source: Enovitae.com
 Champagne and Prosecco are both sparkling wines made through secondary fermentation, yet a bottle of Champagne typically retails for 3 to 5 times the price of a comparable Prosecco. That gap isn't marketing. It reflects four structural differences in how each wine is made, where it comes from, and how long it must age before it reaches the shelf.
 
 > **Key Takeaways**
+>
 > - Champagne ferments twice in the bottle (15+ months minimum for NV); Prosecco uses faster tank fermentation with no minimum aging
 > - The Champagne AOC covers just 34,300 hectares in northern France; Prosecco DOC spans a broader area of Veneto and Friuli
 > - Non-vintage Champagne averages €30-50 retail; Prosecco DOC typically costs €8-20
@@ -49,14 +50,14 @@ Prosecco has its own prestige tier, particularly Conegliano Valdobbiadene Prosec
 
 ## Champagne vs Prosecco at a Glance
 
-| Feature | Champagne | Prosecco |
-|---|---|---|
-| Region | Champagne, France | Veneto / Friuli, Italy |
-| Primary grapes | Chardonnay, Pinot Noir, Pinot Meunier | Glera (min. 85%) |
-| Production method | Méthode champenoise (in-bottle) | Charmat (tank) |
-| Minimum aging (NV) | 15 months (12 on lees) | None |
-| Annual production | ~300 million bottles | ~600 million bottles (DOC) |
-| Average retail (NV) | €30-50 | €8-20 |
+| Feature             | Champagne                             | Prosecco                   |
+| ------------------- | ------------------------------------- | -------------------------- |
+| Region              | Champagne, France                     | Veneto / Friuli, Italy     |
+| Primary grapes      | Chardonnay, Pinot Noir, Pinot Meunier | Glera (min. 85%)           |
+| Production method   | Méthode champenoise (in-bottle)       | Charmat (tank)             |
+| Minimum aging (NV)  | 15 months (12 on lees)                | None                       |
+| Annual production   | ~300 million bottles                  | ~600 million bottles (DOC) |
+| Average retail (NV) | €30-50                                | €8-20                      |
 
 ## Frequently Asked Questions
 

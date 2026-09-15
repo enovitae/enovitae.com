@@ -1,7 +1,6 @@
 ---
 title: "L'impronta di CO2 della produzione di vino: un viaggio verso la sostenibilità"
-description: "\"L'aumento delle emissioni di gas serra sta contribuendo al riscaldamento globale e ha un impatto significativo sul settore vitivinicolo.\"
-"
+description: "Quanta CO2 produce davvero una bottiglia di vino e come si riduce: pratiche sostenibili in vigna, scelte di cantina e il caso virtuoso della Valtellina."
 author: "Enovitae Staff"
 published: 2023-07-23
 tags: ["clima", "strategie", "tecnologie"]

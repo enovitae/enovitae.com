@@ -1,7 +1,6 @@
 # You are invited to dinner and don't know what wine to bring? We suggest it to you!
 
-> "Imagine being invited to dinner by friends or relatives, and your only mission is to bring a good wine..."
-
+> Invited to dinner and unsure what wine to bring? Match the menu and the guests, ask the host the right question and arrive with a bottle that fits.
 
 - URL: https://enovitae.com/en/guide/what-wine-to-bring-to-dinner
 - Author: Enovitae Staff

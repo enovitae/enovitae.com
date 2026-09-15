@@ -1,7 +1,6 @@
 ---
 title: "What wine to gift? 10 points to consider for the perfect gift"
-description: "\"Choosing the right wine to gift is an art in itself, as wine can be...\"
-"
+description: "Choosing wine as a gift, in 10 steps: read the recipient's taste, match the occasion, set a budget and pick a bottle that says more than its price tag."
 author: "Enovitae Staff"
 published: 2023-02-07
 tags: ["wine", "guide"]
@@ -10,7 +9,7 @@ cover_image: https://enovitae.com/_astro/che-vino-regalo.DPGyIjzs_YH1XG.webp
 source: Enovitae.com
 ---
 
-### Choosing the right wine to gift is an art in itself, as wine can be a personalized and meaningful gift. When selecting the perfect wine, it's essential to consider the recipient's tastes, the occasion of the gift, and the budget. Here are some helpful tips to assist you in making an informed and satisfying choice.
+Choosing the right wine to gift is an art in itself, as wine can be a personalized and meaningful gift. When selecting the perfect wine, it's essential to consider the recipient's tastes, the occasion of the gift, and the budget. Here are some helpful tips to assist you in making an informed and satisfying choice.
 
 ## Know the recipient's tastes
 

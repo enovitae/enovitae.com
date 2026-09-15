@@ -1,7 +1,6 @@
 ---
 title: "Guida alla degustazione del vino: scopri i segreti del buon calice"
-description: "\"Esplora i segreti della degustazione del vino e impara a riconoscere profumi, sapori e caratteristiche uniche\"
-"
+description: "Come si degusta il vino, passo per passo: esame visivo, olfattivo e gustativo, i profumi da riconoscere e le parole giuste per descrivere un calice."
 author: "Enovitae Staff"
 published: 2024-04-22
 tags: ["degustazione", "vino", "enologia"]

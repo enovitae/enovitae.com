@@ -1,7 +1,6 @@
 ---
 title: "Chianti vs. Chianti Classico: exploring the subtle differences between two great Tuscan wines"
-description: "\"Both produced in the same geographical area, yet possessing distinct characteristics and regulations...\"
-"
+description: "Chianti and Chianti Classico share a region but not the rules. Compare production zones, grape blends, ageing requirements and taste before you buy."
 author: "Enovitae Staff"
 published: 2023-11-15
 tags: ["chianti", "tuscany"]

@@ -1,7 +1,6 @@
 ---
 title: "È più buono il vino rosso o il vino bianco? esploriamo le differenze tra vini rossi e bianchi"
-description: "\"Il processo di produzione, le tecniche di cantina e gli abbinamenti gastronomici che li rendono speciali...\"
-"
+description: "Vino rosso o vino bianco? Le differenze di produzione, i tannini presenti solo nei rossi, le tecniche di cantina e gli abbinamenti giusti per ciascuno."
 author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["bianco", "rosso"]

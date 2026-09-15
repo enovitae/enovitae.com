@@ -1,7 +1,6 @@
 ---
 title: "Is it possible to drink a good wine under 20 euros? Discover the taste of enological accessibility"
-description: "\"The question that wine enthusiasts often ask themselves is: is it possible to find a good wine under 20 euros?\"
-"
+description: "Good wine under 20 euros does exist: emerging regions, lesser-known grapes, small producers and sparkling bargains, plus what to check on the label."
 author: "Enovitae Staff"
 published: 2023-09-22
 tags: ["advice", "dinner", "budget"]

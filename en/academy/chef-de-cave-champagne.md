@@ -11,27 +11,27 @@ source: Enovitae.com
 
 Champagne, with its elegant and complex bubbles, is far more than a simple drink; it is the work of art of a Chef de Cave — the cellar master who guides the destiny and style of a champagne house.
 
-### Guardian of traditions
+## Guardian of traditions
 
 The Chef de Cave, literally translated as "cellar chef", is the key figure behind the creation of quality champagne. This expert oenologist is tasked with maintaining consistency and excellence across the different vintages and cuvées of the maison. The role demands not only impeccable technical skills but also a deep respect for champagne's tradition and history.
 
-### The blending process
+## The blending process
 
 One of the Chef de Cave's primary responsibilities is the _assemblage_ — a complex process of blending different cuvées to create a balanced and distinctive champagne. Each cuvée, coming from different vintages and parcels, brings unique characteristics. The Chef de Cave must master the art of selecting and combining these cuvées so that the final result faithfully represents the maison's distinctive style.
 
-### The science of tasting
+## The science of tasting
 
 The Chef de Cave is not only an oenologist but also an expert taster. They must be able to evaluate different cuvées and predict how they will evolve over time. This skill is crucial to ensure that, even after years of aging, the champagne retains its freshness, aromatic complexity and structure.
 
-### The selection of cuvées
+## The selection of cuvées
 
 Each maison has its signature cuvées, and their selection is fundamental in defining the character of the champagne. The Chef de Cave decides which cuvées to include in production, taking into account the unique characteristics of each vintage and the philosophy of the house. This selection reflects the artistry and mastery of the person at the helm of the cellar.
 
-### Continuity and innovation
+## Continuity and innovation
 
 The Chef de Cave must strike a delicate balance between preserving traditions and introducing innovations. While respecting the winemaking practices that make champagne unique, they must also be open to new ideas and techniques that can further improve the quality and experience of the product.
 
-### The legacy of the Chef de Cave
+## The legacy of the Chef de Cave
 
 The Chef de Cave works not only for the present but also for the future. Their decisions and expertise will influence the quality of champagnes produced in the years ahead. Decisions such as when to "disgorge" a cuvée or when to introduce a new vintage are choices that shape the legacy of the Chef de Cave and the reputation of the maison.
 

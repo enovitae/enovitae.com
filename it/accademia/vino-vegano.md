@@ -1,7 +1,6 @@
 ---
 title: "Il mistero del vino vegano: esploriamo il concetto e le differenze con il vino biologico e tradizionale"
-description: "\"Il vino vegano è prodotto senza l'uso di sostanze di origine animale nel processo di vinificazione.\"
-"
+description: "Il vino vegano esclude gelatine, albumina e colla di pesce dalla chiarificazione: come si produce, i pro, i contro e in cosa differisce dal biologico."
 author: "Enovitae Staff"
 published: 2023-10-08
 tags: ["biologico", "vegano"]

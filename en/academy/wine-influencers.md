@@ -14,6 +14,7 @@ source: Enovitae.com
 Wine criticism used to belong to a small group of gatekeepers: Robert Parker, the Wine Spectator panel, a handful of European journalists. Their scores could make or break a vintage. That model worked when wine buyers were mostly wealthy, mostly male, and mostly middle-aged. It doesn't describe most wine drinkers today. Millennial and Gen Z consumers represent the fastest-growing segment of wine buyers, and according to Wine Intelligence's 2023 Global Wine Trends report, over 40% of under-35 wine drinkers say social media influenced their last wine purchase. That number has tripled since 2018.
 
 > **Key Takeaways**
+>
 > - Over 40% of under-35 wine drinkers report that social media influenced their last wine purchase (Wine Intelligence, 2023)
 > - Wine Folly's Madeline Puckette built a 1M+ Instagram following by making wine approachable through visual education
 > - Influencer posts drive measurable sales spikes: a single TikTok video can sell out a small producer's entire allocation within 48 hours

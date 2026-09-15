@@ -1,7 +1,6 @@
 ---
 title: "Perché lo champagne costa di più del prosecco? differenze e fattori che influenzano il prezzo"
-description: "\"Lo champagne e il prosecco sono entrambi vini frizzanti amati in tutto il mondo, ma ci sono diverse ragioni per cui lo champagne costa di più...\"
-"
+description: "Perché lo champagne costa più del prosecco: metodo classico contro Charmat, terroir, uve, invecchiamento e prestigio spiegano la differenza di prezzo."
 author: "Enovitae Staff"
 published: 2023-02-07
 tags: ["champagne", "prosecco", "spumante"]

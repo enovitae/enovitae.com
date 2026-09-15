@@ -1,7 +1,6 @@
 ---
 title: "Esploriamo il vino francese: 10 caratteristiche che ne fanno un'icona enologica"
-description: "\"Esploriamo insieme le 10 qualità che rendono il vino francese un punto di riferimento per gli intenditori di tutto il mondo.\"
-"
+description: "Terroir, cru, appellazioni e maison storiche: le 10 caratteristiche che rendono il vino francese un riferimento mondiale, spiegate una per una."
 author: "Enovitae Staff"
 published: 2023-11-21
 tags: ["francia"]

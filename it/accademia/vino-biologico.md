@@ -1,7 +1,6 @@
 ---
 title: "Il vino biologico: un sguardo ai pro e contro della produzione sostenibile"
-description: "\"Negli ultimi anni, il vino biologico ha guadagnato sempre più popolarità tra gli amanti del vino e i consumatori attenti alla sostenibilità ambientale.\"
-"
+description: "Cosa significa davvero vino biologico: il disciplinare, i solfiti ammessi, i pro e i contro della produzione sostenibile e alcune etichette da provare."
 author: "Enovitae Staff"
 published: 2023-10-16
 tags: ["biologico", "solfiti", "sostenibile"]

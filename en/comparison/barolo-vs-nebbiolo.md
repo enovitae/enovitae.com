@@ -1,7 +1,6 @@
 ---
 title: "Barolo vs Nebbiolo: Exploring the Differences Between Two Great Piedmont Wines"
-description: "\"Barolo and Nebbiolo are two excellent wines from the Piedmont region in Italy, both made using the Nebbiolo grape...\"
-"
+description: "Every Barolo is made from Nebbiolo, but not every Nebbiolo is a Barolo. Compare the two Piedmont wines by zone, ageing, price and when to drink each."
 author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["barolo", "nebbiolo", "piedmont"]

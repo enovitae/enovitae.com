@@ -1,7 +1,6 @@
 ---
 title: "Chianti vs. Chianti Classico: esplorando le sottili differenze tra due grandi vini toscani"
-description: "\"Entrambi vengono prodotti nella stessa area geografica, ma possiedono caratteristiche e regolamenti distinti...\"
-"
+description: "Chianti e Chianti Classico condividono la Toscana ma non le regole: differenze di zona, uvaggio, disciplinare e gusto per capire quale dei due scegliere."
 author: "Enovitae Staff"
 published: 2023-11-15
 tags: ["chianti", "toscana"]

@@ -1,7 +1,6 @@
 ---
 title: "È possibile bere un buon vino sotto i 20 euro? Scopri il gusto dell'accessibilità enologica"
-description: "\"La domanda che spesso si pongono gli appassionati di vino è: è possibile trovare un buon vino sotto i 20 euro?\"
-"
+description: "Un buon vino sotto i 20 euro esiste: regioni emergenti, vitigni meno noti, piccoli produttori e bollicine da scoprire, con cosa guardare in etichetta."
 author: "Enovitae Staff"
 published: 2023-09-22
 tags: ["consigli", "cena", "budget"]

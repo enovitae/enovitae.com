@@ -1,7 +1,6 @@
 ---
 title: "Il vino in lattina: un futuro vincente per l'enologia moderna"
-description: "\"Negli ultimi anni, il vino in lattina sta guadagnando sempre più popolarità.\"
-"
+description: "Il vino in lattina conquista le nuove generazioni: le differenze con il vetro, la sostenibilità, l'assenza di TCA e quando conviene davvero sceglierlo."
 author: "Enovitae Staff"
 published: 2023-07-10
 tags: ["clima", "strategie", "tecnologie"]

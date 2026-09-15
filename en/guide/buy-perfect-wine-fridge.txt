@@ -15,6 +15,7 @@
 A standard kitchen fridge runs at 2-4°C and fluctuates constantly in humidity — both conditions accelerate cork drying and disrupt the slow micro-oxidation wines need to develop. A dedicated wine fridge holds temperature within ±0.5°C and maintains 50-70% relative humidity, the range recommended by the International Organisation of Vine and Wine (OIV) for long-term bottle preservation. Even an entry-level model protects a €30 bottle far better than the back of your regular fridge.
 
 > **Key Takeaways**
+>
 > - The OIV recommends 10-15°C for aging; temperature swings above ±3°C damage corks within months
 > - Thermoelectric models run at 25-35 dB (near-silent) but suit collections under 20 bottles in temperate climates
 > - Dual-zone fridges let you serve whites at 8-10°C and reds at 16-18°C from the same unit
@@ -36,12 +37,12 @@ If you drink wine at least twice a week from a mixed collection, dual-zone is th
 
 ## Choosing the Right Capacity
 
-| Collection Size | Recommended Type | Typical Price Range |
-|---|---|---|
-| Up to 12 bottles | Compact thermoelectric, single zone | €80-€150 |
-| 12-30 bottles | Mid-size thermoelectric or compressor | €150-€300 |
-| 30-60 bottles | Compressor, dual zone | €250-€500 |
-| 60+ bottles | Freestanding compressor | €400+ |
+| Collection Size  | Recommended Type                      | Typical Price Range |
+| ---------------- | ------------------------------------- | ------------------- |
+| Up to 12 bottles | Compact thermoelectric, single zone   | €80-€150            |
+| 12-30 bottles    | Mid-size thermoelectric or compressor | €150-€300           |
+| 30-60 bottles    | Compressor, dual zone                 | €250-€500           |
+| 60+ bottles      | Freestanding compressor               | €400+               |
 
 Most households settle in the 12-30 bottle range. A compact model fits under standard counters (45-50 cm height), while mid-size models are typically freestanding. Whatever the size, a wine fridge also pairs well with a good bottle resealing system for any bottle you open but don't finish.
 

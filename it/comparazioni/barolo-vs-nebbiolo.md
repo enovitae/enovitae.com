@@ -1,7 +1,6 @@
 ---
 title: "Barolo vs Nebbiolo: esplorando le differenze tra due grandi vini piemontesi"
-description: "\"Barolo e Nebbiolo sono due eccellenti vini provenienti dalla regione del Piemonte, in Italia, entrambi realizzati utilizzando l'uva Nebbiolo...\"
-"
+description: "Ogni Barolo nasce da uve Nebbiolo, ma non ogni Nebbiolo è un Barolo: la differenza tra i due vini piemontesi per zona, affinamento, prezzo e occasione."
 author: "Enovitae Staff"
 published: 2023-10-21
 tags: ["barolo", "nebbiolo", "piemonte"]

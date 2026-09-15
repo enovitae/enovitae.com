@@ -1,7 +1,6 @@
 ---
 title: "Che cosa vuol dire \"brut\"? Scopri i diversi dosaggi di champagne e spumanti"
-description: "\"I diversi dosaggi di zucchero presenti negli champagne e negli spumanti...\"
-"
+description: "Brut, extra brut, dosaggio zero o demi-sec: scopri cosa indica ogni dosaggio di champagne e spumante, quanto zucchero contiene e come riconoscerlo."
 author: "Enovitae Staff"
 published: 2024-02-02
 tags: ["spumante", "brut", "dosaggio"]

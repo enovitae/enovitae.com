@@ -1,7 +1,6 @@
 ---
 title: "Tannino: un'introduzione al gusto strutturato e complesso del vino tannico"
-description: "\"Definizione di tannino, il suo ruolo nel vino e l'impatto che ha sulle nostre papille gustative...\"
-"
+description: "Cos'è il tannino, da dove arriva e perché allega la bocca: i tipi di tannino, le differenze tra rossi e bianchi e gli abbinamenti che lo ammorbidiscono."
 author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["tannino", "degustazione"]
@@ -66,7 +65,7 @@ I tannini sono generalmente associati ai vini rossi, poiché si trovano principa
 
 I vini tannici si sposano bene con piatti ricchi e succulenti che possono essere bilanciati dalla loro struttura e astringenza. Alcuni abbinamenti classici includono:
 
-**Carne rossa grigliata**: I vini rossi tannici come il Cabernet Sauvignon o il Nebbiolo sono perfetti con bistecche, costate o qualsiasi tipo di carne rossa alla griglia. Tuttavia, è importante evitare che la carne sia troppo grigliata o bruciata, poiché le parti bruciate potrebbero aumentare il senso di amaro dei tannini, compromettendo l'armonia del piatto.
+**Carne rossa grigliata**: I vini rossi tannici come il Cabernet Sauvignon o il [Nebbiolo](https://enovitae.com/it/comparazioni/barolo-vs-nebbiolo.md) sono perfetti con bistecche, costate o qualsiasi tipo di carne rossa alla griglia. Tuttavia, è importante evitare che la carne sia troppo grigliata o bruciata, poiché le parti bruciate potrebbero aumentare il senso di amaro dei tannini, compromettendo l'armonia del piatto.
 
 **Formaggi stagionati**: I tannini si abbinano magnificamente con i formaggi stagionati come il Pecorino, il Parmigiano Reggiano o il Gouda vecchio.
 

@@ -1,7 +1,6 @@
 ---
 title: "Sei invitato a cena e non sai che vino portare? Te lo suggeriamo noi!"
-description: "\"Immagina di essere stato invitato a cena da amici o parenti, e la tua unica missione è portare un buon vino...\"
-"
+description: "Invitato a cena e non sai che vino portare? Come sceglierlo in base al menu, ai gusti degli ospiti e al momento, con suggerimenti pronti per ogni occasione."
 author: "Enovitae Staff"
 published: 2023-06-09
 tags: ["consigli", "cena"]

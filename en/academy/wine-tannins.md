@@ -65,7 +65,7 @@ Tannins are generally associated with red wines, as they are found primarily in 
 
 Tannic wines pair well with rich, hearty dishes that can be balanced by their structure and astringency. Classic pairings include:
 
-**Grilled red meat**: Tannic reds such as Cabernet Sauvignon or Nebbiolo are perfect with steaks, ribs or any grilled red meat. It is important to avoid overly charred or burnt meat, as charred portions could amplify the bitter component of the tannins.
+**Grilled red meat**: Tannic reds such as Cabernet Sauvignon or [Nebbiolo](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md) are perfect with steaks, ribs or any grilled red meat. It is important to avoid overly charred or burnt meat, as charred portions could amplify the bitter component of the tannins.
 
 **Aged cheeses**: Tannins pair magnificently with aged cheeses such as Pecorino, Parmigiano Reggiano or aged Gouda.
 

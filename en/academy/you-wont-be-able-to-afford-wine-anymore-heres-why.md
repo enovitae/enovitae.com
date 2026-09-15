@@ -1,6 +1,6 @@
 ---
-title: "You won’t be able to afford your favorite wine anymore — Here’s why\""
-description: "Explore how rising wine prices and tariffs disrupt the wine industry and alter consumer behavior, with insights from Jessica Dupuy's article on Forbes."
+title: "You won’t be able to afford your favorite wine anymore — Here’s why"
+description: "How tariffs and supply-chain costs multiply the price of a bottle: the three-tier mechanism, and what actually happened to wine prices in the end."
 author: "Enovitae Staff"
 published: 2025-01-25
 tags: ["wine industry", "prices", "tariffs", "wine consumption"]
@@ -11,7 +11,9 @@ source: Enovitae.com
 
 ## How rising prices and tariffs shape the wine industry and impact consumption
 
-The wine industry is no stranger to economic fluctuations, but the potential for new tariffs on imported wines is creating a ripple effect that could reshape the market. Drawing insights from Jessica Dupuy's Forbes article, we delve into how rising prices, driven by tariffs and supply chain costs, are impacting the industry and consumer behavior.
+The wine industry is no stranger to economic fluctuations, but tariffs on imported wine set off a ripple effect that has redrawn price lists. Drawing on Jessica Dupuy's Forbes article, we look at the mechanism by which a duty multiplies along the supply chain to reach the shelf price — and why the increase that lands on the consumer is always larger than the rate applied at the border.
+
+> **Update.** This article was written in January 2025, when the scale of the new tariffs was still uncertain. The matter has since been settled: since July 2026 European wine enters the United States at a **10%** rate, not the 200% that had been threatened. The full account is in our guide to [US tariffs on European wine](https://enovitae.com/en/guide/trump-tariff-european-wine.md). The mechanism described below still holds — it is why a 10% duty does not translate into a 10% price rise.
 
 ---
 
@@ -33,7 +35,7 @@ Jessica Dupuy highlights how tariffs implemented in 2019, such as the 25% duty o
    While domestic wineries might benefit short-term from decreased competition, the long-term impacts of a weakened distribution network harm both domestic and imported wines. Tariffs disrupt the ability of distributors to invest in marketing and logistics, limiting the opportunities for smaller domestic producers to grow.
 
 3. **Cultural and gastronomic impact**
-   European wines like [Champagne](https://enovitae.com/en/academy/challenging-year-champagne-2024.md), Barolo, and Chianti are irreplaceable in the culinary and cultural fabric. As Ben Aneff, president of the U.S. Wine Trade Alliance, explains, "You can't pair a Napa Cabernet with a bistecca alla Fiorentina the way a Chianti Classico or [Brunello di Montalcino](https://enovitae.com/en/comparison/barolo-vs-brunello.md) would."
+   European wines like [Champagne](https://enovitae.com/en/academy/challenging-year-champagne.md), Barolo, and Chianti are irreplaceable in the culinary and cultural fabric. As Ben Aneff, president of the U.S. Wine Trade Alliance, explains, "You can't pair a Napa Cabernet with a bistecca alla Fiorentina the way a Chianti Classico or [Brunello di Montalcino](https://enovitae.com/en/comparison/barolo-vs-brunello.md) would."
 
 ---
 
@@ -62,7 +64,11 @@ Key recommendations for the industry include:
 
 The wine industry’s response to rising prices and potential tariffs reveals its resilience, but it also underscores vulnerabilities within its complex ecosystem. As Jessica Dupuy writes, "Wine tariffs do more damage here at home than abroad," disrupting businesses across the supply chain and reducing consumer choice.
 
-For now, the industry must stay informed, prepared, and engaged with policymakers. While challenges loom, the collective adaptability of producers, distributors, and consumers offers hope for navigating these uncertain times. As we await further developments, it’s clear that the industry’s ability to advocate for itself will be crucial in shaping its future.
+For now, the industry must stay informed, prepared, and engaged with policymakers.
+
+With hindsight from 2026, one figure can be added. The advocacy achieved a partial result: the duty settled at 10% rather than the threatened 200%, but the carve-out for the alcohol sector — the industry's central request — did not materialise. And the effect on volumes is visible: exports from Italy's largest producers to the United States fell **6.3%** in 2025, the worst result of any destination, in a year when the [wine market](https://enovitae.com/en/academy/italian-wine-market.md) contracted globally.
+
+The point that remains current is the first one in this article: what the consumer pays is not the cost of the duty, it is the cost of the duty multiplied by every step of the supply chain. That is why an apparently tolerable rate still shifts demand.
 
 ---
 

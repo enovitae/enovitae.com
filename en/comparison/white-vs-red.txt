@@ -1,7 +1,6 @@
 # Is red wine better than white wine? Exploring the differences between the two enological worlds
 
-> "The production process, cellar techniques, and gastronomic pairings that make them special..."
-
+> Red or white wine? Compare how each one is made, why tannins appear only in reds, the cellar techniques behind them and the food pairings that suit both.
 
 - URL: https://enovitae.com/en/comparison/white-vs-red
 - Author: Enovitae Staff

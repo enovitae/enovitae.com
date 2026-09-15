@@ -1,6 +1,6 @@
 ---
 title: "Non potrai più permetterti il tuo vino preferito: ecco perché"
-description: "Prezzi in aumento e tariffe sconvolgono l'industria del vino, limitando le scelte per i consumatori e danneggiando il mercato globale. Cosa succederà nel 2025."
+description: "Come dazi e costi della filiera moltiplicano il prezzo di una bottiglia: il meccanismo del sistema a tre livelli e cosa è successo davvero ai listini."
 author: "Enovitae Staff"
 published: 2025-01-25
 tags: ["industria vinicola", "prezzi del vino", "tariffe", "consumo vino"]
@@ -11,7 +11,9 @@ source: Enovitae.com
 
 ## Non potrai più permetterti il tuo vino preferito: ecco perché
 
-L’industria del vino non è estranea alle fluttuazioni economiche, ma la possibilità di nuove tariffe sui vini importati sta creando un effetto a catena che potrebbe trasformare il mercato. Prendendo spunto dall’articolo di Jessica Dupuy pubblicato su _Forbes_, analizziamo come l’aumento dei prezzi, causato da tariffe e costi della filiera, sta impattando l’industria e il comportamento dei consumatori.
+L’industria del vino non è estranea alle fluttuazioni economiche, ma i dazi sui vini importati hanno innescato un effetto a catena che ha ridisegnato i listini. Prendendo spunto dall’articolo di Jessica Dupuy pubblicato su _Forbes_, analizziamo il meccanismo con cui un dazio si moltiplica lungo la filiera fino al prezzo di scaffale — e perché l’aumento che arriva al consumatore è sempre più grande dell’aliquota applicata alla dogana.
+
+> **Aggiornamento.** Questo articolo è stato scritto nel gennaio 2025, quando l’entità dei nuovi dazi era ancora incerta. La vicenda si è chiusa: dal luglio 2026 il vino europeo entra negli Stati Uniti con un’aliquota del **10%**, non con il 200% che era stato minacciato. La ricostruzione completa è nella nostra guida ai [dazi USA sul vino europeo](https://enovitae.com/it/guide/dazi-trump-vino-europeo.md). Il meccanismo descritto qui sotto resta valido: è il motivo per cui un dazio del 10% non si traduce in un rincaro del 10%.
 
 ---
 
@@ -62,7 +64,9 @@ Raccomandazioni chiave per il settore:
 
 La risposta dell’industria del vino all’aumento dei prezzi e alle potenziali tariffe dimostra la sua resilienza, ma evidenzia anche le vulnerabilità di un ecosistema complesso. Come scrive Jessica Dupuy, "Le tariffe sul vino fanno più danni qui a casa che all’estero," sconvolgendo le attività lungo tutta la filiera e riducendo le opzioni per i consumatori.
 
-Per ora, l’industria deve rimanere informata, preparata e impegnata con i decisori politici. Sebbene le sfide siano all’orizzonte, la capacità collettiva di adattarsi e fare advocacy sarà cruciale per plasmare il futuro del settore.
+Con il senno del 2026 si può aggiungere un dato. L’advocacy ha ottenuto un risultato parziale: il dazio si è fermato al 10% invece del 200% minacciato, ma l’esclusione del comparto alcolico — la richiesta principale del settore — non è arrivata. E l’effetto sui volumi si vede: nel 2025 l’export dei maggiori produttori italiani verso gli Stati Uniti è calato del **6,3%**, il risultato peggiore tra tutte le aree di destinazione, in un anno in cui il [mercato del vino](https://enovitae.com/it/accademia/mercato-vino-italia.md) è arretrato su scala globale.
+
+Il punto che resta attuale è il primo di questo articolo: il prezzo che paga il consumatore non è il costo del dazio, è il costo del dazio moltiplicato per ogni passaggio della filiera. È per questo che un’aliquota apparentemente sopportabile sposta comunque la domanda.
 
 ---
 

@@ -7,116 +7,103 @@
 - License: All rights reserved unless otherwise stated. Educational and citation use allowed with attribution.
 - Commercial-use: disallowed
 
-## Academy
+## Italian (it)
 
-- [You won’t be able to afford your favorite wine anymore — Here’s why"](https://enovitae.com/en/academy/you-wont-be-able-to-afford-wine-anymore-heres-why.txt): Explore how rising wine prices and tariffs disrupt the wine industry and alter consumer behavior, with insights from Jessica Dupuy's article on Forbes.
-- [Non potrai più permetterti il tuo vino preferito: ecco perché](https://enovitae.com/it/accademia/non-potrai-piu-permetterti-vino-preferito-ecco-perche.txt): Prezzi in aumento e tariffe sconvolgono l'industria del vino, limitando le scelte per i consumatori e danneggiando il mercato globale. Cosa succederà nel 2025.
-- [Challenging year for Champagne in 2024: sales decline and price impact](https://enovitae.com/en/academy/challenging-year-champagne-2024.txt): Explore the challenges of the 2024 Champagne vintage, including sales declines, reduced yields, and expected price increases.
-- [Annata difficile per lo Champagne 2024: calo delle vendite e impatto sui prezzi](https://enovitae.com/it/accademia/annata-difficile-champagne-2024.txt): Scopri le difficoltà dell'annata 2024 per lo Champagne, con calo delle vendite, riduzione delle rese e le previsioni di aumento dei prezzi.
-- [The transformation of the organic wine market in Italy: data from 2010 to 2024](https://enovitae.com/en/academy/organic-wine-market-italy-2010-2024.txt): A detailed analysis of the evolution of the organic wine market in Italy from 2010 to 2024, focusing on growth, consumer trends, and future forecasts.
-- [La trasformazione del mercato del vino biologico in Italia: dati dal 2010 al 2024](https://enovitae.com/it/accademia/mercato-vino-biologico-italia-2010-2024.txt): Mercato del vino biologico in Italia dal 2010 al 2024: superficie certificata +68%, tendenze di consumo e previsioni per un settore in continua crescita.
-- [Wine market 2024: global consumption, consumer trends and Italian data](https://enovitae.com/en/academy/italian-wine-market-2024.txt): Data, trends, and 2024 forecasts for the wine market: global consumption by continent, shifting consumer preferences, and Italian market figures.
-- [Mercato del vino 2024: consumi globali, preferenze e dati italiani](https://enovitae.com/it/accademia/mercato-vino-italia-2024.txt): Dati, tendenze e previsioni 2024 sul mercato del vino: dai consumi globali per continente alle preferenze dei consumatori, fino ai numeri del mercato italiano.
+### Academy
+
+- [Non potrai più permetterti il tuo vino preferito: ecco perché](https://enovitae.com/it/accademia/non-potrai-piu-permetterti-vino-preferito-ecco-perche.txt): Come dazi e costi della filiera moltiplicano il prezzo di una bottiglia: il meccanismo del sistema a tre livelli e cosa è successo davvero ai listini.
+- [Annata difficile per lo Champagne: dal 2024 alle rese minime del 2026](https://enovitae.com/it/accademia/annata-difficile-champagne.txt): Dalla vendemmia difficile del 2024 alle rese minime del 2026: come lo Champagne ha tagliato la produzione per quattro anni e cosa comporta per i prezzi.
+- [Il mercato del vino biologico in Italia: superfici, vendite e dati aggiornati](https://enovitae.com/it/accademia/mercato-vino-biologico-italia.txt): Vino biologico in Italia: il 21% dei vigneti è certificato bio, ma le vendite restano al 6,2% del mercato. Superfici, export e perché la crescita si è fermata.
+- [Mercato del vino 2026: consumi globali, preferenze e dati italiani](https://enovitae.com/it/accademia/mercato-vino-italia.txt): Mercato del vino 2026: consumi mondiali ai minimi dal 1957, vendite italiane in calo del 2,8% e un settore che punta su premium e diversificazione.
 - [Esplorando il mondo dello champagne: tipi, bottiglie, dosaggi, temperature e le migliori annate](https://enovitae.com/it/accademia/caratteristiche-champagne.txt): Dalla cuvée de prestige ai dosaggi, scopri i diversi tipi di champagne: bottiglie, temperature di servizio e migliori annate per una degustazione completa.
-- [The Chef de Cave: the master behind champagne's finest bubbles](https://enovitae.com/en/academy/chef-de-cave-champagne.txt): The role of the Chef de Cave in champagne: from assembling cuvées to selecting vintages, the craftsperson who gives life to the world's most prized bubbles.
 - [Champagne: un viaggio attraverso bollicine, storia e segreti](https://enovitae.com/it/accademia/champagne.txt): Segreti e storia dello champagne: dalla terra d'origine alle diverse cuvées, dal metodo di produzione alle migliori annate per una degustazione perfetta.
 - [Lo Chef de Cave: il maestro dietro le bollicine dello champagne](https://enovitae.com/it/accademia/chef-de-cave-champagne.txt): Il ruolo del Chef de Cave nello champagne: dall'assemblaggio delle cuvées alla selezione delle annate, la figura che dà vita alle bollicine più pregiate.
-- [Che cosa vuol dire "brut"? Scopri i diversi dosaggi di champagne e spumanti](https://enovitae.com/it/accademia/brut-dosaggi-champagne-spumanti.txt): "I diversi dosaggi di zucchero presenti negli champagne e negli spumanti..."
-
-- [Uncorking the mystery of wine bottles: types, differences, and more](https://enovitae.com/en/academy/wine-bottles.txt): Why do wine bottles have different shapes? Discover the history behind wine packaging and how to choose the right bottle for every occasion and wine style.
+- [Che cosa vuol dire "brut"? Scopri i diversi dosaggi di champagne e spumanti](https://enovitae.com/it/accademia/brut-dosaggi-champagne-spumanti.txt): Brut, extra brut, dosaggio zero o demi-sec: scopri cosa indica ogni dosaggio di champagne e spumante, quanto zucchero contiene e come riconoscerlo.
 - [Svelando il mistero delle bottiglie di vino](https://enovitae.com/it/accademia/bottiglie-di-vino.txt): Perché le bottiglie di vino hanno forme diverse? Scopri la storia del confezionamento e come scegliere la bottiglia giusta per ogni occasione e vitigno.
-- [AI and wine: from the vineyard to the sommelier, technology changes everything](https://enovitae.com/en/academy/ai-winemakers-technology-vineyard.txt): How artificial intelligence is transforming winemaking — from vineyard management with drones and sensors to supporting sommeliers with pairings and tastings.
-- [Sugar in wine: sweetness and complexity in the glass](https://enovitae.com/en/academy/sugar-in-wine.txt): Sugar in wine shapes complexity, sweetness, and structure. Discover its role in winemaking and how it determines the sensory profile of each wine style.
-- [How Wine Influencers Are Reshaping Tastes and Wine Sales](https://enovitae.com/en/academy/wine-influencers.txt): Wine influencers are reshaping trends and marketing in the wine industry. Discover how they shape consumer preferences and connect brands with new audiences.
 - [IA e vino: dal vigneto al sommelier, la tecnologia cambia tutto](https://enovitae.com/it/accademia/ia-viticoltori-tecnologia-vigneto.txt): Come l'intelligenza artificiale trasforma la viticoltura: dai droni in vigneto al supporto al sommelier per abbinamenti, degustazioni e analisi sensoriale.
 - [La crescita degli influencer del vino](https://enovitae.com/it/accademia/influencer-vino.txt): Gli influencer del vino ridefiniscono tendenze e marketing vinicolo. Scopri come plasmano le preferenze dei consumatori e connettono brand e appassionati.
 - [Lo zucchero nel vino: dolcezza e complessità nel calice](https://enovitae.com/it/accademia/zucchero-nel-vino.txt): Lo zucchero nel vino influenza complessità, dolcezza e struttura. Scopri il suo ruolo nella vinificazione e come determina il profilo sensoriale di ogni stile.
-- [Esploriamo il vino francese: 10 caratteristiche che ne fanno un'icona enologica](https://enovitae.com/it/accademia/vino-francese-10-caratteristiche.txt): "Esploriamo insieme le 10 qualità che rendono il vino francese un punto di riferimento per gli intenditori di tutto il mondo."
-
-- [Il vino biologico: un sguardo ai pro e contro della produzione sostenibile](https://enovitae.com/it/accademia/vino-biologico.txt): "Negli ultimi anni, il vino biologico ha guadagnato sempre più popolarità tra gli amanti del vino e i consumatori attenti alla sostenibilità ambientale."
-
-- [Il mistero del vino vegano: esploriamo il concetto e le differenze con il vino biologico e tradizionale](https://enovitae.com/it/accademia/vino-vegano.txt): "Il vino vegano è prodotto senza l'uso di sostanze di origine animale nel processo di vinificazione."
-
+- [Esploriamo il vino francese: 10 caratteristiche che ne fanno un'icona enologica](https://enovitae.com/it/accademia/vino-francese-10-caratteristiche.txt): Terroir, cru, appellazioni e maison storiche: le 10 caratteristiche che rendono il vino francese un riferimento mondiale, spiegate una per una.
+- [Il vino biologico: un sguardo ai pro e contro della produzione sostenibile](https://enovitae.com/it/accademia/vino-biologico.txt): Cosa significa davvero vino biologico: il disciplinare, i solfiti ammessi, i pro e i contro della produzione sostenibile e alcune etichette da provare.
+- [Il mistero del vino vegano: esploriamo il concetto e le differenze con il vino biologico e tradizionale](https://enovitae.com/it/accademia/vino-vegano.txt): Il vino vegano esclude gelatine, albumina e colla di pesce dalla chiarificazione: come si produce, i pro, i contro e in cosa differisce dal biologico.
 - [Acquisto en primeur: cos'è, pro, contro e consigli](https://enovitae.com/it/accademia/acquisto-en-primeur.txt): L'acquisto en primeur consente di prenotare vini prestigiosi prima dell'imbottigliamento. Scopri pro, contro e come investire saggiamente nei migliori Bordeaux.
+- [Brunello di Montalcino: L'eccellenza del sangiovese in una bottiglia](https://enovitae.com/it/accademia/brunello-di-montalcino.txt): Brunello di Montalcino: storia, produzione, fasi di invecchiamento e abbinamenti gastronomici. Tutto sul grande rosso toscano, patrimonio enologico d'Italia.
+- [Posso tenere il vino in piedi? Le cinque regole per conservare il vino in modo corretto](https://enovitae.com/it/accademia/conservare-il-vino.txt): In piedi o coricata? Le cinque regole per conservare il vino in casa: posizione della bottiglia, temperatura ideale, luce, umidità e durata reale.
+- [Tannino: un'introduzione al gusto strutturato e complesso del vino tannico](https://enovitae.com/it/accademia/gusto-vino-tannico.txt): Cos'è il tannino, da dove arriva e perché allega la bocca: i tipi di tannino, le differenze tra rossi e bianchi e gli abbinamenti che lo ammorbidiscono.
+- [L'Influenza del Cambiamento Climatico sul Vino: Un Viaggio tra Evidenze e Sfide Enologiche](https://enovitae.com/it/accademia/cambiamento-climatico-e-vino.txt): Estati più calde, vendemmie anticipate, nuove regioni vinicole: come il cambiamento climatico sta riscrivendo la mappa del vino e come reagiscono le cantine.
+- [L'impronta di CO2 della produzione di vino: un viaggio verso la sostenibilità](https://enovitae.com/it/accademia/impatto-co2-vino.txt): Quanta CO2 produce davvero una bottiglia di vino e come si riduce: pratiche sostenibili in vigna, scelte di cantina e il caso virtuoso della Valtellina.
+- [Il vino in lattina: un futuro vincente per l'enologia moderna](https://enovitae.com/it/accademia/vino-in-lattina.txt): Il vino in lattina conquista le nuove generazioni: le differenze con il vetro, la sostenibilità, l'assenza di TCA e quando conviene davvero sceglierlo.
+
+### Guides
+
+- [Vini dealcolati: cosa sono, come vengono prodotti e perché il mercato sta esplodendo](https://enovitae.com/it/guide/vini-dealcolati-cosa-sono-come-si-producono.txt): Guida completa ai vini dealcolati: definizione, metodi di produzione, differenze con il vino tradizionale, novità legislative italiane e crescita del mercato NoLo.
+- [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/guide/crisi-vino-california-2025-sovrapproduzione-collasso.txt): La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda.
+- [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/guide/prezzi-e-resa-champagne-2025-alle-stelle.txt): Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi.
+- [Dazi USA sul vino europeo: dalla minaccia del 200% al 10% effettivo](https://enovitae.com/it/guide/dazi-trump-vino-europeo.txt): Nel 2025 Trump minacciò un dazio del 200% sul vino europeo. Da luglio 2026 l'aliquota effettiva è il 10%: cosa è cambiato e cosa resta in gioco.
+- [Come scegliere il vino perfetto per San Valentino senza spendere troppo](https://enovitae.com/it/guide/vino-san-valentino-budget.txt): I migliori vini economici per San Valentino senza rinunciare alla qualità: guida pratica alla bottiglia perfetta, con abbinamenti per ogni budget e gusto.
+- [I migliori vini italiani e francesi per Capodanno 2025](https://enovitae.com/it/guide/vini-capodanno-2025.txt): Festeggia il Capodanno con i migliori vini italiani e francesi, tra cui Chianti, Barolo, Brunello e Champagne. Scopri i nostri consigli per il 2025.
+- [Cosa regalare a Natale: i migliori vini italiani e francesi del 2024](https://enovitae.com/it/guide/guida-regalo-vini-natale-2024.txt): Scopri i migliori vini italiani e francesi da regalare a Natale, basati su tendenze di mercato e recensioni recenti.
+- [Guida alla degustazione del vino: scopri i segreti del buon calice](https://enovitae.com/it/guide/guida-degustazione-vino-apprezzare-buon-calice.txt): Come si degusta il vino, passo per passo: esame visivo, olfattivo e gustativo, i profumi da riconoscere e le parole giuste per descrivere un calice.
+- [Cantinetta Vino: Guida all'Acquisto e Conservazione Ottimale](https://enovitae.com/it/guide/cantinetta-vino.txt): Come scegliere la cantinetta per il vino: doppia temperatura, modelli in legno, frigo cantinetta e vetrine a confronto, con i criteri che contano davvero.
+- [Vino per San Valentino: come stupire il tuo partner](https://enovitae.com/it/guide/vino-san-valentino.txt): Quale vino scegliere per San Valentino? Consigli pratici sugli abbinamenti per cena romantica, dessert e brindisi finale, con opzioni per ogni gusto e budget.
+- [Come tappare il vino dopo l'apertura: tecniche e consigli](https://enovitae.com/it/guide/tappare-vino-dopo-apertura.txt): Come tappare il vino dopo l'apertura per preservarne freschezza e aromi. Dal semplice tappo al Coravin: le migliori tecniche per ogni tipo di bottiglia.
+- [È possibile bere un buon vino sotto i 20 euro? Scopri il gusto dell'accessibilità enologica](https://enovitae.com/it/guide/vino-sotto-20-euro.txt): Un buon vino sotto i 20 euro esiste: regioni emergenti, vitigni meno noti, piccoli produttori e bollicine da scoprire, con cosa guardare in etichetta.
+- [Sei invitato a cena e non sai che vino portare? Te lo suggeriamo noi!](https://enovitae.com/it/guide/che-vino-portare-a-cena.txt): Invitato a cena e non sai che vino portare? Come sceglierlo in base al menu, ai gusti degli ospiti e al momento, con suggerimenti pronti per ogni occasione.
+- [Che vino regalo? I 10 punti da considerare per il regalo perfetto](https://enovitae.com/it/guide/che-vino-regalo.txt): Che vino regalare? Dieci criteri per non sbagliare: gusti di chi lo riceve, occasione, budget, annata e abbinamenti, fino al biglietto che lo accompagna.
+
+### Standings
+
+- [I 10 migliori vini rossi toscani](https://enovitae.com/it/classifiche/10-migliori-rossi-toscani.txt): I 10 migliori vini rossi toscani, dal Chianti Classico al Brunello di Montalcino fino a Bolgheri: cosa distingue ognuno, come si degusta e con cosa abbinarlo.
+
+### Comparisons
+
+- [È più buono il Barolo o il Brunello? Le differenze tra Nebbiolo e Sangiovese](https://enovitae.com/it/comparazioni/barolo-vs-brunello.txt): Barolo o Brunello? Nebbiolo contro Sangiovese, i territori delle Langhe e di Montalcino, i disciplinari e il gusto, per scegliere la bottiglia giusta.
+- [Chianti vs. Chianti Classico: esplorando le sottili differenze tra due grandi vini toscani](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.txt): Chianti e Chianti Classico condividono la Toscana ma non le regole: differenze di zona, uvaggio, disciplinare e gusto per capire quale dei due scegliere.
+- [È più buono il vino rosso o il vino bianco? esploriamo le differenze tra vini rossi e bianchi](https://enovitae.com/it/classifiche/bianco-vs-rosso.txt): Vino rosso o vino bianco? Le differenze di produzione, i tannini presenti solo nei rossi, le tecniche di cantina e gli abbinamenti giusti per ciascuno.
+- [Barolo vs Nebbiolo: esplorando le differenze tra due grandi vini piemontesi](https://enovitae.com/it/comparazioni/barolo-vs-nebbiolo.txt): Ogni Barolo nasce da uve Nebbiolo, ma non ogni Nebbiolo è un Barolo: la differenza tra i due vini piemontesi per zona, affinamento, prezzo e occasione.
+- [Perché lo champagne costa di più del prosecco? differenze e fattori che influenzano il prezzo](https://enovitae.com/it/comparazioni/champagne-vs-prosecco.txt): Perché lo champagne costa più del prosecco: metodo classico contro Charmat, terroir, uve, invecchiamento e prestigio spiegano la differenza di prezzo.
+
+## English (en)
+
+### Academy
+
+- [You won’t be able to afford your favorite wine anymore — Here’s why](https://enovitae.com/en/academy/you-wont-be-able-to-afford-wine-anymore-heres-why.txt): How tariffs and supply-chain costs multiply the price of a bottle: the three-tier mechanism, and what actually happened to wine prices in the end.
+- [A challenging year for Champagne: from 2024 to the record-low 2026 yield](https://enovitae.com/en/academy/challenging-year-champagne.txt): From the difficult 2024 harvest to the record-low 2026 yield: how Champagne cut production for four straight years, and what it means for prices.
+- [The organic wine market in Italy: vineyard area, sales and current data](https://enovitae.com/en/academy/organic-wine-market-italy.txt): Organic wine in Italy: 21% of vineyards are certified organic, yet sales hold at 6.2% of the market. Area, exports, and why the growth phase ended.
+- [Wine market 2026: global consumption, consumer trends and Italian data](https://enovitae.com/en/academy/italian-wine-market.txt): Wine market 2026: global consumption at its lowest since 1957, Italian sales down 2.8%, and a sector betting on premium wines and diversification.
+- [The Chef de Cave: the master behind champagne's finest bubbles](https://enovitae.com/en/academy/chef-de-cave-champagne.txt): The role of the Chef de Cave in champagne: from assembling cuvées to selecting vintages, the craftsperson who gives life to the world's most prized bubbles.
+- [Uncorking the mystery of wine bottles: types, differences, and more](https://enovitae.com/en/academy/wine-bottles.txt): Why do wine bottles have different shapes? Discover the history behind wine packaging and how to choose the right bottle for every occasion and wine style.
+- [AI and wine: from the vineyard to the sommelier, technology changes everything](https://enovitae.com/en/academy/ai-winemakers-technology-vineyard.txt): How artificial intelligence is transforming winemaking — from vineyard management with drones and sensors to supporting sommeliers with pairings and tastings.
+- [Sugar in wine: sweetness and complexity in the glass](https://enovitae.com/en/academy/sugar-in-wine.txt): Sugar in wine shapes complexity, sweetness, and structure. Discover its role in winemaking and how it determines the sensory profile of each wine style.
+- [How Wine Influencers Are Reshaping Tastes and Wine Sales](https://enovitae.com/en/academy/wine-influencers.txt): Wine influencers are reshaping trends and marketing in the wine industry. Discover how they shape consumer preferences and connect brands with new audiences.
 - [Brunello di Montalcino: The excellence of Sangiovese in a bottle](https://enovitae.com/en/academy/brunello-di-montalcino.txt): Brunello di Montalcino: history, production, aging stages and food pairings. Everything about the great Tuscan red, one of Italy's most treasured wines.
 - [How to Store Wine Properly: 5 Rules to Preserve Quality](https://enovitae.com/en/academy/how-to-store-wine.txt): Proper wine storage preserves quality, flavour and complexity over time. Discover the 5 key rules — from bottle position to temperature, light and humidity.
 - [Tannins in wine: a guide to structure, astringency and complexity](https://enovitae.com/en/academy/wine-tannins.txt): What are tannins in wine? Discover their definition, role in winemaking, effect on astringency, and why they matter for aging potential and food pairing.
-- [Brunello di Montalcino: L'eccellenza del sangiovese in una bottiglia](https://enovitae.com/it/accademia/brunello-di-montalcino.txt): Brunello di Montalcino: storia, produzione, fasi di invecchiamento e abbinamenti gastronomici. Tutto sul grande rosso toscano, patrimonio enologico d'Italia.
-- [Posso tenere il vino in piedi? Le cinque regole per conservare il vino in modo corretto](https://enovitae.com/it/accademia/conservare-il-vino.txt): "La corretta conservazione del vino è essenziale per garantire che mantenga la sua qualità, sapore e caratteristiche nel tempo."
 
-- [Tannino: un'introduzione al gusto strutturato e complesso del vino tannico](https://enovitae.com/it/accademia/gusto-vino-tannico.txt): "Definizione di tannino, il suo ruolo nel vino e l'impatto che ha sulle nostre papille gustative..."
-
-- [L'Influenza del Cambiamento Climatico sul Vino: Un Viaggio tra Evidenze e Sfide Enologiche](https://enovitae.com/it/accademia/cambiamento-climatico-e-vino.txt): "Le estati sempre più calde e secche, gli inverni più miti e la variazione delle precipitazioni stanno cambiando i paesaggi vinicoli."
-
-- [L'impronta di CO2 della produzione di vino: un viaggio verso la sostenibilità](https://enovitae.com/it/accademia/impatto-co2-vino.txt): "L'aumento delle emissioni di gas serra sta contribuendo al riscaldamento globale e ha un impatto significativo sul settore vitivinicolo."
-
-- [Il vino in lattina: un futuro vincente per l'enologia moderna](https://enovitae.com/it/accademia/vino-in-lattina.txt): "Negli ultimi anni, il vino in lattina sta guadagnando sempre più popolarità."
-
-
-## Guides
+### Guides
 
 - [Dealcoholized Wines Explained: What They Are, How They're Made, and Why the Market Is Booming](https://enovitae.com/en/guide/dealcoholized-wines-explained.txt): A complete guide to dealcoholized wines: what they are, how they are produced, their differences from traditional wine, new regulations, and why the NoLo market is growing rapidly.
-- [Vini dealcolati: cosa sono, come vengono prodotti e perché il mercato sta esplodendo](https://enovitae.com/it/guide/vini-dealcolati-cosa-sono-come-si-producono.txt): Guida completa ai vini dealcolati: definizione, metodi di produzione, differenze con il vino tradizionale, novità legislative italiane e crescita del mercato NoLo.
 - [California Wine Crisis 2025: Oversupply, Abandoned Vineyards and a Market on the Brink](https://enovitae.com/en/guide/california-wine-crisis-2025-oversupply-collapse.txt): California's worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes.
-- [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/guide/crisi-vino-california-2025-sovrapproduzione-collasso.txt): La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda.
 - [Champagne 2025: Prices Skyrocket, Yields Shrink and Bottles Become Rare](https://enovitae.com/en/guide/champagne-2025-high-prices-rare-bottles.txt): In 2025 Champagne faces lower yields, rising prices, and fewer bottles. Discover what this difficult vintage means for consumers and the global market.
-- [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/guide/prezzi-e-resa-champagne-2025-alle-stelle.txt): Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi.
-- [Goodbye to French and Italian wines? Trump's 200% duty shocks the market](https://enovitae.com/en/guide/trump-tariff-european-wine-2025.txt): A 200% US tariff on European wine and Champagne could reshape the global market. How this trade war escalation impacts prices, exports, and wine consumers.
-- [Addio ai vini francesi e italiani? Il dazio del 200% di Trump sconvolge il mercato](https://enovitae.com/it/guide/dazi-trump-vino-europeo-2025.txt): I dazi USA al 200% su vino e Champagne europei minacciano il mercato globale. Come questa guerra commerciale impatta prezzi, esportazioni e consumatori.
+- [US tariffs on European wine: from the 200% threat to the actual 10%](https://enovitae.com/en/guide/trump-tariff-european-wine.txt): In 2025 Trump threatened a 200% tariff on European wine. Since July 2026 the effective rate is 10%: what changed, and what is still in play.
 - [How to Buy the Perfect Wine for Valentine's Day Without Overspending](https://enovitae.com/en/guide/valentines-day-wine-budget.txt): Find the best budget-friendly wines for Valentine's Day without sacrificing quality. Our guide helps you choose the perfect bottle for a romantic night.
-- [Come scegliere il vino perfetto per San Valentino senza spendere troppo](https://enovitae.com/it/guide/vino-san-valentino-budget.txt): I migliori vini economici per San Valentino senza rinunciare alla qualità: guida pratica alla bottiglia perfetta, con abbinamenti per ogni budget e gusto.
 - [Top Italian and French sparkling wines for New Year's Eve 2025](https://enovitae.com/en/guide/new-years-eve-sparkling-wines-2025.txt): Celebrate New Year's Eve with the best sparkling and famous Italian wines like Chianti, Barolo, and Brunello. Perfect for your 2025 party.
-- [I migliori vini italiani e francesi per Capodanno 2025](https://enovitae.com/it/guide/vini-capodanno-2025.txt): Festeggia il Capodanno con i migliori vini italiani e francesi, tra cui Chianti, Barolo, Brunello e Champagne. Scopri i nostri consigli per il 2025.
 - [What to gift at Christmas: Top Italian and French wines for 2024](https://enovitae.com/en/guide/christmas-wine-gift-guide-2024.txt): Discover the best Italian and French wines to gift this Christmas, based on recent market trends and reviews.
-- [Cosa regalare a Natale: i migliori vini italiani e francesi del 2024](https://enovitae.com/it/guide/guida-regalo-vini-natale-2024.txt): Scopri i migliori vini italiani e francesi da regalare a Natale, basati su tendenze di mercato e recensioni recenti.
-- [Wine tasting guide: unraveling the secrets of a good glass](https://enovitae.com/en/guide/wine-tasting-guide-secrets-good-glass.txt): "Explore the secrets of wine tasting and learn to recognize aromas, flavors, and unique characteristics."
-
-- [Guida alla degustazione del vino: scopri i segreti del buon calice](https://enovitae.com/it/guide/guida-degustazione-vino-apprezzare-buon-calice.txt): "Esplora i segreti della degustazione del vino e impara a riconoscere profumi, sapori e caratteristiche uniche"
-
+- [Wine tasting guide: unraveling the secrets of a good glass](https://enovitae.com/en/guide/wine-tasting-guide-secrets-good-glass.txt): Learn to taste wine step by step: how to look, swirl, smell and sip, which aromas to look for and how to describe what is in your glass with confidence.
 - [How to Choose a Wine Fridge: The Complete Buying Guide](https://enovitae.com/en/guide/buy-perfect-wine-fridge.txt): A dedicated wine fridge holds bottles at 8-18°C with stable humidity, the conditions needed to age wine correctly. Covers types, features, and top models.
-- [Cantinetta Vino: Guida all'Acquisto e Conservazione Ottimale](https://enovitae.com/it/guide/cantinetta-vino.txt): "Se sei un appassionato di vino, saprai quanto sia fondamentale conservare le tue bottiglie nel modo giusto per preservarne gusto e qualità nel tempo?"
-
-- [Vino per San Valentino: come stupire il tuo partner](https://enovitae.com/it/guide/vino-san-valentino.txt): Quale vino scegliere per San Valentino? Consigli pratici sugli abbinamenti per cena romantica, dessert e brindisi finale, con opzioni per ogni gusto e budget.
 - [How to Reseal Wine After Opening: Techniques and Tips](https://enovitae.com/en/guide/how-to-reseal-wine.txt): How to reseal wine after opening to preserve freshness and aromas. From vacuum pumps to Coravin: the best techniques for every bottle type and wine style.
-- [Come tappare il vino dopo l'apertura: tecniche e consigli](https://enovitae.com/it/guide/tappare-vino-dopo-apertura.txt): Come tappare il vino dopo l'apertura per preservarne freschezza e aromi. Dal semplice tappo al Coravin: le migliori tecniche per ogni tipo di bottiglia.
-- [Is it possible to drink a good wine under 20 euros? Discover the taste of enological accessibility](https://enovitae.com/en/guide/wine-under-20-euros.txt): "The question that wine enthusiasts often ask themselves is: is it possible to find a good wine under 20 euros?"
+- [Is it possible to drink a good wine under 20 euros? Discover the taste of enological accessibility](https://enovitae.com/en/guide/wine-under-20-euros.txt): Good wine under 20 euros does exist: emerging regions, lesser-known grapes, small producers and sparkling bargains, plus what to check on the label.
+- [You are invited to dinner and don't know what wine to bring? We suggest it to you!](https://enovitae.com/en/guide/what-wine-to-bring-to-dinner.txt): Invited to dinner and unsure what wine to bring? Match the menu and the guests, ask the host the right question and arrive with a bottle that fits.
+- [What wine to gift? 10 points to consider for the perfect gift](https://enovitae.com/en/guide/what-wine-to-gift.txt): Choosing wine as a gift, in 10 steps: read the recipient's taste, match the occasion, set a budget and pick a bottle that says more than its price tag.
 
-- [È possibile bere un buon vino sotto i 20 euro? Scopri il gusto dell'accessibilità enologica](https://enovitae.com/it/guide/vino-sotto-20-euro.txt): "La domanda che spesso si pongono gli appassionati di vino è: è possibile trovare un buon vino sotto i 20 euro?"
+### Standings
 
-- [You are invited to dinner and don't know what wine to bring? We suggest it to you!](https://enovitae.com/en/guide/what-wine-to-bring-to-dinner.txt): "Imagine being invited to dinner by friends or relatives, and your only mission is to bring a good wine..."
+- [The 10 Best Tuscan Red Wines](https://enovitae.com/en/rankings/10-best-tuscan-reds.txt): The 10 best Tuscan red wines, from Chianti Classico and Brunello di Montalcino to Bolgheri: what defines each one, how it tastes and what to pair it with.
 
-- [Sei invitato a cena e non sai che vino portare? Te lo suggeriamo noi!](https://enovitae.com/it/guide/che-vino-portare-a-cena.txt): "Immagina di essere stato invitato a cena da amici o parenti, e la tua unica missione è portare un buon vino..."
+### Comparisons
 
-- [What wine to gift? 10 points to consider for the perfect gift](https://enovitae.com/en/guide/what-wine-to-gift.txt): "Choosing the right wine to gift is an art in itself, as wine can be..."
-
-- [Che vino regalo? I 10 punti da considerare per il regalo perfetto](https://enovitae.com/it/guide/che-vino-regalo.txt): "Scegliere il vino giusto da regalare è un'arte in sé, poiché il vino può essere..."
-
-
-## Standings
-
-- [The 10 Best Tuscan Red Wines](https://enovitae.com/en/standing/10-best-tuscan-reds.txt): "The region boasts a variety of native and international grape varieties, giving life to wines of extraordinary quality and personality..."
-
-- [I 10 migliori vini rossi toscani](https://enovitae.com/it/classifiche/10-migliori-rossi-toscani.txt): "La regione vanta una varietà di vitigni autoctoni e internazionali, dando vita a vini di straordinaria qualità e personalità..."
-
-
-## Comparisons
-
-- [Is Barolo or Brunello Better? Differences between Nebbiolo and Sangiovese](https://enovitae.com/en/comparison/barolo-vs-brunello.txt): "Nebbiolo and Sangiovese: Two Iconic Grape Varieties..."
-
-- [È più buono il Barolo o il Brunello? Le differenze tra Nebbiolo e Sangiovese](https://enovitae.com/it/comparazioni/barolo-vs-brunello.txt): "Il Nebbiolo e il Sangiovese: Due Vitigni Iconici..."
-
-- [Chianti vs. Chianti Classico: exploring the subtle differences between two great Tuscan wines](https://enovitae.com/en/comparison/chianti-vs-chianti-classico.txt): "Both produced in the same geographical area, yet possessing distinct characteristics and regulations..."
-
-- [Chianti vs. Chianti Classico: esplorando le sottili differenze tra due grandi vini toscani](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.txt): "Entrambi vengono prodotti nella stessa area geografica, ma possiedono caratteristiche e regolamenti distinti..."
-
-- [Barolo vs Nebbiolo: Exploring the Differences Between Two Great Piedmont Wines](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.txt): "Barolo and Nebbiolo are two excellent wines from the Piedmont region in Italy, both made using the Nebbiolo grape..."
-
-- [Is red wine better than white wine? Exploring the differences between the two enological worlds](https://enovitae.com/en/comparison/white-vs-red.txt): "The production process, cellar techniques, and gastronomic pairings that make them special..."
-
-- [È più buono il vino rosso o il vino bianco? esploriamo le differenze tra vini rossi e bianchi](https://enovitae.com/it/classifiche/bianco-vs-rosso.txt): "Il processo di produzione, le tecniche di cantina e gli abbinamenti gastronomici che li rendono speciali..."
-
-- [Barolo vs Nebbiolo: esplorando le differenze tra due grandi vini piemontesi](https://enovitae.com/it/comparazioni/barolo-vs-nebbiolo.txt): "Barolo e Nebbiolo sono due eccellenti vini provenienti dalla regione del Piemonte, in Italia, entrambi realizzati utilizzando l'uva Nebbiolo..."
-
+- [Is Barolo or Brunello Better? Differences between Nebbiolo and Sangiovese](https://enovitae.com/en/comparison/barolo-vs-brunello.txt): Barolo or Brunello? Compare Nebbiolo and Sangiovese, the Langhe and Montalcino terroirs, ageing rules and tasting profiles to pick the right bottle.
+- [Chianti vs. Chianti Classico: exploring the subtle differences between two great Tuscan wines](https://enovitae.com/en/comparison/chianti-vs-chianti-classico.txt): Chianti and Chianti Classico share a region but not the rules. Compare production zones, grape blends, ageing requirements and taste before you buy.
+- [Barolo vs Nebbiolo: Exploring the Differences Between Two Great Piedmont Wines](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.txt): Every Barolo is made from Nebbiolo, but not every Nebbiolo is a Barolo. Compare the two Piedmont wines by zone, ageing, price and when to drink each.
+- [Is red wine better than white wine? Exploring the differences between the two enological worlds](https://enovitae.com/en/comparison/white-vs-red.txt): Red or white wine? Compare how each one is made, why tannins appear only in reds, the cellar techniques behind them and the food pairings that suit both.
 - [Champagne vs Prosecco: Why Champagne Costs More](https://enovitae.com/en/comparison/champagne-vs-prosecco.txt): Champagne costs 3-5x more than Prosecco. Here's why: a stricter production method, older terroir rules, longer mandatory aging, and decades of brand prestige.
-- [Perché lo champagne costa di più del prosecco? differenze e fattori che influenzano il prezzo](https://enovitae.com/it/comparazioni/champagne-vs-prosecco.txt): "Lo champagne e il prosecco sono entrambi vini frizzanti amati in tutto il mondo, ma ci sono diverse ragioni per cui lo champagne costa di più..."
-

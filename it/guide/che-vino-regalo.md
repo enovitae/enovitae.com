@@ -1,7 +1,6 @@
 ---
 title: "Che vino regalo? I 10 punti da considerare per il regalo perfetto"
-description: "\"Scegliere il vino giusto da regalare è un'arte in sé, poiché il vino può essere...\"
-"
+description: "Che vino regalare? Dieci criteri per non sbagliare: gusti di chi lo riceve, occasione, budget, annata e abbinamenti, fino al biglietto che lo accompagna."
 author: "Enovitae Staff"
 published: 2023-02-07
 tags: ["vino", "guide"]
@@ -10,7 +9,7 @@ cover_image: https://enovitae.com/_astro/che-vino-regalo.DPGyIjzs_YH1XG.webp
 source: Enovitae.com
 ---
 
-### Scegliere il vino giusto da regalare è un'arte in sé, poiché il vino può essere un regalo personalizzato e significativo. Quando si seleziona il vino perfetto, è importante considerare i gusti del destinatario, l'occasione del regalo e il budget a disposizione. Ecco alcuni consigli utili per aiutarti a fare una scelta informata e soddisfacente.
+Scegliere il vino giusto da regalare è un'arte in sé, poiché il vino può essere un regalo personalizzato e significativo. Quando si seleziona il vino perfetto, è importante considerare i gusti del destinatario, l'occasione del regalo e il budget a disposizione. Ecco alcuni consigli utili per aiutarti a fare una scelta informata e soddisfacente.
 
 ## Conoscere i gusti del destinatario
 
