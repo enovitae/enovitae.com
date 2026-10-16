@@ -53,7 +53,7 @@ Organic wine generally sits in a higher price band than its conventional equival
 
 One thing worth stating plainly, because marketing tends to blur it: **organic does not automatically mean better**, nor healthier. It means that specific constraints on treatments, additives and sulphite limits have been respected in the vineyard and the cellar. It is a guarantee of process, not a verdict on quality — and it should be weighed alongside everything else.
 
-The broader price pressure on the category is covered in our piece on [why wine is getting more expensive](https://enovitae.com/en/academy/you-wont-be-able-to-afford-wine-anymore-heres-why.md).
+The broader price pressure on the category is covered in our piece on [why wine is getting more expensive](https://enovitae.com/en/news/you-wont-be-able-to-afford-wine-anymore-heres-why.md).
 
 ## Exports: where Italian organic wine goes
 

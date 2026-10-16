@@ -99,7 +99,7 @@ Online is no longer the structurally growing channel of the post-pandemic period
 
 ### Products: sparkling wines hold
 
-[Sparkling wines](https://enovitae.com/en/guide/champagne-2025-high-prices-rare-bottles.md)
+[Sparkling wines](https://enovitae.com/en/news/champagne-2025-high-prices-rare-bottles.md)
 confirm their position as the most resilient segment, with total sales down **1.5%** against
 **-3.3%** for other wines. It confirms a multi-year trend and, for Italian producers, is the most
 solid competitive asset they have.

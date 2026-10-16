@@ -57,7 +57,7 @@ New Year's Eve is synonymous with celebrations, and no celebration is complete w
 
 #### **Crémant de Bourgogne Brut - Burgundy, France**
 
-- **Why choose it?** A fantastic alternative to [Champagne](https://enovitae.com/en/academy/challenging-year-champagne.md), offering elegant bubbles and a floral bouquet at a fraction of the price.
+- **Why choose it?** A fantastic alternative to [Champagne](https://enovitae.com/en/news/challenging-year-champagne.md), offering elegant bubbles and a floral bouquet at a fraction of the price.
 - **Perfect for:** Budget-friendly yet stylish celebrations.
 - **Price range:** €15 – €30 per bottle.
 
@@ -111,7 +111,7 @@ Search trends show a significant increase in queries about iconic wines like [Ba
 
 - **Local wine shops:** Support local businesses and get personalized recommendations.
 - **Online retailers:** Many online platforms offer excellent selections with home delivery options.
-- **Supermarkets:** Many premium supermarkets stock Prosecco, [Champagne](https://enovitae.com/en/academy/challenging-year-champagne.md), and Chianti, perfect for last-minute shopping.
+- **Supermarkets:** Many premium supermarkets stock Prosecco, [Champagne](https://enovitae.com/en/news/challenging-year-champagne.md), and Chianti, perfect for last-minute shopping.
 
 ---
 

@@ -11,8 +11,6 @@
 
 ### Academy
 
-- [Non potrai più permetterti il tuo vino preferito: ecco perché](https://enovitae.com/it/accademia/non-potrai-piu-permetterti-vino-preferito-ecco-perche.txt): Come dazi e costi della filiera moltiplicano il prezzo di una bottiglia: il meccanismo del sistema a tre livelli e cosa è successo davvero ai listini.
-- [Annata difficile per lo Champagne: dal 2024 alle rese minime del 2026](https://enovitae.com/it/accademia/annata-difficile-champagne.txt): Dalla vendemmia difficile del 2024 alle rese minime del 2026: come lo Champagne ha tagliato la produzione per quattro anni e cosa comporta per i prezzi.
 - [Il mercato del vino biologico in Italia: superfici, vendite e dati aggiornati](https://enovitae.com/it/accademia/mercato-vino-biologico-italia.txt): Vino biologico in Italia: il 21% dei vigneti è certificato bio, ma le vendite restano al 6,2% del mercato. Superfici, export e perché la crescita si è fermata.
 - [Mercato del vino 2026: consumi globali, preferenze e dati italiani](https://enovitae.com/it/accademia/mercato-vino-italia.txt): Mercato del vino 2026: consumi mondiali ai minimi dal 1957, vendite italiane in calo del 2,8% e un settore che punta su premium e diversificazione.
 - [Esplorando il mondo dello champagne: tipi, bottiglie, dosaggi, temperature e le migliori annate](https://enovitae.com/it/accademia/caratteristiche-champagne.txt): Dalla cuvée de prestige ai dosaggi, scopri i diversi tipi di champagne: bottiglie, temperature di servizio e migliori annate per una degustazione completa.
@@ -37,9 +35,6 @@
 ### Guides
 
 - [Vini dealcolati: cosa sono, come vengono prodotti e perché il mercato sta esplodendo](https://enovitae.com/it/guide/vini-dealcolati-cosa-sono-come-si-producono.txt): Guida completa ai vini dealcolati: definizione, metodi di produzione, differenze con il vino tradizionale, novità legislative italiane e crescita del mercato NoLo.
-- [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/guide/crisi-vino-california-2025-sovrapproduzione-collasso.txt): La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda.
-- [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/guide/prezzi-e-resa-champagne-2025-alle-stelle.txt): Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi.
-- [Dazi USA sul vino europeo: dalla minaccia del 200% al 10% effettivo](https://enovitae.com/it/guide/dazi-trump-vino-europeo.txt): Nel 2025 Trump minacciò un dazio del 200% sul vino europeo. Da luglio 2026 l'aliquota effettiva è il 10%: cosa è cambiato e cosa resta in gioco.
 - [Come scegliere il vino perfetto per San Valentino senza spendere troppo](https://enovitae.com/it/guide/vino-san-valentino-budget.txt): I migliori vini economici per San Valentino senza rinunciare alla qualità: guida pratica alla bottiglia perfetta, con abbinamenti per ogni budget e gusto.
 - [I migliori vini italiani e francesi per Capodanno 2025](https://enovitae.com/it/guide/vini-capodanno-2025.txt): Festeggia il Capodanno con i migliori vini italiani e francesi, tra cui Chianti, Barolo, Brunello e Champagne. Scopri i nostri consigli per il 2025.
 - [Cosa regalare a Natale: i migliori vini italiani e francesi del 2024](https://enovitae.com/it/guide/guida-regalo-vini-natale-2024.txt): Scopri i migliori vini italiani e francesi da regalare a Natale, basati su tendenze di mercato e recensioni recenti.
@@ -63,12 +58,18 @@
 - [Barolo vs Nebbiolo: esplorando le differenze tra due grandi vini piemontesi](https://enovitae.com/it/comparazioni/barolo-vs-nebbiolo.txt): Ogni Barolo nasce da uve Nebbiolo, ma non ogni Nebbiolo è un Barolo: la differenza tra i due vini piemontesi per zona, affinamento, prezzo e occasione.
 - [Perché lo champagne costa di più del prosecco? differenze e fattori che influenzano il prezzo](https://enovitae.com/it/comparazioni/champagne-vs-prosecco.txt): Perché lo champagne costa più del prosecco: metodo classico contro Charmat, terroir, uve, invecchiamento e prestigio spiegano la differenza di prezzo.
 
+### News
+
+- [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/notizie/crisi-vino-california-2025-sovrapproduzione-collasso.txt): La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda.
+- [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/notizie/prezzi-e-resa-champagne-2025-alle-stelle.txt): Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi.
+- [Dazi USA sul vino europeo: dalla minaccia del 200% al 10% effettivo](https://enovitae.com/it/notizie/dazi-trump-vino-europeo.txt): Nel 2025 Trump minacciò un dazio del 200% sul vino europeo. Da luglio 2026 l'aliquota effettiva è il 10%: cosa è cambiato e cosa resta in gioco.
+- [Non potrai più permetterti il tuo vino preferito: ecco perché](https://enovitae.com/it/notizie/non-potrai-piu-permetterti-vino-preferito-ecco-perche.txt): Come dazi e costi della filiera moltiplicano il prezzo di una bottiglia: il meccanismo del sistema a tre livelli e cosa è successo davvero ai listini.
+- [Annata difficile per lo Champagne: dal 2024 alle rese minime del 2026](https://enovitae.com/it/notizie/annata-difficile-champagne.txt): Dalla vendemmia difficile del 2024 alle rese minime del 2026: come lo Champagne ha tagliato la produzione per quattro anni e cosa comporta per i prezzi.
+
 ## English (en)
 
 ### Academy
 
-- [You won’t be able to afford your favorite wine anymore — Here’s why](https://enovitae.com/en/academy/you-wont-be-able-to-afford-wine-anymore-heres-why.txt): How tariffs and supply-chain costs multiply the price of a bottle: the three-tier mechanism, and what actually happened to wine prices in the end.
-- [A challenging year for Champagne: from 2024 to the record-low 2026 yield](https://enovitae.com/en/academy/challenging-year-champagne.txt): From the difficult 2024 harvest to the record-low 2026 yield: how Champagne cut production for four straight years, and what it means for prices.
 - [The organic wine market in Italy: vineyard area, sales and current data](https://enovitae.com/en/academy/organic-wine-market-italy.txt): Organic wine in Italy: 21% of vineyards are certified organic, yet sales hold at 6.2% of the market. Area, exports, and why the growth phase ended.
 - [Wine market 2026: global consumption, consumer trends and Italian data](https://enovitae.com/en/academy/italian-wine-market.txt): Wine market 2026: global consumption at its lowest since 1957, Italian sales down 2.8%, and a sector betting on premium wines and diversification.
 - [The Chef de Cave: the master behind champagne's finest bubbles](https://enovitae.com/en/academy/chef-de-cave-champagne.txt): The role of the Chef de Cave in champagne: from assembling cuvées to selecting vintages, the craftsperson who gives life to the world's most prized bubbles.
@@ -83,9 +84,6 @@
 ### Guides
 
 - [Dealcoholized Wines Explained: What They Are, How They're Made, and Why the Market Is Booming](https://enovitae.com/en/guide/dealcoholized-wines-explained.txt): A complete guide to dealcoholized wines: what they are, how they are produced, their differences from traditional wine, new regulations, and why the NoLo market is growing rapidly.
-- [California Wine Crisis 2025: Oversupply, Abandoned Vineyards and a Market on the Brink](https://enovitae.com/en/guide/california-wine-crisis-2025-oversupply-collapse.txt): California's worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes.
-- [Champagne 2025: Prices Skyrocket, Yields Shrink and Bottles Become Rare](https://enovitae.com/en/guide/champagne-2025-high-prices-rare-bottles.txt): In 2025 Champagne faces lower yields, rising prices, and fewer bottles. Discover what this difficult vintage means for consumers and the global market.
-- [US tariffs on European wine: from the 200% threat to the actual 10%](https://enovitae.com/en/guide/trump-tariff-european-wine.txt): In 2025 Trump threatened a 200% tariff on European wine. Since July 2026 the effective rate is 10%: what changed, and what is still in play.
 - [How to Buy the Perfect Wine for Valentine's Day Without Overspending](https://enovitae.com/en/guide/valentines-day-wine-budget.txt): Find the best budget-friendly wines for Valentine's Day without sacrificing quality. Our guide helps you choose the perfect bottle for a romantic night.
 - [Top Italian and French sparkling wines for New Year's Eve 2025](https://enovitae.com/en/guide/new-years-eve-sparkling-wines-2025.txt): Celebrate New Year's Eve with the best sparkling and famous Italian wines like Chianti, Barolo, and Brunello. Perfect for your 2025 party.
 - [What to gift at Christmas: Top Italian and French wines for 2024](https://enovitae.com/en/guide/christmas-wine-gift-guide-2024.txt): Discover the best Italian and French wines to gift this Christmas, based on recent market trends and reviews.
@@ -107,3 +105,11 @@
 - [Barolo vs Nebbiolo: Exploring the Differences Between Two Great Piedmont Wines](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.txt): Every Barolo is made from Nebbiolo, but not every Nebbiolo is a Barolo. Compare the two Piedmont wines by zone, ageing, price and when to drink each.
 - [Is red wine better than white wine? Exploring the differences between the two enological worlds](https://enovitae.com/en/comparison/white-vs-red.txt): Red or white wine? Compare how each one is made, why tannins appear only in reds, the cellar techniques behind them and the food pairings that suit both.
 - [Champagne vs Prosecco: Why Champagne Costs More](https://enovitae.com/en/comparison/champagne-vs-prosecco.txt): Champagne costs 3-5x more than Prosecco. Here's why: a stricter production method, older terroir rules, longer mandatory aging, and decades of brand prestige.
+
+### News
+
+- [California Wine Crisis 2025: Oversupply, Abandoned Vineyards and a Market on the Brink](https://enovitae.com/en/news/california-wine-crisis-2025-oversupply-collapse.txt): California's worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes.
+- [Champagne 2025: Prices Skyrocket, Yields Shrink and Bottles Become Rare](https://enovitae.com/en/news/champagne-2025-high-prices-rare-bottles.txt): In 2025 Champagne faces lower yields, rising prices, and fewer bottles. Discover what this difficult vintage means for consumers and the global market.
+- [US tariffs on European wine: from the 200% threat to the actual 10%](https://enovitae.com/en/news/trump-tariff-european-wine.txt): In 2025 Trump threatened a 200% tariff on European wine. Since July 2026 the effective rate is 10%: what changed, and what is still in play.
+- [You won’t be able to afford your favorite wine anymore — Here’s why](https://enovitae.com/en/news/you-wont-be-able-to-afford-wine-anymore-heres-why.txt): How tariffs and supply-chain costs multiply the price of a bottle: the three-tier mechanism, and what actually happened to wine prices in the end.
+- [A challenging year for Champagne: from 2024 to the record-low 2026 yield](https://enovitae.com/en/news/challenging-year-champagne.txt): From the difficult 2024 harvest to the record-low 2026 yield: how Champagne cut production for four straight years, and what it means for prices.
