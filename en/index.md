@@ -12,6 +12,7 @@ source: Enovitae.com
 
 ## Academy
 
+- [Tuscan red wine: a guide to the denominations, from Chianti to Brunello and Bolgheri](https://enovitae.com/en/academy/tuscan-red-wines.md) — Tuscan red wine explained: the 10 red DOCGs plus Bolgheri compared by grape, area, ageing and release rules, so you know which bottle fits the occasion. *(2026-11-05)*
 - [The organic wine market in Italy: vineyard area, sales and current data](https://enovitae.com/en/academy/organic-wine-market-italy.md) — Organic wine in Italy: 21% of vineyards are certified organic, yet sales hold at 6.2% of the market. Area, exports, and why the growth phase ended. *(2024-09-18)*
 - [Wine market 2026: global consumption, consumer trends and Italian data](https://enovitae.com/en/academy/italian-wine-market.md) — Wine market 2026: global consumption at its lowest since 1957, Italian sales down 2.8%, and a sector betting on premium wines and diversification. *(2024-09-09)*
 - [The Chef de Cave: the master behind champagne's finest bubbles](https://enovitae.com/en/academy/chef-de-cave-champagne.md) — The role of the Chef de Cave in champagne: from assembling cuvées to selecting vintages, the craftsperson who gives life to the world's most prized bubbles. *(2024-02-08)*
@@ -42,6 +43,7 @@ source: Enovitae.com
 
 ## Comparisons
 
+- [Rosso di Montalcino vs Brunello: is Rosso just a younger Brunello?](https://enovitae.com/en/comparison/rosso-di-montalcino-vs-brunello.md) — Rosso di Montalcino vs Brunello: same Sangiovese, same town, different rules on yields, oak and release date. The two rulebooks compared side by side. *(2026-11-09)*
 - [Is Barolo or Brunello Better? Differences between Nebbiolo and Sangiovese](https://enovitae.com/en/comparison/barolo-vs-brunello.md) — Barolo or Brunello? Compare Nebbiolo and Sangiovese, the Langhe and Montalcino terroirs, ageing rules and tasting profiles to pick the right bottle. *(2024-11-10)*
 - [Chianti vs. Chianti Classico: exploring the subtle differences between two great Tuscan wines](https://enovitae.com/en/comparison/chianti-vs-chianti-classico.md) — Chianti and Chianti Classico share a region but not the rules. Compare production zones, grape blends, ageing requirements and taste before you buy. *(2023-11-15)*
 - [Barolo vs Nebbiolo: Exploring the Differences Between Two Great Piedmont Wines](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md) — Every Barolo is made from Nebbiolo, but not every Nebbiolo is a Barolo. Compare the two Piedmont wines by zone, ageing, price and when to drink each. *(2023-10-21)*

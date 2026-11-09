@@ -15,7 +15,7 @@ In the picturesque Tuscan region, the homeland of renowned wines worldwide, two 
 
 The first and foremost difference between Chianti and Chianti Classico lies in their geographical origin. Chianti Classico comes from the Chianti Classico zone, a more restricted and traditional region located between the provinces of Florence and Siena. This area is the historical cradle of Chianti, characterized by rolling hills, limestone soils, and ideal climatic conditions for viticulture.
 
-Chianti, on the other hand, has a broader production area, including both Chianti Classico and other subzones designated as "Chianti." These subzones extend further towards Pisa, Arezzo, Pistoia, and Prato. Therefore, Chianti Classico represents a smaller and selected portion of the entire Chianti region.
+Chianti, on the other hand, has a broader production area, including both Chianti Classico and other subzones designated as "Chianti." These subzones extend further towards Pisa, Arezzo, Pistoia, and Prato. Therefore, Chianti Classico represents a smaller and selected portion of the entire Chianti region. To see where both sit among the region's other denominations, read our [guide to Tuscan red wines](https://enovitae.com/en/academy/tuscan-red-wines.md).
 
 ## Grape composition
 

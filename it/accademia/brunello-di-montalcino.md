@@ -57,7 +57,7 @@ Dalla stessa collina escono tre vini, e vengono regolarmente confusi.
 - **Brunello di Montalcino Riserva DOCG** — minimo sei anni, di cui due in legno, e prodotto in genere solo nelle annate che il produttore considera all'altezza. La Riserva non è automaticamente la bottiglia migliore, ma è sempre la più paziente.
 - **Rosso di Montalcino DOC** — anch'esso 100% Sangiovese dalla stessa denominazione, ma con un periodo minimo di affinamento molto più breve. Spesso ottenuto da viti giovani o da uve declassate in un'annata difficile, è l'ingresso più accessibile al territorio e frequentemente il miglior rapporto qualità-prezzo.
 
-Se si vuole conoscere Montalcino per la prima volta, un buon Rosso di un produttore solido racconta lo stile della casa meglio di un Brunello mediocre.
+Se si vuole conoscere Montalcino per la prima volta, un buon Rosso di un produttore solido racconta lo stile della casa meglio di un Brunello mediocre. Rese, affinamento ed etichette dei due vini sono messi a confronto nella nostra guida alla [differenza tra Rosso di Montalcino e Brunello](https://enovitae.com/it/comparazioni/rosso-di-montalcino-vs-brunello.md).
 
 ## Invecchiamento del Brunello di Montalcino
 
@@ -101,7 +101,7 @@ Il Brunello di Montalcino è un vino versatile che si sposa magnificamente con d
 
 Il Brunello viene spesso messo a confronto con gli altri grandi rossi italiani da Sangiovese e Nebbiolo, e il confronto è utile perché le differenze sono strutturali e non una graduatoria di qualità. Il Barolo, dal Nebbiolo piemontese, è tipicamente più austero e con acidità più alta, con aromi di catrame e rosa dove il Brunello vira su frutta rossa, cuoio ed erbe mediterranee.
 
-I due vini sono messi a confronto in dettaglio in [Barolo vs Brunello](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md), e il Brunello compare accanto alle altre bottiglie di riferimento della regione nella nostra classifica dei [10 migliori rossi toscani](https://enovitae.com/it/classifiche/10-migliori-rossi-toscani.md).
+I due vini sono messi a confronto in dettaglio in [Barolo vs Brunello](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md), e il Brunello compare accanto alle altre bottiglie di riferimento della regione nella nostra classifica dei [10 migliori rossi toscani](https://enovitae.com/it/classifiche/10-migliori-rossi-toscani.md). Per capire in cosa si distingue dagli [altri vini rossi toscani](https://enovitae.com/it/accademia/vini-rossi-toscani.md), dal Chianti al Bolgheri, c'è la nostra guida alle denominazioni.
 
 ## Conclusioni
 

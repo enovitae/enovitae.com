@@ -12,6 +12,7 @@ source: Enovitae.com
 
 ## Academy
 
+- [Vini rossi toscani: nomi, denominazioni e differenze da conoscere](https://enovitae.com/it/accademia/vini-rossi-toscani.md) — Vini rossi toscani: le 10 DOCG rosse e Bolgheri a confronto, con vitigni, zone, invecchiamento e regole dei consorzi per scegliere quello giusto. *(2026-11-05)*
 - [Il mercato del vino biologico in Italia: superfici, vendite e dati aggiornati](https://enovitae.com/it/accademia/mercato-vino-biologico-italia.md) — Vino biologico in Italia: il 21% dei vigneti è certificato bio, ma le vendite restano al 6,2% del mercato. Superfici, export e perché la crescita si è fermata. *(2024-09-18)*
 - [Mercato del vino 2026: consumi globali, preferenze e dati italiani](https://enovitae.com/it/accademia/mercato-vino-italia.md) — Mercato del vino 2026: consumi mondiali ai minimi dal 1957, vendite italiane in calo del 2,8% e un settore che punta su premium e diversificazione. *(2024-09-09)*
 - [Esplorando il mondo dello champagne: tipi, bottiglie, dosaggi, temperature e le migliori annate](https://enovitae.com/it/accademia/caratteristiche-champagne.md) — Dalla cuvée de prestige ai dosaggi, scopri i diversi tipi di champagne: bottiglie, temperature di servizio e migliori annate per una degustazione completa. *(2024-02-15)*
@@ -53,6 +54,7 @@ source: Enovitae.com
 
 ## Comparisons
 
+- [Rosso di Montalcino o Brunello? Le differenze tra i due Sangiovese di Montalcino](https://enovitae.com/it/comparazioni/rosso-di-montalcino-vs-brunello.md) — Differenza tra Rosso di Montalcino e Brunello: stesso Sangiovese, regole diverse su rese, legno e uscita. I due disciplinari a confronto per scegliere. *(2026-11-09)*
 - [È più buono il Barolo o il Brunello? Le differenze tra Nebbiolo e Sangiovese](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md) — Barolo o Brunello? Nebbiolo contro Sangiovese, i territori delle Langhe e di Montalcino, i disciplinari e il gusto, per scegliere la bottiglia giusta. *(2024-11-10)*
 - [Chianti vs. Chianti Classico: esplorando le sottili differenze tra due grandi vini toscani](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.md) — Chianti e Chianti Classico condividono la Toscana ma non le regole: differenze di zona, uvaggio, disciplinare e gusto per capire quale dei due scegliere. *(2023-11-15)*
 - [È più buono il vino rosso o il vino bianco? esploriamo le differenze tra vini rossi e bianchi](https://enovitae.com/it/classifiche/bianco-vs-rosso.md) — Vino rosso o vino bianco? Le differenze di produzione, i tannini presenti solo nei rossi, le tecniche di cantina e gli abbinamenti giusti per ciascuno. *(2023-10-21)*
