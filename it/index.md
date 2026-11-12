@@ -54,6 +54,7 @@ source: Enovitae.com
 
 ## Comparisons
 
+- [Barbaresco o Barolo? Le differenze tra i due grandi Nebbiolo delle Langhe](https://enovitae.com/it/comparazioni/barbaresco-vs-barolo.md) — Differenza tra Barolo e Barbaresco: stesso Nebbiolo, regole diverse su zona, invecchiamento e gradazione. I due disciplinari a confronto, con i numeri. *(2026-11-11)*
 - [Rosso di Montalcino o Brunello? Le differenze tra i due Sangiovese di Montalcino](https://enovitae.com/it/comparazioni/rosso-di-montalcino-vs-brunello.md) — Differenza tra Rosso di Montalcino e Brunello: stesso Sangiovese, regole diverse su rese, legno e uscita. I due disciplinari a confronto per scegliere. *(2026-11-09)*
 - [È più buono il Barolo o il Brunello? Le differenze tra Nebbiolo e Sangiovese](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md) — Barolo o Brunello? Nebbiolo contro Sangiovese, i territori delle Langhe e di Montalcino, i disciplinari e il gusto, per scegliere la bottiglia giusta. *(2024-11-10)*
 - [Chianti vs. Chianti Classico: esplorando le sottili differenze tra due grandi vini toscani](https://enovitae.com/it/comparazioni/chianti-vs-chianti-classico.md) — Chianti e Chianti Classico condividono la Toscana ma non le regole: differenze di zona, uvaggio, disciplinare e gusto per capire quale dei due scegliere. *(2023-11-15)*

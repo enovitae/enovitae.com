@@ -27,7 +27,7 @@ Known as the "King of Wines" or the "Wine of Kings," Barolo is one of Italy's mo
 
 ## Nebbiolo: The "Noble" Piedmontese Grape
 
-The Nebbiolo grape variety is often referred to as the "noble" Piedmontese grape, as it forms the basis of some of the finest Italian wines. In addition to Barolo, it is used to produce other great wines, including Barbaresco, Gattinara, and Ghemme.
+The Nebbiolo grape variety is often referred to as the "noble" Piedmontese grape, as it forms the basis of some of the finest Italian wines. In addition to Barolo, it is used to produce other great wines, including [Barbaresco](https://enovitae.com/en/comparison/barbaresco-vs-barolo.md), Gattinara, and Ghemme.
 
 ### Characteristics of Nebbiolo
 

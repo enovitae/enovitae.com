@@ -5,7 +5,7 @@ author: "Enovitae Staff"
 published: 2026-11-05
 tags: ["tuscan red wine", "tuscany", "docg", "sangiovese", "chianti", "brunello", "bolgheri"]
 url: https://enovitae.com/en/academy/tuscan-red-wines
-cover_image: https://enovitae.com/_astro/cantina-botti.BFt4m3M-_ZKqI68.webp
+cover_image: https://enovitae.com/_astro/20261105-vini-rossi-toscani.CNsyD4r5_Z1oWU6L.webp
 source: Enovitae.com
 ---
 

@@ -5,7 +5,7 @@ author: "Enovitae Staff"
 published: 2026-11-09
 tags: ["rosso di montalcino", "brunello di montalcino", "montalcino", "sangiovese", "toscana", "comparazioni"]
 url: https://enovitae.com/it/comparazioni/rosso-di-montalcino-vs-brunello
-cover_image: https://enovitae.com/_astro/cantina-botti.BFt4m3M-_ZKqI68.webp
+cover_image: https://enovitae.com/_astro/20261109-rosso-di-montalcino-vs-brunello.DiYZ_jun_4CltW.webp
 source: Enovitae.com
 ---
 

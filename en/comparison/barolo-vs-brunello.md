@@ -39,7 +39,7 @@ Sangiovese is the principal grape variety of Tuscany and the heart of famous win
 
 ### Barolo
 
-Barolo is produced in the Piedmont region, specifically in the Langhe hills, where the calcareous soil and variable microclimates contribute to creating ideal conditions for Nebbiolo. Barolo regulations require a minimum aging of 3 years, of which at least 2 years in oak barrels, but many producers choose to age the wine for longer periods, allowing [Barolo](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md) to develop its distinctive complexity and structure.
+Barolo is produced in the Piedmont region, specifically in the Langhe hills, where the calcareous soil and variable microclimates contribute to creating ideal conditions for Nebbiolo, the same grape used in neighbouring Barbaresco (see [Barbaresco vs Barolo](https://enovitae.com/en/comparison/barbaresco-vs-barolo.md)). Barolo regulations require a minimum aging of 3 years, of which at least 2 years in oak barrels, but many producers choose to age the wine for longer periods, allowing [Barolo](https://enovitae.com/en/comparison/barolo-vs-nebbiolo.md) to develop its distinctive complexity and structure.
 
 ### Brunello
 

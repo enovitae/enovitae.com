@@ -27,7 +27,7 @@ Conosciuto come il "Re dei Vini" o il "Vino dei Re", il Barolo è uno dei vini i
 
 ## Nebbiolo: La "Nobile" Uva Piemontese
 
-La varietà di uva Nebbiolo è spesso definita come la "nobile" uva piemontese, poiché è alla base di alcuni dei migliori vini italiani. Oltre al Barolo, è utilizzata per produrre altri grandi vini, tra cui Barbaresco, Gattinara e Ghemme.
+La varietà di uva Nebbiolo è spesso definita come la "nobile" uva piemontese, poiché è alla base di alcuni dei migliori vini italiani. Oltre al Barolo, è utilizzata per produrre altri grandi vini, tra cui [Barbaresco](https://enovitae.com/it/comparazioni/barbaresco-vs-barolo.md), Gattinara e Ghemme.
 
 ### Caratteristiche del Nebbiolo
 

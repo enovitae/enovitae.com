@@ -39,7 +39,7 @@ Il Sangiovese è il vitigno principe della Toscana e il cuore di vini famosi com
 
 ### Barolo
 
-Il Barolo è prodotto nella regione del Piemonte, in particolare nelle colline delle Langhe, dove il terreno calcareo e i microclimi variabili contribuiscono a creare condizioni ideali per il Nebbiolo. Il disciplinare del Barolo richiede un invecchiamento minimo di 3 anni, di cui almeno 2 anni in botti di rovere, ma molti produttori scelgono di invecchiare il vino per periodi più lunghi, permettendo al Barolo di sviluppare la sua complessità e struttura distintive.
+Il Barolo è prodotto nella regione del Piemonte, in particolare nelle colline delle Langhe, dove il terreno calcareo e i microclimi variabili contribuiscono a creare condizioni ideali per il Nebbiolo, lo stesso vitigno del vicino Barbaresco (qui la [differenza tra Barolo e Barbaresco](https://enovitae.com/it/comparazioni/barbaresco-vs-barolo.md)). Il disciplinare del Barolo richiede un invecchiamento minimo di 3 anni, di cui almeno 2 anni in botti di rovere, ma molti produttori scelgono di invecchiare il vino per periodi più lunghi, permettendo al Barolo di sviluppare la sua complessità e struttura distintive.
 
 ### [Brunello](https://enovitae.com/it/accademia/brunello-di-montalcino.md)
 

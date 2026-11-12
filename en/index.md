@@ -43,6 +43,7 @@ source: Enovitae.com
 
 ## Comparisons
 
+- [Barbaresco vs Barolo: what really separates Piedmont's two great Nebbiolo wines](https://enovitae.com/en/comparison/barbaresco-vs-barolo.md) — Barbaresco vs Barolo: same Nebbiolo grape, different rules on area, ageing and alcohol. The two DOCG rulebooks compared side by side, with the numbers. *(2026-11-11)*
 - [Rosso di Montalcino vs Brunello: is Rosso just a younger Brunello?](https://enovitae.com/en/comparison/rosso-di-montalcino-vs-brunello.md) — Rosso di Montalcino vs Brunello: same Sangiovese, same town, different rules on yields, oak and release date. The two rulebooks compared side by side. *(2026-11-09)*
 - [Is Barolo or Brunello Better? Differences between Nebbiolo and Sangiovese](https://enovitae.com/en/comparison/barolo-vs-brunello.md) — Barolo or Brunello? Compare Nebbiolo and Sangiovese, the Langhe and Montalcino terroirs, ageing rules and tasting profiles to pick the right bottle. *(2024-11-10)*
 - [Chianti vs. Chianti Classico: exploring the subtle differences between two great Tuscan wines](https://enovitae.com/en/comparison/chianti-vs-chianti-classico.md) — Chianti and Chianti Classico share a region but not the rules. Compare production zones, grape blends, ageing requirements and taste before you buy. *(2023-11-15)*

@@ -55,7 +55,7 @@ There are two main types of tannin in wine: gallotannins and catechin tannins.
 
 **Gallotannins**: These tannins are considered softer and less astringent than catechin tannins. They are typically present in greater quantities in early-ripening grape varieties and are responsible for a rounder, more supple sensation in certain wines.
 
-**Catechin tannins**: These tannins are more astringent and contribute to a firmer, more structured sensation. They are often associated with full-bodied, age-worthy wines such as Barolo and Bordeaux.
+**Catechin tannins**: These tannins are more astringent and contribute to a firmer, more structured sensation. They are often associated with full-bodied, age-worthy wines such as Barolo and Bordeaux; even with the same grape the tannic grip can vary, as the [Barbaresco vs Barolo comparison](https://enovitae.com/en/comparison/barbaresco-vs-barolo.md) shows.
 
 ## Tannins in white and red wines
 
