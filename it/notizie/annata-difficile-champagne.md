@@ -45,7 +45,7 @@ Il **2026 segna il quarto anno consecutivo di riduzione** ed è la resa più bas
 
 La stagione 2026 è stata segnata da gelate primaverili, un giugno di calore estremo e infine siccità. Nonostante questo — o in parte proprio per questo — il Comité Champagne ha parlato di una qualità **eccezionale**, con un record di maturazione delle uve: un'anomalia per una regione dove la chaptalization è storicamente la norma più che l'eccezione.
 
-È il paradosso ricorrente delle annate difficili: meno uva, ma più concentrata.
+È il paradosso ricorrente delle annate difficili: meno uva, ma più concentrata. Per vedere [come si colloca il 2024 tra le annate dello Champagne](https://enovitae.com/it/accademia/migliori-annate-champagne.md) c'è la nostra tabella dei millesimi.
 
 ## Le spedizioni: il quadro si è stabilizzato
 

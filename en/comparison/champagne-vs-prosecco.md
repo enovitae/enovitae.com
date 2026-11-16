@@ -36,7 +36,7 @@ Prosecco DOC covers a wider stretch of northeastern Italy across the regions of 
 
 ## Aging Requirements: When Time Directly Translates to Cost
 
-French law requires non-vintage Champagne to age for a minimum of 15 months after secondary fermentation, with at least 12 of those months on the lees (the dead yeast cells that add flavour complexity). Vintage Champagnes must age for a minimum of 36 months. Prestige cuvées from houses like Krug or Dom Pérignon often age for six to ten years before release.
+French law requires non-vintage Champagne to age for a minimum of 15 months after secondary fermentation, with at least 12 of those months on the lees (the dead yeast cells that add flavour complexity). Vintage Champagnes must age for a minimum of 36 months; our guide to the [best Champagne vintages](https://enovitae.com/en/academy/best-champagne-vintages.md) shows how critics rate each year. Prestige cuvées from houses like Krug or Dom Pérignon often age for six to ten years before release.
 
 That time costs money. Bottles in storage represent capital tied up in inventory, occupying temperature-controlled cellar space and requiring periodic monitoring. A house producing millions of bottles simultaneously needs enormous facilities to hold its stock through mandatory aging.
 

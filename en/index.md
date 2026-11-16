@@ -12,6 +12,7 @@ source: Enovitae.com
 
 ## Academy
 
+- [The best Champagne vintages: a vintage chart from 1990 to today](https://enovitae.com/en/academy/best-champagne-vintages.md) — The best Champagne vintages: four sources rate every year from 1990 to 2026 side by side, where they agree, where they clash, and what vintage means. *(2026-11-16)*
 - [Tuscan red wine: a guide to the denominations, from Chianti to Brunello and Bolgheri](https://enovitae.com/en/academy/tuscan-red-wines.md) — Tuscan red wine explained: the 10 red DOCGs plus Bolgheri compared by grape, area, ageing and release rules, so you know which bottle fits the occasion. *(2026-11-05)*
 - [The organic wine market in Italy: vineyard area, sales and current data](https://enovitae.com/en/academy/organic-wine-market-italy.md) — Organic wine in Italy: 21% of vineyards are certified organic, yet sales hold at 6.2% of the market. Area, exports, and why the growth phase ended. *(2024-09-18)*
 - [Wine market 2026: global consumption, consumer trends and Italian data](https://enovitae.com/en/academy/italian-wine-market.md) — Wine market 2026: global consumption at its lowest since 1957, Italian sales down 2.8%, and a sector betting on premium wines and diversification. *(2024-09-09)*

@@ -33,6 +33,6 @@ The Chef de Cave must strike a delicate balance between preserving traditions an
 
 ## The legacy of the Chef de Cave
 
-The Chef de Cave works not only for the present but also for the future. Their decisions and expertise will influence the quality of champagnes produced in the years ahead. Decisions such as when to "disgorge" a cuvée or when to introduce a new vintage are choices that shape the legacy of the Chef de Cave and the reputation of the maison.
+The Chef de Cave works not only for the present but also for the future. Their decisions and expertise will influence the quality of champagnes produced in the years ahead. Decisions such as when to "disgorge" a cuvée or when to introduce a new vintage are choices that shape the legacy of the Chef de Cave and the reputation of the maison. How critics rate the years that did become vintages is set out in our [Champagne vintage chart](https://enovitae.com/en/academy/best-champagne-vintages.md).
 
 In conclusion, the Chef de Cave is the beating heart behind champagne's bubbles. Through dedication, knowledge and artistry, they create works that delight the senses and celebrate enological tradition. A true cellar master, always in pursuit of excellence and perfection in every bubble.

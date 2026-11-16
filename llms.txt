@@ -11,6 +11,7 @@
 
 ### Academy
 
+- [Le migliori annate dello Champagne: la tabella dei millesimi dal 1990 a oggi](https://enovitae.com/it/accademia/migliori-annate-champagne.txt): Migliori annate Champagne: i voti di quattro fonti dal 1990 al 2026 in una tabella, dove concordano e dove no, e cosa vuol dire millesimato in etichetta.
 - [Vini rossi toscani: nomi, denominazioni e differenze da conoscere](https://enovitae.com/it/accademia/vini-rossi-toscani.txt): Vini rossi toscani: le 10 DOCG rosse e Bolgheri a confronto, con vitigni, zone, invecchiamento e regole dei consorzi per scegliere quello giusto.
 - [Il mercato del vino biologico in Italia: superfici, vendite e dati aggiornati](https://enovitae.com/it/accademia/mercato-vino-biologico-italia.txt): Vino biologico in Italia: il 21% dei vigneti è certificato bio, ma le vendite restano al 6,2% del mercato. Superfici, export e perché la crescita si è fermata.
 - [Mercato del vino 2026: consumi globali, preferenze e dati italiani](https://enovitae.com/it/accademia/mercato-vino-italia.txt): Mercato del vino 2026: consumi mondiali ai minimi dal 1957, vendite italiane in calo del 2,8% e un settore che punta su premium e diversificazione.
@@ -73,6 +74,7 @@
 
 ### Academy
 
+- [The best Champagne vintages: a vintage chart from 1990 to today](https://enovitae.com/en/academy/best-champagne-vintages.txt): The best Champagne vintages: four sources rate every year from 1990 to 2026 side by side, where they agree, where they clash, and what vintage means.
 - [Tuscan red wine: a guide to the denominations, from Chianti to Brunello and Bolgheri](https://enovitae.com/en/academy/tuscan-red-wines.txt): Tuscan red wine explained: the 10 red DOCGs plus Bolgheri compared by grape, area, ageing and release rules, so you know which bottle fits the occasion.
 - [The organic wine market in Italy: vineyard area, sales and current data](https://enovitae.com/en/academy/organic-wine-market-italy.txt): Organic wine in Italy: 21% of vineyards are certified organic, yet sales hold at 6.2% of the market. Area, exports, and why the growth phase ended.
 - [Wine market 2026: global consumption, consumer trends and Italian data](https://enovitae.com/en/academy/italian-wine-market.txt): Wine market 2026: global consumption at its lowest since 1957, Italian sales down 2.8%, and a sector betting on premium wines and diversification.

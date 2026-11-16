@@ -12,6 +12,7 @@ source: Enovitae.com
 
 ## Academy
 
+- [Le migliori annate dello Champagne: la tabella dei millesimi dal 1990 a oggi](https://enovitae.com/it/accademia/migliori-annate-champagne.md) — Migliori annate Champagne: i voti di quattro fonti dal 1990 al 2026 in una tabella, dove concordano e dove no, e cosa vuol dire millesimato in etichetta. *(2026-11-16)*
 - [Vini rossi toscani: nomi, denominazioni e differenze da conoscere](https://enovitae.com/it/accademia/vini-rossi-toscani.md) — Vini rossi toscani: le 10 DOCG rosse e Bolgheri a confronto, con vitigni, zone, invecchiamento e regole dei consorzi per scegliere quello giusto. *(2026-11-05)*
 - [Il mercato del vino biologico in Italia: superfici, vendite e dati aggiornati](https://enovitae.com/it/accademia/mercato-vino-biologico-italia.md) — Vino biologico in Italia: il 21% dei vigneti è certificato bio, ma le vendite restano al 6,2% del mercato. Superfici, export e perché la crescita si è fermata. *(2024-09-18)*
 - [Mercato del vino 2026: consumi globali, preferenze e dati italiani](https://enovitae.com/it/accademia/mercato-vino-italia.md) — Mercato del vino 2026: consumi mondiali ai minimi dal 1957, vendite italiane in calo del 2,8% e un settore che punta su premium e diversificazione. *(2024-09-09)*

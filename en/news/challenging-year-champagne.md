@@ -45,7 +45,7 @@ The interesting part is what 2024 set in motion. The reduction in yields was not
 
 The 2026 season was marked by spring frosts, extreme heat in June and finally drought. Despite that — and partly because of it — the Comité Champagne described quality as **exceptional**, with a record for grape ripeness: an anomaly in a region where chaptalisation has historically been the rule rather than the exception.
 
-It is the recurring paradox of difficult vintages: less fruit, but more concentrated.
+It is the recurring paradox of difficult vintages: less fruit, but more concentrated. For [how 2024 compares with other Champagne vintages](https://enovitae.com/en/academy/best-champagne-vintages.md), see our vintage chart.
 
 ## Shipments: the picture has stabilised
 
