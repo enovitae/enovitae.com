@@ -22,7 +22,7 @@ source: Enovitae.com
 - [Sugar in wine: sweetness and complexity in the glass](https://enovitae.com/en/academy/sugar-in-wine.md) — Sugar in wine shapes complexity, sweetness, and structure. Discover its role in winemaking and how it determines the sensory profile of each wine style. *(2024-01-24)*
 - [How Wine Influencers Are Reshaping Tastes and Wine Sales](https://enovitae.com/en/academy/wine-influencers.md) — Wine influencers are reshaping trends and marketing in the wine industry. Discover how they shape consumer preferences and connect brands with new audiences. *(2024-01-24)*
 - [Brunello di Montalcino: The excellence of Sangiovese in a bottle](https://enovitae.com/en/academy/brunello-di-montalcino.md) — Brunello di Montalcino: history, production, aging stages and food pairings. Everything about the great Tuscan red, one of Italy's most treasured wines. *(2023-09-13)*
-- [How to Store Wine Properly: 5 Rules to Preserve Quality](https://enovitae.com/en/academy/how-to-store-wine.md) — Proper wine storage preserves quality, flavour and complexity over time. Discover the 5 key rules — from bottle position to temperature, light and humidity. *(2023-09-13)*
+- [How to Store Wine Properly: 5 Rules to Preserve Quality](https://enovitae.com/en/academy/how-to-store-wine.md) — Store wine at home the right way: ideal temperature, humidity, light and bottle position, plus how long it keeps. Five simple rules to protect every bottle. *(2023-09-13)*
 - [Tannins in wine: a guide to structure, astringency and complexity](https://enovitae.com/en/academy/wine-tannins.md) — What are tannins in wine? Discover their definition, role in winemaking, effect on astringency, and why they matter for aging potential and food pairing. *(2023-09-13)*
 
 ## Guides

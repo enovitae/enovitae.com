@@ -1,6 +1,6 @@
 ---
 title: "How to Store Wine Properly: 5 Rules to Preserve Quality"
-description: "Proper wine storage preserves quality, flavour and complexity over time. Discover the 5 key rules — from bottle position to temperature, light and humidity."
+description: "Store wine at home the right way: ideal temperature, humidity, light and bottle position, plus how long it keeps. Five simple rules to protect every bottle."
 author: "Enovitae Staff"
 published: 2023-09-13
 tags: ["wine storage", "conservation"]
@@ -65,6 +65,37 @@ How long you intend to [store](https://enovitae.com/en/academy/how-to-store-wine
 - Pro — Allows you to experience the evolution and complexity of aged wines.
 - Con — Requires careful bottle selection and proper [storage](https://enovitae.com/en/academy/how-to-store-wine.md) conditions.
 
+## Wine storage FAQ
+
+### What is the best temperature to store wine at home?
+
+Around 13°C is the figure usually given for long-term storage. For short to mid-term storage, Which?, the UK consumer organisation, considers anything between 7°C and 18°C acceptable, and warns of problems if the spot is at risk of rising above 20°C. Steadiness matters as much as the number: avoid places near radiators or in the kitchen, and look for a dark cupboard instead.
+
+### What humidity does wine need?
+
+Specialists recommend 50–80% humidity, with 70% seen as the sweet spot. Too little dries out the cork, while damp conditions can encourage mould and spoil labels. Most homes already fall within that range, so there is no need to obsess over it.
+
+### Should wine be stored upright or on its side?
+
+For bottles with a natural cork, on their side, especially for long-term storage: it keeps the cork moist so it does not dry out and let air in. Upright is fine for a few weeks, and screw caps and synthetic corks need no special positioning.
+
+### Can I store wine in the fridge?
+
+For a few days or weeks, yes. Not for the long term: a fridge sits at 0–5°C, which is too cold for wine, and its dry air can compromise the cork after a few months. Food odours and compressor vibration are further drawbacks. If you want a proper cool spot, see our guide to [choosing a wine fridge](https://enovitae.com/en/guide/buy-perfect-wine-fridge.md).
+
+### How long does opened wine last?
+
+As a rough guide, Coravin, a wine-preservation brand, puts red at 3–6 days, white and rosé at 2–4 days and sparkling at 3–12 hours. Our guide on [how to reseal wine](https://enovitae.com/en/guide/how-to-reseal-wine.md) explains the options.
+
+### Does light damage wine?
+
+Yes. Keep bottles in the dark: sunlight can change the flavour for the worse, and white wine is particularly susceptible because it is bottled in clearer glass. Coravin adds that even dark green or brown bottles are not fully UV-proof.
+
 ## Conclusions
 
 Wine storage is a delicate art, but by following a few simple rules, it is possible to preserve the quality and flavour of wine over time. The choice between upright or on-its-side storage, temperature, light and humidity management, horizontal or vertical positioning, and storage duration will all depend on the type of wine and personal preferences. Experimenting and learning which solutions work best for your bottles can enrich the wine experience and ensure many pleasurable moments of tasting.
+
+## Sources
+
+- _Five top tips for storing wine at home_ - [_Which?_](https://www.which.co.uk/news/2020/06/five-top-tips-for-storing-wine-at-home/), 26 June 2020
+- _How to Store Wine Properly: The Complete Guide for Wine Lovers_ - [_Coravin_](https://www.coravin.com/blogs/community/how-to-store-wine), 3 May 2025

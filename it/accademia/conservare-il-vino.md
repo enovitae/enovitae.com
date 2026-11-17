@@ -65,6 +65,37 @@ La durata della conservazione è un aspetto cruciale da considerare. Non tutti i
 - Pro - Permette di sperimentare l'evoluzione e la complessità dei vini invecchiati.
 - Contro - Richiede un'attenta scelta delle bottiglie e delle condizioni di conservazione.
 
+## Conservare il vino: domande frequenti
+
+### Qual è la temperatura migliore per conservare il vino in casa?
+
+Per la conservazione a lungo termine si indica di solito una temperatura intorno ai 13°C. Per periodi brevi o medi, l'associazione dei consumatori britannica Which? considera accettabile qualsiasi valore tra 7°C e 18°C e avverte che si rischiano problemi se il luogo può superare i 20°C. Conta quanto il numero la stabilità: meglio evitare i punti vicini ai termosifoni o in cucina e scegliere un armadio buio.
+
+### Che umidità serve al vino?
+
+Gli specialisti consigliano un'umidità tra il 50% e l'80%, con il 70% considerato il valore ideale. Troppo poca asciuga il tappo, mentre un ambiente umido può favorire muffe e rovinare le etichette. La maggior parte delle case rientra già in questo intervallo, quindi non serve ossessionarsi.
+
+### La bottiglia va tenuta in piedi o sdraiata?
+
+Se il tappo è di sughero naturale, sdraiata, soprattutto per periodi lunghi: così il tappo resta umido e non si asciuga lasciando entrare aria. In piedi va bene per qualche settimana, e i tappi a vite o sintetici non richiedono accorgimenti particolari.
+
+### Si può conservare il vino in frigorifero?
+
+Per qualche giorno o settimana sì. Per lungo tempo no: il frigorifero sta tra 0°C e 5°C, troppo freddo per il vino, e l'aria secca può compromettere il tappo dopo alcuni mesi. Si aggiungono gli odori del cibo e le vibrazioni del compressore. Se cerchi un luogo fresco adatto, leggi la nostra guida alla [scelta della cantinetta](https://enovitae.com/it/guide/cantinetta-vino.md).
+
+### Quanto dura il vino dopo l'apertura?
+
+Come indicazione di massima, Coravin, marchio di sistemi per la conservazione del vino, indica 3-6 giorni per il rosso, 2-4 giorni per bianco e rosato e 3-12 ore per gli spumanti. Nella guida su come [tappare il vino dopo l'apertura](https://enovitae.com/it/guide/tappare-vino-dopo-apertura.md) trovi le soluzioni possibili.
+
+### La luce rovina il vino?
+
+Sì. Le bottiglie vanno tenute al buio: il sole può peggiorare il sapore e il vino bianco è particolarmente sensibile perché è imbottigliato in vetro più chiaro. Coravin aggiunge che nemmeno le bottiglie verdi scure o marroni bloccano del tutto i raggi UV.
+
 ## Conclusioni
 
 La conservazione del vino è un'arte delicata, ma seguendo alcune semplici regole, è possibile preservare la qualità e il sapore del vino nel tempo. La scelta tra conservazione in piedi o sdraiata, la temperatura di conservazione, la luce e l'umidità, la posizione orizzontale o verticale e la durata della conservazione dipenderanno dal tipo di vino e dalle preferenze personali. Sperimentare e apprendere quali soluzioni funzionano meglio per le proprie bottiglie di vino può arricchire l'esperienza enologica e garantire piacevoli momenti di degustazione.
+
+## Fonti
+
+- _Five top tips for storing wine at home_ - [_Which?_](https://www.which.co.uk/news/2020/06/five-top-tips-for-storing-wine-at-home/), 26 giugno 2020
+- _How to Store Wine Properly: The Complete Guide for Wine Lovers_ - [_Coravin_](https://www.coravin.com/blogs/community/how-to-store-wine), 3 maggio 2025
