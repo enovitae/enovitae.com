@@ -55,7 +55,7 @@ Premium holds up better, but it no longer grows. That is a substantive differenc
 
 ## The Italian market: production, exports and domestic consumption
 
-Italy confirms its position as the **world's largest producer with 44.4 million hectolitres**, 19.7% of the global total, slightly up on 2024 (+0.7%).
+Italy confirms its position as the **world's largest producer with 44.4 million hectolitres**, 19.7% of the global total, slightly up on 2024 (+0.7%). For the following vintage, see the [OIV first estimates of world wine production in 2026](https://enovitae.com/en/news/world-wine-production-2026-oiv-estimates.md).
 
 The domestic figure tells a different story: **national consumption fell 9.4%**, from 38 litres per capita per year in 2022 to 35.6 litres in 2025. Italy is producing at a high and drinking at a low.
 

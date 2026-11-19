@@ -1,0 +1,113 @@
+---
+title: "Produzione mondiale di vino 2026: le stime OIV e perché l'Italia resta prima con meno vino"
+description: "Produzione mondiale vino 2026: 225 milioni di ettolitri per l'OIV, Italia prima a 41 (-8%). Classifica dei Paesi e cosa cambia per i prezzi."
+author: "Enovitae Staff"
+published: 2026-11-19
+tags: ["produzione vino", "oiv", "vendemmia 2026", "mercato del vino", "italia", "statistica"]
+url: https://enovitae.com/it/notizie/produzione-mondiale-vino-2026-stime-oiv
+cover_image: https://enovitae.com/_astro/20261119-produzione-mondiale-vino-2026-stime-oiv.C7olEHLF_Zv5WLC.webp
+source: Enovitae.com
+---
+
+Il 18 novembre 2026 l'OIV, l'Organizzazione Internazionale della Vigna e del Vino, ha pubblicato le prime stime sulla vendemmia dell'anno. Nel mondo si sarebbero prodotti tra 220 e 230 milioni di ettolitri di vino, con un valore centrale di 225 milioni. Se il dato sarà confermato, il 2026 sarà il quarto anno consecutivo sotto la media.
+
+L'Italia resta il primo produttore al mondo con 41,0 milioni di ettolitri, l'8% in meno del 2025. È la seconda vendemmia più piccola dal 2000. Eppure, per chi compra vino in Italia, la notizia non è la scarsità: a maggio 2026 le giacenze di vino e mosti nelle cantine italiane erano le più alte dal 2022, e da gennaio a maggio i prezzi dello sfuso sono scesi.
+
+> **In sintesi**
+>
+> - Secondo l'OIV la produzione mondiale di vino 2026 è stimata in 225 milioni di ettolitri, lo 0,4% in meno del 2025 e circa il 7% sotto la media degli ultimi cinque anni.
+> - L'Italia è prima con 41,0 milioni di ettolitri (-8%), davanti a Francia (36,5) e Spagna (32,6); gli Stati Uniti sono quarti con 19,0.
+> - Per l'Italia è la seconda vendemmia più scarsa dal 2000, appena il 7% sopra il minimo del 2023, frenata da caldo e siccità.
+> - A maggio 2026 le giacenze italiane di vino e mosti superavano i 53 milioni di ettolitri (+7,3%, dati UIV): una vendemmia corta riduce l'eccedenza, non crea carenza.
+
+## Quanto vino si è prodotto nel mondo nel 2026?
+
+Il rapporto OIV _World Wine Production Outlook_ stima la produzione mondiale tra 220 e 230 milioni di ettolitri (un ettolitro sono 100 litri). Il valore centrale, 225 milioni, è circa lo 0,4% sotto il 2025 e circa il 7% sotto la media quinquennale. L'OIV lo descrive come un livello vicino a quelli del 2024 e del 2025, dentro un periodo di produzione bassa che dura da quattro anni.
+
+Il comunicato stampa dell'OIV indica un calo di circa l'1% sul 2025 (stimato a 227 milioni); il rapporto completo indica -0,4%. Qui usiamo il dato del rapporto. In entrambi i casi il 2026 è in linea con le ultime due annate, non un crollo improvviso.
+
+La stima si basa sui dati di 29 Paesi che insieme valgono circa il 95% della produzione mondiale. Per gli altri l'OIV ha stimato i volumi partendo dal 2025. I numeri sono preliminari e saranno rivisti nella primavera del 2027.
+
+L'Unione Europea pesa per il 61% del totale, con circa 137 milioni di ettolitri: +1% sul 2025 e circa il 6% sotto la media. Secondo l'OIV le vendemmie europee 2024, 2025 e 2026 sono le tre più piccole del XXI secolo.
+
+## La classifica dei Paesi produttori di vino nel 2026
+
+L'ordine dei primi quattro non cambia: Italia, Francia, Spagna, Stati Uniti. La novità è il Sudafrica, che con la vendemmia più abbondante da dieci anni supera Argentina e Australia e diventa quinto produttore al mondo.
+
+| Paese        | 2026 (milioni di hl) | vs 2025 | vs media 5 anni |
+| ------------ | -------------------- | ------- | --------------- |
+| Italia       | 41,0                 | -8%     | -10%            |
+| Francia      | 36,5                 | +2%     | -10%            |
+| Spagna       | 32,6                 | +13%    | +2%             |
+| Stati Uniti  | 19,0                 | -5%     | -18%            |
+| Sudafrica    | 11,3                 | +10%    | +14%            |
+| Argentina    | 9,7                  | -10%    | -11%            |
+| Cile         | 9,5                  | +13%    | -13%            |
+| Australia    | 9,1                  | -19%    | -23%            |
+| Germania     | 8,0                  | +6%     | -3%             |
+| Portogallo   | 6,7                  | +12%    | -4%             |
+
+_Fonte: OIV, prime stime 2026. Mancano i dati della Cina, che l'OIV attende per la prima metà del 2027._
+
+Negli Stati Uniti è il terzo anno consecutivo di produzione bassa. In California, dove si concentra la produzione americana, una primavera calda ha anticipato lo sviluppo della vite e poi pioggia e vento hanno disturbato la fioritura; hanno pesato anche le scelte di acquisto e di raccolta delle uve. È lo stesso quadro della [crisi del vino californiano tra sovrapproduzione ed estirpi](https://enovitae.com/it/notizie/crisi-vino-california-2025-sovrapproduzione-collasso.md).
+
+L'emisfero sud nel complesso produce circa 47 milioni di ettolitri, il 21% del totale mondiale, in calo del 3%. L'Australia perde il 19% per siccità, gelate tardive e ondate di calore, ma secondo l'OIV hanno contato anche le scelte di mercato dei produttori.
+
+Primato nei volumi non significa primato nei ricavi. Secondo i dati OIV sul 2025 riportati da Italia a Tavola, la Francia resta il primo esportatore per valore con 11,2 miliardi di euro, contro i 7,8 dell'Italia, che pure esporta più ettolitri.
+
+## Italia: 41 milioni di ettolitri, la seconda vendemmia più piccola dal 2000
+
+Nella tabella dell'OIV la serie italiana degli ultimi sei anni è questa:
+
+| Anno           | Produzione (milioni di hl) |
+| -------------- | -------------------------- |
+| 2021           | 50,2                       |
+| 2022           | 49,8                       |
+| 2023           | 38,3                       |
+| 2024           | 44,1                       |
+| 2025 (provv.)  | 44,4                       |
+| 2026 (prelim.) | 41,0                       |
+
+Il 2026 perde 3,4 milioni di ettolitri sul 2025 e sta il 10% sotto la media quinquennale di 45,4 milioni. Fa peggio solo il 2023, che resta il minimo dal 2000: la vendemmia di quest'anno lo supera appena del 7%.
+
+La causa principale è il clima. L'OIV scrive che caldo estivo e siccità prolungata hanno accelerato la maturazione e portato una vendemmia insolitamente precoce, limitando le rese. In una nota il rapporto riporta che la temperatura media di giugno-agosto 2026 in Italia ha superato di 2,8 °C la media 1991-2020, secondo il Servizio meteorologico dell'Aeronautica Militare. È un esempio concreto di quanto descritto nella pagina su [cambiamento climatico e vino](https://enovitae.com/it/accademia/cambiamento-climatico-e-vino.md).
+
+Il dato OIV è anche il primo numero nazionale sulla vendemmia 2026. A luglio Assoenologi e Unione Italiana Vini avevano rinunciato alla consueta conferenza di previsione organizzata con ISMEA, spiegando che con un meteo così instabile le stime anticipate potevano cambiare bruscamente.
+
+## Perché si produce meno vino?
+
+L'OIV indica due forze che agiscono insieme. La prima è stagionale: l'Europa occidentale ha vissuto nel 2026 l'estate più calda mai registrata, con temperature di giugno-agosto 2,54 °C sopra la media 1991-2020 secondo Copernicus. A questo si sono aggiunte gelate primaverili in diversi Paesi e grandine locale, per esempio in Grecia e a Mendoza in Argentina.
+
+La seconda è strutturale. Secondo l'OIV la superficie vitata mondiale è scesa di circa il 4,8% dal 2020, un adattamento a consumi che cambiano. WineNews ricorda che negli ultimi anni sono state estirpate decine di migliaia di ettari di vigneto in Paesi come Francia, Stati Uniti e Australia.
+
+Sullo sfondo c'è il calo dei consumi mondiali, che l'OIV cita esplicitamente tra i fattori del quadro. I numeri sulla domanda sono raccolti nella pagina sul [mercato del vino in Italia e nel mondo](https://enovitae.com/it/accademia/mercato-vino-italia.md).
+
+## Meno vino significa prezzi più alti?
+
+Per il vino italiano di tutti i giorni, i dati disponibili dicono di no. Il problema del settore quest'estate non era la mancanza di vino, ma l'eccesso.
+
+Secondo l'Osservatorio UIV, a maggio 2026 le giacenze di vino e mosti nelle cantine italiane superavano i 53 milioni di ettolitri, il 7,3% in più di un anno prima e il livello più alto dal 2022. Da gennaio a maggio i prezzi dello sfuso, cioè il vino venduto in cisterna tra cantine e imbottigliatori, sono scesi: -6% per i DOP, -7% per gli IGP e -14,4% per i vini comuni, scesi a 54 centesimi al litro.
+
+Il presidente di UIV, Lamberto Frescobaldi, a luglio era stato netto: "anche una vendemmia da 44 milioni di ettolitri non è più sostenibile". Già a febbraio aveva detto che il settore non può più permettersi vendemmie in linea con la media decennale di 47,5 milioni. Secondo l'UIV, riportata da Open, la soglia sostenibile per il mercato attuale sarebbe tra 35 e 38 milioni di ettolitri.
+
+Con 41 milioni l'Italia resta sopra quella soglia. Una vendemmia corta assorbe quindi una parte dell'eccedenza, ma non basta a creare carenza. Il discorso vale per il vino quotidiano e lo sfuso, non necessariamente per tutte le denominazioni. Per un caso con dinamiche diverse, vedi l'articolo sull'[annata difficile della Champagne](https://enovitae.com/it/notizie/annata-difficile-champagne.md).
+
+Pesa anche l'export: sempre secondo l'UIV, nel primo trimestre 2026 le esportazioni italiane sono calate del 4% in volume e dell'8,3% in valore. Il contesto americano è ricostruito nell'articolo sui [dazi di Trump sul vino europeo](https://enovitae.com/it/notizie/dazi-trump-vino-europeo.md).
+
+## Cosa aspettarsi nei prossimi mesi
+
+Le stime OIV sono preliminari. Il rapporto indica una possibile revisione ad aprile 2027, il comunicato stampa un aggiornamento a maggio 2027: in entrambi i casi bisognerà aspettare la primavera per il dato consolidato.
+
+Per l'Italia il numero definitivo arriverà dalle dichiarazioni di vendemmia. Assoenologi e UIV si sono augurati che dal prossimo anno le autorità anticipino a metà novembre la dichiarazione ufficiale di vendemmia. Nel frattempo, i segnali da seguire sono tre: l'andamento delle giacenze, i prezzi dello sfuso e l'export. Diranno se una vendemmia da 41 milioni basta a riequilibrare un mercato che a luglio considerava eccessiva anche una da 44.
+
+## Fonti
+
+- _World Wine Production Outlook - First Estimates 2026_ - [_OIV - Organizzazione Internazionale della Vigna e del Vino_](https://www.oiv.int/sites/default/files/documents/OIV_2026_World_Wine_Production_Outlook.pdf), novembre 2026
+- _OIV releases 2026 world wine production first estimates_ - [_OIV_](https://www.oiv.int/press/oiv-releases-2026-world-wine-production-first-estimates), 18 novembre 2026
+- _Vendemmia 2026: produzione mondiale di vino tra 220 e 230 milioni di ettolitri. Le prime stime Oiv_ - [_WineNews_](https://winenews.it/it/vendemmia-2026-produzione-mondiale-di-vino-tra-220-e-230-milioni-di-ettolitri-le-prime-stime-oiv_608161/), 18 novembre 2026
+- _Oiv, produzione mondiale vino 2026 a 225 mln ettolitri: 4° anno sotto media_ - [_WineMag.it_](https://www.winemag.it/oiv-produzione-mondiale-vino-2026-225-milioni-ettolitri-sotto-media/), 18 novembre 2026
+- _Vino: l'Italia resta il primo produttore al mondo, ma quello francese vale di più_ - [_Italia a Tavola_](https://www.italiaatavola.net/wine/2026/11/19/vino-l-italia-resta-il-primo-produttore-al-mondo-ma-i-volumi-calano/122502/), 19 novembre 2026
+- _I gruppi del commercio vinicolo italiano rinunciano alla previsione anticipata della vendemmia quest'anno_ - [_Vinetur_](https://www.vinetur.com/it/20260729105042/italys-wine-trade-groups-will-skip-the-early-harvest-forecast-this-year.html), 29 luglio 2026
+- _Uiv, allarme vino in cantina +7,3% le giacenze in un anno_ - [_Il Giorno_](https://www.ilgiorno.it/economia/ultimaora/uiv-allarme-vino-in-cantina-1dc78d0f), 8 luglio 2026
+- _Vendemmia 2026, il paradosso del vino italiano: scorte record e prezzi in calo_ - [_Alba Romano, Open_](https://www.open.online/2026/08/26/vendemmia-2026-scorte-record-prezzi-in-calo/), 26 agosto 2026
+- _Non basta una vendemmia più bassa del previsto a ridurre i troppi stock di vino in cantina_ - [_Gianluca Atzeni, Gambero Rosso_](https://www.gamberorosso.it/notizie/attualita/vendemmia-2025-dato-definitivo-44-milioni-ettolitri/), 13 febbraio 2026

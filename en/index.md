@@ -54,6 +54,7 @@ source: Enovitae.com
 
 ## News
 
+- [World wine production 2026: the OIV estimates, country by country, and why Italy stays first with less wine](https://enovitae.com/en/news/world-wine-production-2026-oiv-estimates.md) — World wine production 2026: the OIV estimates 225 million hectolitres. Italy stays first at 41 million, France and Spain follow. Full ranking by country. *(2026-11-19)*
 - [California Wine Crisis 2025: Oversupply, Abandoned Vineyards and a Market on the Brink](https://enovitae.com/en/news/california-wine-crisis-2025-oversupply-collapse.md) — California's worst wine crisis in decades: abandoned vineyards, collapsing demand, younger consumers turning away, and a market flooded with unsold grapes. *(2025-11-13)*
 - [Champagne 2025: Prices Skyrocket, Yields Shrink and Bottles Become Rare](https://enovitae.com/en/news/champagne-2025-high-prices-rare-bottles.md) — In 2025 Champagne faces lower yields, rising prices, and fewer bottles. Discover what this difficult vintage means for consumers and the global market. *(2025-08-22)*
 - [US tariffs on European wine: from the 200% threat to the actual 10%](https://enovitae.com/en/news/trump-tariff-european-wine.md) — In 2025 Trump threatened a 200% tariff on European wine. Since July 2026 the effective rate is 10%: what changed, and what is still in play. *(2025-03-21)*

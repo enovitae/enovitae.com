@@ -90,7 +90,7 @@ Jeff Bitter, di Allied Grape Growers, quantifica:
 
 Il 2025 è avviato nella direzione opposta. Senza un taglio drastico della produzione il rischio è concreto: altre chiusure, prezzi dell'uva ancora più bassi, desertificazione agricola, fuga dei giovani dal settore e perdita della leadership statunitense nel vino mondiale.
 
-La California produce 8 bottiglie su 10 del vino americano. Quando si ferma lei, il problema smette di essere locale.
+La California produce 8 bottiglie su 10 del vino americano. Quando si ferma lei, il problema smette di essere locale. Per l'aggiornamento, vedi [il calo della produzione USA nel 2026 secondo l'OIV](https://enovitae.com/it/notizie/produzione-mondiale-vino-2026-stime-oiv.md).
 
 ## Fonti
 

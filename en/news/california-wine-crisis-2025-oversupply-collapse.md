@@ -93,7 +93,7 @@ Jeff Bitter of Allied Grape Growers puts a number on it:
 
 > "We need a harvest of 2.5 million tons or less to rebalance the market."
 
-The 2025 harvest is shaping up to be far bigger than that. Without a drastic correction, more vineyards get pulled out, more businesses close, grape prices fall further, and young consumers keep drifting away from the category. California risks losing a significant part of its wine identity if that correction does not arrive soon.
+The 2025 harvest is shaping up to be far bigger than that. Without a drastic correction, more vineyards get pulled out, more businesses close, grape prices fall further, and young consumers keep drifting away from the category. California risks losing a significant part of its wine identity if that correction does not arrive soon. The OIV's first estimates show that [US wine production fell again in 2026](https://enovitae.com/en/news/world-wine-production-2026-oiv-estimates.md).
 
 ## Sources
 

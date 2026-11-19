@@ -65,6 +65,7 @@ source: Enovitae.com
 
 ## News
 
+- [Produzione mondiale di vino 2026: le stime OIV e perché l'Italia resta prima con meno vino](https://enovitae.com/it/notizie/produzione-mondiale-vino-2026-stime-oiv.md) — Produzione mondiale vino 2026: 225 milioni di ettolitri per l'OIV, Italia prima a 41 (-8%). Classifica dei Paesi e cosa cambia per i prezzi. *(2026-11-19)*
 - [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/notizie/crisi-vino-california-2025-sovrapproduzione-collasso.md) — La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda. *(2025-11-13)*
 - [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/notizie/prezzi-e-resa-champagne-2025-alle-stelle.md) — Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi. *(2025-08-22)*
 - [Dazi USA sul vino europeo: dalla minaccia del 200% al 10% effettivo](https://enovitae.com/it/notizie/dazi-trump-vino-europeo.md) — Nel 2025 Trump minacciò un dazio del 200% sul vino europeo. Da luglio 2026 l'aliquota effettiva è il 10%: cosa è cambiato e cosa resta in gioco. *(2025-03-21)*

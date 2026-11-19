@@ -1,0 +1,111 @@
+---
+title: "World wine production 2026: the OIV estimates, country by country, and why Italy stays first with less wine"
+description: "World wine production 2026: the OIV estimates 225 million hectolitres. Italy stays first at 41 million, France and Spain follow. Full ranking by country."
+author: "Enovitae Staff"
+published: 2026-11-19
+tags: ["wine production", "oiv", "2026 harvest", "wine market", "italy", "statistics"]
+url: https://enovitae.com/en/news/world-wine-production-2026-oiv-estimates
+cover_image: https://enovitae.com/_astro/20261119-produzione-mondiale-vino-2026-stime-oiv.C7olEHLF_Zv5WLC.webp
+source: Enovitae.com
+---
+
+On 18 November 2026 the OIV (the International Organisation of Vine and Wine, the intergovernmental body that compiles global wine statistics) published its first estimates for this year's harvest. World wine production in 2026 is put at between 220 and 230 million hectolitres, with a mid-point of 225 million. If confirmed, it would be the fourth year in a row below the five-year average.
+
+Italy remains the largest wine producer in the world at 41.0 million hectolitres, down 8% on 2025, ahead of France and Spain. For Italy it is the second-smallest harvest since 2000. That does not mean Italian wine is about to run short: in May 2026, stocks of wine and must in Italian cellars were the highest since 2022.
+
+> **In short**
+>
+> - The OIV estimates world wine production in 2026 at 225 million hectolitres, 0.4% below 2025 and around 7% below the five-year average.
+> - Italy is first with 41.0 million hectolitres (-8%), followed by France (36.5), Spain (32.6) and the USA (19.0). South Africa is now fifth.
+> - Italy's 2026 harvest is its second-smallest since 2000, only 7% above the 2023 low, cut by summer heat and drought.
+> - In May 2026 Italian stocks of wine and must topped 53 million hectolitres (+7.3%, UIV data), so a short harvest eases a surplus rather than creating a shortage.
+
+## Which country produces the most wine in 2026?
+
+Italy, for another year. The top four are unchanged from 2025: Italy, France, Spain and the United States. The change lower down is South Africa, which had its largest harvest in a decade and moved past Argentina and Australia into fifth place.
+
+| Country       | 2026 (million hl) | vs 2025 | vs 5-year avg |
+| ------------- | ----------------- | ------- | ------------- |
+| Italy         | 41.0              | -8%     | -10%          |
+| France        | 36.5              | +2%     | -10%          |
+| Spain         | 32.6              | +13%    | +2%           |
+| United States | 19.0              | -5%     | -18%          |
+| South Africa  | 11.3              | +10%    | +14%          |
+| Argentina     | 9.7               | -10%    | -11%          |
+| Chile         | 9.5               | +13%    | -13%          |
+| Australia     | 9.1               | -19%    | -23%          |
+| Germany       | 8.0               | +6%     | -3%           |
+| Portugal      | 6.7               | +12%    | -4%           |
+
+_Source: OIV, first estimates 2026. China is missing: the OIV expects its 2026 figures in the first half of 2027._
+
+For the United States it is a third consecutive low year. In California, a warm early spring advanced vine growth, then rain and strong winds disrupted flowering and fruit set; grape purchasing and harvesting decisions also played a part. It fits the picture of [California's wine oversupply and vineyard removals](https://enovitae.com/en/news/california-wine-crisis-2025-oversupply-collapse.md).
+
+The Southern Hemisphere as a whole produced around 47 million hectolitres, 21% of the world total and 3% less than in 2025. Australia fell 19% after drought, late frost and heatwaves, and the OIV adds that market conditions also seem to have shaped harvesting decisions.
+
+Leading on volume is not the same as leading on value. On OIV data for 2025, reported by Italia a Tavola, France is the top exporter by value at €11.2 billion, against Italy's €7.8 billion, even though Italy ships more hectolitres.
+
+## How much wine did the world produce in 2026?
+
+The OIV's _World Wine Production Outlook_ puts the mid-point at 225 million hectolitres, about 0.4% below 2025 and about 7% below the five-year average. The OIV describes it as close to the levels of 2024 and 2025: a fourth year of persistently low output, not a sudden collapse.
+
+A hectolitre is 100 litres. At 0.75 litres per standard bottle, that is 100 ÷ 0.75, or about 133 bottles. On that arithmetic, 225 million hectolitres comes to roughly 30 billion bottles, and Italy's 41 million to roughly 5.5 billion.
+
+The OIV press release puts the fall at about 1% (against a 2025 figure of 227 million hectolitres); the full report gives -0.4%. This article uses the report's figure; either way, 2026 is in line with the two years before it.
+
+The estimate draws on data from 29 countries that together make up about 95% of world production; the rest is estimated from 2025 volumes. The figures are preliminary and will be revised in spring 2027.
+
+The European Union accounts for 61% of the total, at about 137 million hectolitres: up 1% on 2025 and about 6% below average. According to the OIV, the EU's 2024, 2025 and 2026 vintages are the three smallest of the 21st century.
+
+## Italy wine production in 2026: second-smallest harvest since 2000
+
+Italy's six-year series, from the OIV table:
+
+| Year           | Production (million hl) |
+| -------------- | ----------------------- |
+| 2021           | 50.2                    |
+| 2022           | 49.8                    |
+| 2023           | 38.3                    |
+| 2024           | 44.1                    |
+| 2025 (prov.)   | 44.4                    |
+| 2026 (prelim.) | 41.0                    |
+
+The 2026 harvest is 3.4 million hectolitres down on 2025 and 10% below the five-year average of 45.4 million. Only 2023 was smaller, and this year's crop sits just 7% above it.
+
+The main cause was weather. The OIV reports that summer heat and prolonged drought sped up ripening and brought an unusually early harvest while holding yields down. A footnote in the report gives Italy's June-August 2026 average temperature as 2.8 °C above the 1991-2020 mean, citing the Italian Air Force Meteorological Service.
+
+The OIV figure is also the first national number for Italy's 2026 harvest. In July, the winemakers' association Assoenologi and the trade body Unione Italiana Vini (UIV) dropped the pre-harvest forecast they usually present with ISMEA, the agri-food market institute, saying early estimates could change sharply in such unstable weather.
+
+## Why is global wine production declining?
+
+The OIV points to two forces working together. One is the season: Western Europe had its warmest summer on record in 2026, with June-August temperatures 2.54 °C above the 1991-2020 mean according to Copernicus. Spring frost hit several countries, and hail did local damage, for example in Greece and in Mendoza, Argentina's main wine region.
+
+The other is structural. The OIV says the world's vineyard area has shrunk by around 4.8% since 2020, as the sector adapts to changing consumption. WineNews notes that tens of thousands of hectares of vines have been grubbed up in recent years in countries such as France, the United States and Australia.
+
+Behind both sits falling global wine consumption, which the OIV names as part of the backdrop. The demand figures are in our overview of the [Italian and global wine market](https://enovitae.com/en/academy/italian-wine-market.md).
+
+## Why a smaller harvest won't make Italian wine scarce
+
+For everyday Italian wine, the problem this year was too much wine, not too little. According to the UIV's market observatory, stocks of wine and must in Italian cellars topped 53 million hectolitres in May 2026, up 7.3% on a year earlier and the highest since 2022. Bulk prices (wine sold by the tanker between wineries and bottlers) fell from January to May: -6% for DOP wines, -7% for IGP wines and -14.4% for basic table wine, down to 54 cents a litre. DOP and IGP are the EU's protected designations of origin and geographical indication.
+
+UIV president Lamberto Frescobaldi put it bluntly in July: even a 44-million-hectolitre harvest "is no longer sustainable" (our translation). In February he had said the sector could no longer afford harvests at the ten-year average of 47.5 million. Open reports UIV's view that the sustainable ceiling for today's market is 35 to 38 million hectolitres.
+
+At 41 million, Italy is still above that range. A short harvest absorbs part of the surplus; it does not create scarcity. This applies to everyday and bulk wine, not necessarily to every appellation. For a region with different dynamics, see our piece on [Champagne's falling yields from 2024 to 2026](https://enovitae.com/en/news/challenging-year-champagne.md). Exports are not helping either: UIV data show Italian wine exports down 4% in volume and 8.3% in value in the first quarter of 2026. The US side of that story is in our piece on [Trump's tariffs on European wine](https://enovitae.com/en/news/trump-tariff-european-wine.md).
+
+## What to watch next
+
+These estimates are preliminary. The report says the data may be revised in April 2027 and the press release says the figures will be updated in May 2027, so the consolidated number arrives in spring.
+
+For Italy, the final figure will come from harvest declarations. Assoenologi and UIV have said they hope the authorities will bring the official harvest declaration forward to mid-November from next year. Until then, the signals worth following are stocks, bulk prices and exports. They will show whether a 41-million harvest is enough to rebalance a market that, in July, considered 44 million too many.
+
+## Sources
+
+- _World Wine Production Outlook - First Estimates 2026_ - [_OIV - International Organisation of Vine and Wine_](https://www.oiv.int/sites/default/files/documents/OIV_2026_World_Wine_Production_Outlook.pdf), November 2026
+- _OIV releases 2026 world wine production first estimates_ - [_OIV_](https://www.oiv.int/press/oiv-releases-2026-world-wine-production-first-estimates), 18 November 2026
+- _Vendemmia 2026: produzione mondiale di vino tra 220 e 230 milioni di ettolitri. Le prime stime Oiv_ - [_WineNews_](https://winenews.it/it/vendemmia-2026-produzione-mondiale-di-vino-tra-220-e-230-milioni-di-ettolitri-le-prime-stime-oiv_608161/), 18 November 2026
+- _Oiv, produzione mondiale vino 2026 a 225 mln ettolitri: 4° anno sotto media_ - [_WineMag.it_](https://www.winemag.it/oiv-produzione-mondiale-vino-2026-225-milioni-ettolitri-sotto-media/), 18 November 2026
+- _Vino: l'Italia resta il primo produttore al mondo, ma quello francese vale di più_ - [_Italia a Tavola_](https://www.italiaatavola.net/wine/2026/11/19/vino-l-italia-resta-il-primo-produttore-al-mondo-ma-i-volumi-calano/122502/), 19 November 2026
+- _I gruppi del commercio vinicolo italiano rinunciano alla previsione anticipata della vendemmia quest'anno_ - [_Vinetur_](https://www.vinetur.com/it/20260729105042/italys-wine-trade-groups-will-skip-the-early-harvest-forecast-this-year.html), 29 July 2026
+- _Uiv, allarme vino in cantina +7,3% le giacenze in un anno_ - [_Il Giorno_](https://www.ilgiorno.it/economia/ultimaora/uiv-allarme-vino-in-cantina-1dc78d0f), 8 July 2026
+- _Vendemmia 2026, il paradosso del vino italiano: scorte record e prezzi in calo_ - [_Alba Romano, Open_](https://www.open.online/2026/08/26/vendemmia-2026-scorte-record-prezzi-in-calo/), 26 August 2026
+- _Non basta una vendemmia più bassa del previsto a ridurre i troppi stock di vino in cantina_ - [_Gianluca Atzeni, Gambero Rosso_](https://www.gamberorosso.it/notizie/attualita/vendemmia-2025-dato-definitivo-44-milioni-ettolitri/), 13 February 2026
