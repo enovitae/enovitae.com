@@ -13,7 +13,7 @@ Lo champagne e il prosecco sono entrambi vini frizzanti amati in tutto il mondo,
 
 1. Metodo di produzione
 
-Una delle principali differenze tra lo [champagne](https://enovitae.com/it/accademia/champagne.md) e il prosecco è il metodo di produzione utilizzato per creare le bollicine. Lo champagne è prodotto con il metodo tradizionale, noto come "_méthode champenoise_" o "_méthode traditionnelle_". Questo metodo richiede una doppia fermentazione in bottiglia, che conferisce alle bollicine una qualità più fine e persistente. Questo processo è più laborioso e richiede più tempo rispetto al metodo _Charmat_, utilizzato per il prosecco.
+Una delle principali differenze tra lo [champagne](https://enovitae.com/it/accademia/champagne.md) e il prosecco è il metodo di produzione utilizzato per creare le bollicine. Lo champagne è prodotto con il metodo tradizionale, noto come "_méthode champenoise_" o "_méthode traditionnelle_". Questo metodo richiede una doppia fermentazione in bottiglia, che conferisce alle bollicine una qualità più fine e persistente. Questo processo è più laborioso e richiede più tempo rispetto al metodo _Charmat_, utilizzato per il prosecco. Lo stesso metodo si usa in Italia per il Franciacorta: abbiamo messo a confronto i due disciplinari nell'articolo sulle [differenze tra Franciacorta e Champagne](https://enovitae.com/it/comparazioni/franciacorta-vs-champagne.md).
 
 Il prosecco viene prodotto con il metodo _Charmat_, in cui la seconda fermentazione avviene in grandi serbatoi di acciaio inox. Questo metodo è più rapido ed efficiente, il che si traduce in costi di produzione inferiori rispetto al metodo tradizionale dello champagne.
 

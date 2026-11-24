@@ -36,7 +36,7 @@ L'"**Extra Brut**" è caratterizzato da una bassa quantità di zucchero (0-6 g/L
 ### Brut significato
 
 Lo stile "**Brut**" è il più diffuso, con una leggera dolcezza bilanciata da una nota secca. I disciplinari ammettono da 0 a 12 g/l di zucchero residuo ma è molto comune trovare un dosaggio intorno ai 6/7 g/l.
-È una scelta versatile adatta a molti palati, ideale per le occasioni più varie.
+È una scelta versatile adatta a molti palati, ideale per le occasioni più varie. Alcuni disciplinari lo impongono: il [Franciacorta Satèn, solo brut](https://enovitae.com/it/comparazioni/franciacorta-vs-champagne.md), non ammette altri dosaggi.
 **Abbinamenti**: Perfetto con antipasti a base di pesce e crostacei, formaggi freschi e piatti di pollo o tacchino.
 
 ### Extra Dry (Extra Sec) significato

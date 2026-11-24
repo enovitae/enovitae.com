@@ -55,6 +55,7 @@ source: Enovitae.com
 
 ## Comparisons
 
+- [Franciacorta o Champagne? Le differenze tra i due metodo classico, disciplinari alla mano](https://enovitae.com/it/comparazioni/franciacorta-vs-champagne.md) — Differenza tra Franciacorta e Champagne: stesso metodo classico, regole diverse su uve, mesi sui lieviti, Satèn e dosaggi. I due disciplinari a confronto. *(2026-11-24)*
 - [Barbaresco o Barolo? Le differenze tra i due grandi Nebbiolo delle Langhe](https://enovitae.com/it/comparazioni/barbaresco-vs-barolo.md) — Differenza tra Barolo e Barbaresco: stesso Nebbiolo, regole diverse su zona, invecchiamento e gradazione. I due disciplinari a confronto, con i numeri. *(2026-11-11)*
 - [Rosso di Montalcino o Brunello? Le differenze tra i due Sangiovese di Montalcino](https://enovitae.com/it/comparazioni/rosso-di-montalcino-vs-brunello.md) — Differenza tra Rosso di Montalcino e Brunello: stesso Sangiovese, regole diverse su rese, legno e uscita. I due disciplinari a confronto per scegliere. *(2026-11-09)*
 - [È più buono il Barolo o il Brunello? Le differenze tra Nebbiolo e Sangiovese](https://enovitae.com/it/comparazioni/barolo-vs-brunello.md) — Barolo o Brunello? Nebbiolo contro Sangiovese, i territori delle Langhe e di Montalcino, i disciplinari e il gusto, per scegliere la bottiglia giusta. *(2024-11-10)*

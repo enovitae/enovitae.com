@@ -26,7 +26,7 @@ Per questo un voto da solo dice poco. Qui sotto trovi le quattro classifiche nel
 
 Millesimato (in francese _millésimé_) è lo Champagne che riporta in etichetta l'anno della vendemmia. Secondo l'Union des Maisons de Champagne, l'associazione delle grandi case, è fatto "esclusivamente" con le uve raccolte nell'anno indicato e non contiene vini di riserva. L'anno di vendemmia è comparso per la prima volta su un'etichetta di Champagne nel 1834.
 
-Il Comité Champagne, l'organismo che riunisce viticoltori e maison della regione, aggiunge due precisazioni. La prima: qualsiasi tipo di Champagne, dal blanc de blancs al rosé, può essere millesimato. La seconda: un millesimato resta almeno 36 mesi in cantina prima di uscire, "e spesso molto di più".
+Il Comité Champagne, l'organismo che riunisce viticoltori e maison della regione, aggiunge due precisazioni. La prima: qualsiasi tipo di Champagne, dal blanc de blancs al rosé, può essere millesimato. La seconda: un millesimato resta almeno 36 mesi in cantina prima di uscire, "e spesso molto di più". In Franciacorta le regole sono diverse: le trovi in [Franciacorta millesimato a confronto con lo Champagne](https://enovitae.com/it/comparazioni/franciacorta-vs-champagne.md).
 
 Lo Champagne senza anno, il più diffuso, funziona al contrario. Le maison uniscono i vini della vendemmia appena fatta ai vini di riserva conservati dalle annate precedenti, per ottenere ogni anno lo stesso stile. Il millesimato rinuncia a questa rete di sicurezza: nel bicchiere c'è un solo anno, con i suoi pregi e i suoi limiti.
 

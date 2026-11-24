@@ -44,6 +44,7 @@ source: Enovitae.com
 
 ## Comparisons
 
+- [Franciacorta vs Champagne: is Franciacorta really the Italian Champagne?](https://enovitae.com/en/comparison/franciacorta-vs-champagne.md) — Franciacorta vs Champagne: same traditional method, different rules on grapes, time on the lees, Satèn and dosage. Both rulebooks side by side. *(2026-11-24)*
 - [Barbaresco vs Barolo: what really separates Piedmont's two great Nebbiolo wines](https://enovitae.com/en/comparison/barbaresco-vs-barolo.md) — Barbaresco vs Barolo: same Nebbiolo grape, different rules on area, ageing and alcohol. The two DOCG rulebooks compared side by side, with the numbers. *(2026-11-11)*
 - [Rosso di Montalcino vs Brunello: is Rosso just a younger Brunello?](https://enovitae.com/en/comparison/rosso-di-montalcino-vs-brunello.md) — Rosso di Montalcino vs Brunello: same Sangiovese, same town, different rules on yields, oak and release date. The two rulebooks compared side by side. *(2026-11-09)*
 - [Is Barolo or Brunello Better? Differences between Nebbiolo and Sangiovese](https://enovitae.com/en/comparison/barolo-vs-brunello.md) — Barolo or Brunello? Compare Nebbiolo and Sangiovese, the Langhe and Montalcino terroirs, ageing rules and tasting profiles to pick the right bottle. *(2024-11-10)*

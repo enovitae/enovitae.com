@@ -37,7 +37,7 @@ New Year's Eve is synonymous with celebrations, and no celebration is complete w
 
 #### **Franciacorta Brut Contadi Castaldi - Lombardy, Italy**
 
-- **Why choose it?** Known as Italy’s premium sparkling wine, Franciacorta is made with the traditional method, offering fine bubbles and flavors of almond and citrus.
+- **Why choose it?** Known as Italy’s premium sparkling wine, Franciacorta is made with the traditional method, offering fine bubbles and flavors of almond and citrus. Here is [how Franciacorta differs from Champagne](https://enovitae.com/en/comparison/franciacorta-vs-champagne.md).
 - **Perfect for:** A sophisticated toast at midnight.
 - **Price range:** €15 – €50 per bottle.
 
