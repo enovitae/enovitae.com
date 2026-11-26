@@ -66,6 +66,7 @@ source: Enovitae.com
 
 ## News
 
+- [Vino in calo, Metodo Classico +14%: i numeri delle bollicine italiane nel 2026](https://enovitae.com/it/notizie/metodo-classico-vendite-2026-federvini.md) — Vendite Metodo Classico 2026: in GDO +14% in volume e +9,6% in valore mentre il vino cala. I dati Federvini, il confronto col Prosecco e i dazi USA. *(2026-11-26)*
 - [Produzione mondiale di vino 2026: le stime OIV e perché l'Italia resta prima con meno vino](https://enovitae.com/it/notizie/produzione-mondiale-vino-2026-stime-oiv.md) — Produzione mondiale vino 2026: 225 milioni di ettolitri per l'OIV, Italia prima a 41 (-8%). Classifica dei Paesi e cosa cambia per i prezzi. *(2026-11-19)*
 - [Crisi del vino in California 2025: sovrapproduzione, vigneti abbandonati e mercato vicino al collasso](https://enovitae.com/it/notizie/crisi-vino-california-2025-sovrapproduzione-collasso.md) — La California affronta la peggiore crisi del vino degli ultimi decenni: sovrapproduzione, consumo in calo, vigneti abbandonati e crollo della domanda. *(2025-11-13)*
 - [Champagne 2025: prezzi alle stelle, rese ridotte e bottiglie sempre più rare](https://enovitae.com/it/notizie/prezzi-e-resa-champagne-2025-alle-stelle.md) — Il 2025 segna un anno di svolta per lo Champagne: produzione ridotta, prezzi in crescita e un mercato sempre più elitario. Analisi completa su cosa aspettarsi. *(2025-08-22)*

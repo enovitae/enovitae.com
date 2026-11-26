@@ -11,7 +11,7 @@ source: Enovitae.com
 
 Franciacorta e Champagne si fanno allo stesso modo: sono due metodo classico, cioè vini in cui la seconda fermentazione, quella che crea le bollicine, avviene dentro la bottiglia. Usano anche, in gran parte, le stesse uve: Chardonnay e Pinot nero.
 
-La differenza tra Franciacorta e Champagne sta altrove: nella zona (la provincia di Brescia contro la regione francese della Champagne), nelle regole scritte nei due disciplinari, nei mesi minimi di affinamento, in uno stile che lo Champagne non ha, il Satèn, e soprattutto nelle dimensioni. Per ogni bottiglia di Franciacorta venduta nel 2025 ne sono state spedite circa 14 di Champagne.
+La differenza tra Franciacorta e Champagne sta altrove: nella zona (la provincia di Brescia contro la regione francese della Champagne), nelle regole scritte nei due disciplinari, nei mesi minimi di affinamento, in uno stile che lo Champagne non ha, il Satèn, e soprattutto nelle dimensioni. Per ogni bottiglia di Franciacorta venduta nel 2025 ne sono state spedite circa 14 di Champagne. Per capire [come stanno andando le vendite di Metodo Classico](https://enovitae.com/it/notizie/metodo-classico-vendite-2026-federvini.md) in Italia, ci sono i dati Federvini del 2026.
 
 Qui sotto mettiamo una accanto all'altra le due regole ufficiali: il disciplinare della DOCG Franciacorta (ultima modifica con DM 7 maggio 2024) e la scheda del Comité Champagne sull'AOC. Nessuna classifica di bottiglie: solo cosa cambia, e come tenerne conto quando scegli.
 

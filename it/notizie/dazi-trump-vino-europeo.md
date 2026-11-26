@@ -27,7 +27,7 @@ In pratica si è realizzato il terzo dei tre scenari indicati in fondo a questo 
 
 ### Cosa resta aperto
 
-Il capitolo non è chiuso. L'ufficio del Rappresentante per il Commercio degli Stati Uniti ha in corso indagini in base alla Section 301 su pratiche commerciali e sovracapacità produttiva, i cui esiti possono modificare l'aliquota in entrambe le direzioni. Il settore continua a chiedere un'esclusione per il comparto alcolico, e la finestra negoziale più concreta è attesa dopo la chiusura di quelle istruttorie.
+Il capitolo non è chiuso. L'ufficio del Rappresentante per il Commercio degli Stati Uniti ha in corso indagini in base alla Section 301 su pratiche commerciali e sovracapacità produttiva, i cui esiti possono modificare l'aliquota in entrambe le direzioni. Il settore continua a chiedere un'esclusione per il comparto alcolico, e la finestra negoziale più concreta è attesa dopo la chiusura di quelle istruttorie. I primi esiti sono arrivati con [la proposta di dazi al 15% di novembre 2026](https://enovitae.com/it/notizie/metodo-classico-vendite-2026-federvini.md), che esenta lo Champagne ma non gli spumanti italiani.
 
 Nel frattempo il 10% si somma a un contesto già difficile: come mostrano i dati sul [mercato del vino](https://enovitae.com/it/accademia/mercato-vino-italia.md), nel 2025 l'export dei maggiori produttori italiani verso gli Stati Uniti è calato del **6,3%**, il peggior risultato tra le aree di destinazione.
 

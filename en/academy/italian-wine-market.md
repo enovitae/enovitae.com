@@ -102,7 +102,7 @@ Online is no longer the structurally growing channel of the post-pandemic period
 [Sparkling wines](https://enovitae.com/en/news/champagne-2025-high-prices-rare-bottles.md)
 confirm their position as the most resilient segment, with total sales down **1.5%** against
 **-3.3%** for other wines. It confirms a multi-year trend and, for Italian producers, is the most
-solid competitive asset they have.
+solid competitive asset they have. For the category detail, with Prosecco and Metodo Classico supermarket figures, see [Italy's sparkling wine market in 2026](https://enovitae.com/en/news/italy-sparkling-wine-market-2026.md).
 
 ## Italy's top wine players
 

@@ -11,7 +11,7 @@ source: Enovitae.com
 
 Is Franciacorta like Champagne? In the way it is made, yes. Both are traditional-method sparkling wines: the second fermentation, the one that makes the bubbles, happens inside the bottle. Both also rely mainly on the same grapes, Chardonnay and Pinot Noir.
 
-The differences between Franciacorta and Champagne lie elsewhere. They come from different places (the province of Brescia in Lombardy, northern Italy, versus the Champagne region of France), follow different rulebooks, have different minimum ageing times, and Franciacorta has a style Champagne lacks, Satèn. Above all, they differ in scale: for every bottle of Franciacorta sold in 2025, about 14 bottles of Champagne were shipped.
+The differences between Franciacorta and Champagne lie elsewhere. They come from different places (the province of Brescia in Lombardy, northern Italy, versus the Champagne region of France), follow different rulebooks, have different minimum ageing times, and Franciacorta has a style Champagne lacks, Satèn. Above all, they differ in scale: for every bottle of Franciacorta sold in 2025, about 14 bottles of Champagne were shipped. For Italian market context, see the Federvini figures on [Metodo Classico sales in 2026](https://enovitae.com/en/news/italy-sparkling-wine-market-2026.md).
 
 Below, the two official rulebooks sit side by side: the Franciacorta DOCG production regulations (last amended by ministerial decree on 7 May 2024) and the Comité Champagne's summary of the Champagne appellation rules. No bottle rankings: just what differs, and how to use it when you choose.
 

@@ -97,7 +97,7 @@ L'online non è più il canale in crescita strutturale del post-pandemia: cala, 
 
 ### Prodotti: le bollicine tengono
 
-Gli [spumanti](https://enovitae.com/it/accademia/caratteristiche-champagne.md) si confermano il segmento più resistente, con vendite complessive in calo dell'**1,5%** contro il **-3,3%** degli altri vini. È la conferma di un trend pluriennale e, per i produttori italiani, l'asset competitivo più solido.
+Gli [spumanti](https://enovitae.com/it/accademia/caratteristiche-champagne.md) si confermano il segmento più resistente, con vendite complessive in calo dell'**1,5%** contro il **-3,3%** degli altri vini. È la conferma di un trend pluriennale e, per i produttori italiani, l'asset competitivo più solido. Per il dettaglio per categoria, con Prosecco e Metodo Classico in GDO, vedi [i dati 2026 sul Metodo Classico](https://enovitae.com/it/notizie/metodo-classico-vendite-2026-federvini.md).
 
 ## I top player del vino italiano
 
